@@ -31,6 +31,7 @@
 ### Apps/Websites
 
 - [Matt Stauffer](https://mattstauffer.com/)
+- [Miguel Piedrafita](https://miguelpiedrafita.com/)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
