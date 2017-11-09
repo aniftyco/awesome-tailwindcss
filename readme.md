@@ -10,10 +10,7 @@
   - [Open Source](#open-source)
   - [Apps/Websites](#appswebsites)
 - [Components & Libraries](#components--libraries)
-
-## Demos and Samples
-
-- [Tailwind CSS - Building a Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page/)
+- [Demos & Samples](#demos--samples)
 
 
 ## Resources
@@ -22,9 +19,9 @@
 - [Tailwind Official Repo](https://github.com/tailwindcss/tailwindcss)
 - [Discussion Repo](https://github.com/tailwindcss/discuss)
 - [Webpack Starter Project](https://github.com/tailwindcss/webpack-starter)
-- [Ruby on Rails Example Project](https://github.com/jvanbaarsen/tailwindcss-rails-example)
 - [Gusts - Tailwind CSS Playground](https://gustscss.com/)
 - [Laravel Frontend Preset](https://github.com/laravel-frontend-presets/tailwindcss)
+- [Ruby on Rails Example Project](https://github.com/jvanbaarsen/tailwindcss-rails-example)
 
 
 ## Projects Using Tailwind CSS
@@ -43,6 +40,11 @@
 ## Components & Libraries
 
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
+
+
+## Demos & Samples
+
+- [Tailwind CSS - Building a Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page/)
 
 
 ## Contribute
