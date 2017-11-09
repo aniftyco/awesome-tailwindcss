@@ -18,6 +18,7 @@
 - [Tailwind Official Repo](https://github.com/tailwindcss/tailwindcss)
 - [Discussion Repo](https://github.com/tailwindcss/discuss)
 - [Webpack Starter Project](https://github.com/tailwindcss/webpack-starter)
+- [Ruby on Rails Example Project](https://github.com/jvanbaarsen/tailwindcss-rails-example)
 - [Gusts - Tailwind CSS Playground](https://gustscss.com/)
 - [Laravel Frontend Preset](https://github.com/laravel-frontend-presets/tailwindcss)
 
