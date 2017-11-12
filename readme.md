@@ -28,6 +28,7 @@
 
 ### Open Source
 
+- [Tailwind Jekyll Starter Kit](https://github.com/taylorbryant/tailwind-jekyll)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ### Apps/Websites
