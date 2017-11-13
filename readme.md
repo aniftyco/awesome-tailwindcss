@@ -35,6 +35,7 @@
 
 - [Matt Stauffer](https://mattstauffer.com/)
 - [Miguel Piedrafita](https://miguelpiedrafita.com/)
+- [Webslides](https://slides.zone)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
