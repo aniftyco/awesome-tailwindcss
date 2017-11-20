@@ -38,6 +38,7 @@
 - [Miguel Piedrafita](https://miguelpiedrafita.com/)
 - [Webslides](https://slides.zone)
 - [Lichter.io (Alexander Lichter)](https://lichter.io)
+- [Rias](https://rias.be)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
