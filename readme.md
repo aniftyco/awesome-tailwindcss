@@ -46,6 +46,7 @@
 ## Components & Libraries
 
 - [Convert Bootstrap CSS code to Tailwind CSS code](https://github.com/awssat/tailwindo)
+- [Use TailwindCSS with CSS-in-JS](https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
