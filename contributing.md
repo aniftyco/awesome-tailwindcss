@@ -1,6 +1,6 @@
 # Contributing Guide
 
-Please be sure to follow the [Tailwind CSS Community Guidelines](https://github.com/tailwindcss/tailwindcss/blob/master/.github/COMMUNITY_GUIDELINES.md).
+Please be sure to follow the [Tailwind CSS Community Guidelines](https://github.com/tailwindcss/tailwindcss/blob/master/.github/CODE_OF_CONDUCT.md).
 
 1. Make sure you put things in the right category!
 2. Always add your items to the end of a list. To be fair, the order is first-come-first-serve.
