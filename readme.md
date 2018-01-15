@@ -64,6 +64,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Rebuilding Laravel.io with Tailwind CSS](https://www.youtube.com/watch?v=ZrRRMBaz5Z0)
 - [Rebuilding Coinbase with Tailwind CSS](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - [Codepen](https://codepen.io/adamwathan/pen/RxWrZr)
 - [Creating a modal dialog with Tailwind CSS](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f)
+- [Rebuilding FreshBooks with Tailwind CSS](http://joey.io/rebuilding-freshbooks-with-tailwind-css/)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
