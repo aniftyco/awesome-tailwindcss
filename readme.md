@@ -66,6 +66,13 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Rebuilding Coinbase with Tailwind CSS](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - [Codepen](https://codepen.io/adamwathan/pen/RxWrZr)
 - [Creating a modal dialog with Tailwind CSS](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f)
 - [Rebuilding FreshBooks with Tailwind CSS](http://joey.io/rebuilding-freshbooks-with-tailwind-css/)
+- [Setting Up Tailwind in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project)
+- [How to Build a Vue.js Component With Tailwind in a Laravel Project](https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project)
+- [Building a Todo App With Laravel, Vue.js, and Tailwind CSS Part II](https://nick-basile.com/blog/post/building-a-todo-app-with-laravel-vuejs-and-tailwind-css-part-ii)
+- [Building a Todo App With Laravel, Vue.js, and Tailwind CSS Part III](https://nick-basile.com/blog/post/building-a-todo-app-with-laravel-vuejs-and-tailwind-css-part-iii)
+- [Build a Customizable Vue.js Modal with Tailwind CSS](https://nick-basile.com/blog/post/build-a-customizable-vuejs-modal-with-tailwind-css)
+- [Building a Nav with Tailwind CSS](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css)
+- [How to Style a Form With Tailwind CSS](https://css-tricks.com/style-form-tailwind-css/)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
