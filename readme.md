@@ -48,6 +48,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Oliver Davies](https://www.oliverdavies.uk)
 - [BaseCode](https://basecodefieldguide.com)
 - [Joey Beninghove](https://joey.io)
+- [Stefan Bauer](https://stefanbauer.me)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
@@ -66,6 +67,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Rebuilding Coinbase with Tailwind CSS](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - [Codepen](https://codepen.io/adamwathan/pen/RxWrZr)
 - [Creating a modal dialog with Tailwind CSS](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f)
 - [Rebuilding FreshBooks with Tailwind CSS](http://joey.io/rebuilding-freshbooks-with-tailwind-css/)
+- [PingPing - We build a Login using TailwindCSS](https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss/)
 - [Setting Up Tailwind in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project)
 - [How to Build a Vue.js Component With Tailwind in a Laravel Project](https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project)
 - [Building a Todo App With Laravel, Vue.js, and Tailwind CSS Part II](https://nick-basile.com/blog/post/building-a-todo-app-with-laravel-vuejs-and-tailwind-css-part-ii)
