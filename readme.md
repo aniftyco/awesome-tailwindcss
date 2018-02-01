@@ -71,7 +71,6 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Setting Up Tailwind in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project)
 - [How to Build a Vue.js Component With Tailwind in a Laravel Project](https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project)
 - [Building a Todo App With Laravel, Vue.js, and Tailwind CSS Part II](https://nick-basile.com/blog/post/building-a-todo-app-with-laravel-vuejs-and-tailwind-css-part-ii)
-- [Building a Todo App With Laravel, Vue.js, and Tailwind CSS Part III](https://nick-basile.com/blog/post/building-a-todo-app-with-laravel-vuejs-and-tailwind-css-part-iii)
 - [Build a Customizable Vue.js Modal with Tailwind CSS](https://nick-basile.com/blog/post/build-a-customizable-vuejs-modal-with-tailwind-css)
 - [Building a Nav with Tailwind CSS](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css)
 - [How to Style a Form With Tailwind CSS](https://css-tricks.com/style-form-tailwind-css/)
