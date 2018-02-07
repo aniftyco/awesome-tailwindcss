@@ -73,6 +73,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Build a Customizable Vue.js Modal with Tailwind CSS](https://nick-basile.com/blog/post/build-a-customizable-vuejs-modal-with-tailwind-css)
 - [Building a Nav with Tailwind CSS](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css)
 - [How to Style a Form With Tailwind CSS](https://css-tricks.com/style-form-tailwind-css/)
+- [Building a Photo Gallery With CSS Grid and Tailwind CSS](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
