@@ -49,6 +49,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [BaseCode](https://basecodefieldguide.com)
 - [Joey Beninghove](https://joey.io)
 - [Stefan Bauer](https://stefanbauer.me)
+- [Jim Shannon](https://jimshannon.me)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
@@ -74,6 +75,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Building a Nav with Tailwind CSS](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css)
 - [How to Style a Form With Tailwind CSS](https://css-tricks.com/style-form-tailwind-css/)
 - [Building a Photo Gallery With CSS Grid and Tailwind CSS](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css)
+- [Create a Sticky Footer Using Tailwind CSS](https://jimshannon.me/blog/create-a-sticky-footer-using-tailwind-css)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
