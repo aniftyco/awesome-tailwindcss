@@ -25,6 +25,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Laravel Frontend Preset](https://github.com/laravel-frontend-presets/tailwindcss)
 - [Ruby on Rails Example Project](https://github.com/jvanbaarsen/tailwindcss-rails-example)
 - [Tailwind Components](https://tailwindcomponents.com)
+- [Tailwind Themes](https://www.tailwind-themes.com)
 
 
 ## Projects Using Tailwind CSS
