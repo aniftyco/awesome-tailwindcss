@@ -55,6 +55,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Laravel Spark](https://spark.laravel.com)
 - [Laravel Horizon](https://horizon.laravel.com)
 - [Snaptier](https://snaptier.co)
+- [Milan Chheda](https://milanchheda.com)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
