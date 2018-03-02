@@ -66,6 +66,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Convert Bootstrap CSS code to Tailwind CSS code](https://github.com/awssat/tailwindo)
 - [Use TailwindCSS with CSS-in-JS](https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c)
 - [tails-ui](https://github.com/knipferrc/tails-ui)
+- [Toggle switch](https://github.com/TowelSoftware/tailwindcss-toggle)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
