@@ -35,6 +35,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Tailwind Jekyll Starter Kit](https://github.com/taylorbryant/tailwind-jekyll)
 - [Tailwind Gulp Starket Kit](https://github.com/simonswiss/tailwind-starter)
 - [Tailwind Fiddle](https://tailwind.unravel.eu)
+- [Wordpress Tailwindcss + Google PWA](https://github.com/ri7nz/Mesjid)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ### Apps/Websites
@@ -84,6 +85,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Building a Photo Gallery With CSS Grid and Tailwind CSS](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css)
 - [Create a Sticky Footer Using Tailwind CSS](https://jimshannon.me/blog/create-a-sticky-footer-using-tailwind-css)
 - [Interactive Tailwind + Vue Responsive Navbar](https://codepen.io/joshmanders/pen/PQQBoR)
+- [Wordpress with Tailwindcss + Google PWA](https://alghaffar.suarabaru.com/)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
