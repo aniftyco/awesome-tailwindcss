@@ -88,6 +88,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Create a Sticky Footer Using Tailwind CSS](https://jimshannon.me/blog/create-a-sticky-footer-using-tailwind-css)
 - [Interactive Tailwind + Vue Responsive Navbar](https://codepen.io/joshmanders/pen/PQQBoR)
 - [Wordpress with Tailwindcss + Google PWA](https://alghaffar.suarabaru.com/)
+- [Collection of marketing site templates](https://github.com/colmtuite/tailwind-template)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
