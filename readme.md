@@ -89,6 +89,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Interactive Tailwind + Vue Responsive Navbar](https://codepen.io/joshmanders/pen/PQQBoR)
 - [Wordpress with Tailwindcss + Google PWA](https://alghaffar.suarabaru.com/)
 - [Collection of marketing site templates](https://github.com/colmtuite/tailwind-template)
+- [Plugin Examples (Official)](https://github.com/tailwindcss/plugin-examples)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
