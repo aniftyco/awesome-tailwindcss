@@ -71,6 +71,12 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
+## Plugins
+
+- [Aspect Ratio](https://github.com/webdna/tailwindcss-aspect-ratio)
+- [Fluid](https://github.com/bradlc/tailwindcss-fluid)
+- [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
+
 ## Demos & Samples
 
 - [Tailwind CSS - Building a Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page/)
