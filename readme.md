@@ -12,6 +12,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
   - [Open Source](#open-source)
   - [Apps/Websites](#appswebsites)
 - [Components & Libraries](#components--libraries)
+- [Plugins](#plugins)
 - [Demos & Samples](#demos--samples)
 
 
@@ -70,6 +71,12 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Toggle switch](https://github.com/TowelSoftware/tailwindcss-toggle)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
+
+## Plugins
+
+- [Aspect Ratio](https://github.com/webdna/tailwindcss-aspect-ratio)
+- [Fluid](https://github.com/bradlc/tailwindcss-fluid)
+- [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
 
