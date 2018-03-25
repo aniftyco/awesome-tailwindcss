@@ -38,6 +38,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Tailwind Fiddle](https://tailwind.unravel.eu)
 - [Wordpress Tailwindcss + Google PWA](https://github.com/ri7nz/Mesjid)
 - [Create React Native App Tailwind](https://github.com/taylorbryant/crna-tailwind)
+- [Gatsby Starter Tailwind](https://github.com/taylorbryant/gatsby-starter-tailwind)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ### Apps/Websites
