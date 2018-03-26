@@ -11,6 +11,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Projects Using Tailwind CSS](#projects-using-tailwind-css)
   - [Open Source](#open-source)
   - [Apps/Websites](#appswebsites)
+- [Tools](#tools)
 - [Components & Libraries](#components--libraries)
 - [Plugins](#plugins)
 - [Demos & Samples](#demos--samples)
@@ -63,6 +64,12 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Matheus Lima](https://matheuslima.com.br)
 - [CSS Cursors](https://css-cursors.netlify.com/)
 - [Developmint](https://developmint.de/)
+- [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
+
+
+## Tools
+- [Color shades generator](https://javisperez.github.io/tailwindcolorshades/)
+- [Color palette generator](https://adevade.github.io/color-scheme-generator/)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
