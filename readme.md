@@ -89,6 +89,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Card](https://github.com/NathanHeffley/tailwindcss-card)
 - [Fluid](https://github.com/bradlc/tailwindcss-fluid)
 - [Flexbox Order](https://github.com/035media/tailwindcss-flexbox-order)
+- [Spinner](https://github.com/aniftyco/tailwindcss-spinner)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
