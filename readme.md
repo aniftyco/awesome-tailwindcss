@@ -90,6 +90,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Fluid](https://github.com/bradlc/tailwindcss-fluid)
 - [Flexbox Order](https://github.com/035media/tailwindcss-flexbox-order)
 - [Spinner](https://github.com/aniftyco/tailwindcss-spinner)
+- [Transitions](https://github.com/glhd/tailwindcss-plugins)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
@@ -111,6 +112,8 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Wordpress with Tailwindcss + Google PWA](https://alghaffar.suarabaru.com/)
 - [Collection of marketing site templates](https://github.com/colmtuite/tailwind-template)
 - [Plugin Examples (Official)](https://github.com/tailwindcss/plugin-examples)
+- [Rebuilding Twitter with Tailwind CSS](https://www.youtube.com/watch?v=Pg_5Ni1_bg4) - [CodePen](https://codepen.io/drehimself/full/vpeVMx)
+- [Rebuilding YouTube with Tailwind CSS + plugins](https://www.youtube.com/watch?v=qxQKnqmNKv0)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
