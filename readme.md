@@ -45,6 +45,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 
 ### Apps/Websites
 
+- [NiftyCo](https://anifty.co)
 - [Matt Stauffer](https://mattstauffer.com/)
 - [Miguel Piedrafita](https://miguelpiedrafita.com/)
 - [Webslides](https://slides.zone)
