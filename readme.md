@@ -95,6 +95,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Transitions](https://github.com/glhd/tailwindcss-plugins)
 - [Bootstrap Tables](https://github.com/drehimself/tailwindcss-tables)
 - [Transition](https://github.com/webdna/tailwindcss-transition)
+- [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
