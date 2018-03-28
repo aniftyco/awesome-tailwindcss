@@ -11,6 +11,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Projects Using Tailwind CSS](#projects-using-tailwind-css)
   - [Open Source](#open-source)
   - [Apps/Websites](#appswebsites)
+- [Tools](#tools)
 - [Components & Libraries](#components--libraries)
 - [Plugins](#plugins)
 - [Demos & Samples](#demos--samples)
@@ -37,10 +38,14 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Tailwind Gulp Starket Kit](https://github.com/simonswiss/tailwind-starter)
 - [Tailwind Fiddle](https://tailwind.unravel.eu)
 - [Wordpress Tailwindcss + Google PWA](https://github.com/ri7nz/Mesjid)
+- [Create React Native App Tailwind](https://github.com/taylorbryant/crna-tailwind)
+- [Gatsby Starter Tailwind](https://github.com/taylorbryant/gatsby-starter-tailwind)
+- [Create React App Tailwind](https://github.com/kriswep/cra-tailwindcss)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ### Apps/Websites
 
+- [NiftyCo](https://anifty.co)
 - [Matt Stauffer](https://mattstauffer.com/)
 - [Miguel Piedrafita](https://miguelpiedrafita.com/)
 - [Webslides](https://slides.zone)
@@ -60,6 +65,13 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Milan Chheda](https://milanchheda.com)
 - [Matheus Lima](https://matheuslima.com.br)
 - [CSS Cursors](https://css-cursors.netlify.com/)
+- [Developmint](https://developmint.de/)
+- [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
+
+
+## Tools
+- [Color shades generator](https://javisperez.github.io/tailwindcolorshades/)
+- [Color palette generator](https://adevade.github.io/color-scheme-generator/)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
@@ -76,6 +88,12 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 
 - [Aspect Ratio](https://github.com/webdna/tailwindcss-aspect-ratio)
 - [Fluid](https://github.com/bradlc/tailwindcss-fluid)
+- [Card](https://github.com/NathanHeffley/tailwindcss-card)
+- [Fluid](https://github.com/bradlc/tailwindcss-fluid)
+- [Flexbox Order](https://github.com/035media/tailwindcss-flexbox-order)
+- [Spinner](https://github.com/aniftyco/tailwindcss-spinner)
+- [Transitions](https://github.com/glhd/tailwindcss-plugins)
+- [Bootstrap Tables](https://github.com/drehimself/tailwindcss-tables)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
@@ -97,6 +115,8 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Wordpress with Tailwindcss + Google PWA](https://alghaffar.suarabaru.com/)
 - [Collection of marketing site templates](https://github.com/colmtuite/tailwind-template)
 - [Plugin Examples (Official)](https://github.com/tailwindcss/plugin-examples)
+- [Rebuilding Twitter with Tailwind CSS](https://www.youtube.com/watch?v=Pg_5Ni1_bg4) - [CodePen](https://codepen.io/drehimself/full/vpeVMx)
+- [Rebuilding YouTube with Tailwind CSS + plugins](https://www.youtube.com/watch?v=qxQKnqmNKv0)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
