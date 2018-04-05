@@ -68,7 +68,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [CSS Cursors](https://css-cursors.netlify.com/)
 - [Developmint](https://developmint.de/)
 - [Rational Investment Management](https://rationalim.com)
-- [Stephen Popoola](https://stephenpopoola.uk)]
+- [Stephen Popoola](https://stephenpopoola.uk)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
