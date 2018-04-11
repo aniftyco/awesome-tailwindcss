@@ -73,6 +73,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Stephen Popoola](https://stephenpopoola.uk)
 - [Laraboost](https://laraboost.com)
 - [Vince Mitchell](http://vincemitchell.me/)
+- [Marco Mark](https://www.marcomark.net)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
