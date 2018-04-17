@@ -63,7 +63,6 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Jim Shannon](https://jimshannon.me)
 - [Eyewitness.io](https://eyewitness.io)
 - [Laravel Spark](https://spark.laravel.com)
-- [Laravel Horizon](https://horizon.laravel.com)
 - [Snaptier](https://snaptier.co)
 - [Milan Chheda](https://milanchheda.com)
 - [Matheus Lima](https://matheuslima.com.br)
