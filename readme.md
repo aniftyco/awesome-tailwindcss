@@ -42,6 +42,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Gatsby Starter Tailwind](https://github.com/taylorbryant/gatsby-starter-tailwind)
 - [Create React App Tailwind](https://github.com/kriswep/cra-tailwindcss)
 - [Jaxli - Feature Request System](https://github.com/laraboost/jaxli)
+- [Goodwork - Project Management & Collaboration Tool](https://github.com/iluminar/goodwork)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ### Apps/Websites
@@ -73,6 +74,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Laraboost](https://laraboost.com)
 - [Vince Mitchell](http://vincemitchell.me/)
 - [Marco Mark](https://www.marcomark.net)
+- [Nehal Hasnayeen](https://hasnayeen.github.io)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
