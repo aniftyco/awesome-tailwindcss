@@ -106,6 +106,8 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden)
 - [Writing mode](https://github.com/magicspon/tailwindcss-writing-mode)
 - [Alpha](https://github.com/bradlc/tailwindcss-alpha)
+- [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended)
+- [Blend Mode](https://github.com/hacknug/tailwindcss-blend-mode)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
