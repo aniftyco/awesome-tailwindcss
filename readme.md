@@ -81,6 +81,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 ## Tools
 - [Color shades generator](https://javisperez.github.io/tailwindcolorshades/)
 - [Color palette generator](https://adevade.github.io/color-scheme-generator/)
+- [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
