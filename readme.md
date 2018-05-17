@@ -26,6 +26,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 * [Ruby on Rails Example Project](https://github.com/jvanbaarsen/tailwindcss-rails-example)
 * [Tailwind Components](https://tailwindcomponents.com)
 * [Tailwind Themes](https://www.tailwind-themes.com)
+* [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet)
 
 ## Projects Using Tailwind CSS
 
@@ -39,6 +40,8 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 * [Gatsby Starter Tailwind](https://github.com/taylorbryant/gatsby-starter-tailwind)
 * [Create React App Tailwind](https://github.com/kriswep/cra-tailwindcss)
 * [Jaxli - Feature Request System](https://github.com/laraboost/jaxli)
+* [Goodwork - Project Management & Collaboration Tool](https://github.com/iluminar/goodwork)
+* [Seminyak Hugo Theme](https://github.com/comfusion/seminyak)
 * [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ### Apps/Websites
@@ -60,7 +63,6 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 * [Jim Shannon](https://jimshannon.me)
 * [Eyewitness.io](https://eyewitness.io)
 * [Laravel Spark](https://spark.laravel.com)
-* [Laravel Horizon](https://horizon.laravel.com)
 * [Snaptier](https://snaptier.co)
 * [Milan Chheda](https://milanchheda.com)
 * [Matheus Lima](https://matheuslima.com.br)
@@ -71,6 +73,8 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 * [Laraboost](https://laraboost.com)
 * [Vince Mitchell](http://vincemitchell.me/)
 * [Marco Mark](https://www.marcomark.net)
+* [Nehal Hasnayeen](https://hasnayeen.github.io)
+* [Plowman Craven](https://www.plowmancraven.co.uk)
 * [Our Name is Mud](https://www.ournameismud.co.uk)
 * [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
@@ -78,6 +82,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 
 * [Color shades generator](https://javisperez.github.io/tailwindcolorshades/)
 * [Color palette generator](https://adevade.github.io/color-scheme-generator/)
+* [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f)
 * [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Components & Libraries
@@ -100,6 +105,9 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 * [Transition](https://github.com/webdna/tailwindcss-transition)
 * [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden)
 * [Writing mode](https://github.com/magicspon/tailwindcss-writing-mode)
+* [Alpha](https://github.com/bradlc/tailwindcss-alpha)
+* [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended)
+* [Blend Mode](https://github.com/hacknug/tailwindcss-blend-mode)
 * [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
@@ -123,6 +131,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 * [Plugin Examples (Official)](https://github.com/tailwindcss/plugin-examples)
 * [Rebuilding Twitter with Tailwind CSS](https://www.youtube.com/watch?v=Pg_5Ni1_bg4) - [CodePen](https://codepen.io/drehimself/full/vpeVMx)
 * [Rebuilding YouTube with Tailwind CSS + plugins](https://www.youtube.com/watch?v=qxQKnqmNKv0)
+* [How to Add TailwindCSS to an Ember App](https://eaf4.com/how-to-add-tailwindcss-to-an-ember-app/)
 * [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Contribute
