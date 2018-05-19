@@ -78,6 +78,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Marco Mark](https://www.marcomark.net)
 - [Nehal Hasnayeen](https://hasnayeen.github.io)
 - [Plowman Craven](https://www.plowmancraven.co.uk)
+- [Erik Campobadal](https://erik.cat)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
