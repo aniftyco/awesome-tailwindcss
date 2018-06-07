@@ -82,6 +82,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Our Name is Mud](https://www.ournameismud.co.uk)
 - [BudgetDuo](https://budgetduo.com)
 - [Quickwords](https://quickwords.co)
+- [Ben John Bagley](https://benbagley.co.uk)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
