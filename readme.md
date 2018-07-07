@@ -117,6 +117,9 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Alpha](https://github.com/bradlc/tailwindcss-alpha)
 - [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended)
 - [Blend Mode](https://github.com/hacknug/tailwindcss-blend-mode)
+- [Object Fit](https://github.com/hendrikeng/tailwindcss-object-fit)
+- [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering)
+- [Text Indent](https://github.com/hacknug/tailwindcss-text-indent)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
