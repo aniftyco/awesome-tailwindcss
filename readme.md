@@ -121,6 +121,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering)
 - [Text Indent](https://github.com/hacknug/tailwindcss-text-indent)
 - [Triangle After](https://github.com/chrisrowe/tailwindcss-triangle-after)
+- [CSS Color Vars](https://github.com/n1kk/tailwind-color-vars)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
