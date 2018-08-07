@@ -148,6 +148,8 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Rebuilding Twitter with Tailwind CSS](https://www.youtube.com/watch?v=Pg_5Ni1_bg4) - [CodePen](https://codepen.io/drehimself/full/vpeVMx)
 - [Rebuilding YouTube with Tailwind CSS + plugins](https://www.youtube.com/watch?v=qxQKnqmNKv0)
 - [How to Add TailwindCSS to an Ember App](https://eaf4.com/how-to-add-tailwindcss-to-an-ember-app/)
+- [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
+- [Rebuilding Netlify with Tailwind CSS](https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
