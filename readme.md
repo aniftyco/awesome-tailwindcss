@@ -151,6 +151,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [How to Add TailwindCSS to an Ember App](https://eaf4.com/how-to-add-tailwindcss-to-an-ember-app/)
 - [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
 - [Rebuilding Netlify with Tailwind CSS](https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s)
+- [Rebuilding Resolute](https://www.youtube.com/watch?v=banq3TfAPYk)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
