@@ -124,6 +124,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [CSS Color Vars](https://github.com/n1kk/tailwind-color-vars)
 - [Responsive Embed](https://github.com/drdogbot7/tailwindcss-responsive-embed)
 - [Object Position](https://github.com/hacknug/tailwindcss-object-position)
+- [Accessibility](https://github.com/jack-pallot/tailwindcss-accessibility)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
