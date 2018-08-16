@@ -29,7 +29,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Tailwind Components](https://tailwindcomponents.com)
 - [Tailwind Themes](https://www.tailwind-themes.com)
 - [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet)
-- [Alfred Workflow - Search Tailwind Docs with Alfred] (https://github.com/clnt/alfred-tailwindcss-docs)
+- [Alfred Workflow - Search Tailwind Docs with Alfred](https://github.com/clnt/alfred-tailwindcss-docs)
 
 
 ## Projects Using Tailwind CSS
@@ -85,7 +85,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [BudgetDuo](https://budgetduo.com)
 - [Quickwords](https://quickwords.co)
 - [Ben John Bagley](https://benbagley.co.uk)
-- [The MBR Site](https:/www.thembrsite.com)
+- [The MBR Site](https://www.thembrsite.com)
 - [Natures Finest Pet Supplies Holding Page](https://www.naturesfinestpetsupplies.co.uk)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
