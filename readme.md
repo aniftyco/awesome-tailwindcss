@@ -48,6 +48,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Seminyak Hugo Theme](https://github.com/comfusion/seminyak)
 - [Stitches - Website Generator with Tailwind](https://github.com/amiechen/stitches-template-generator)
 - [Dogpatch - WordPress starter + Webpack, Vue, Babel and Tailwind CSS](https://github.com/jack-pallot/dogpatch)
+- [Adds Tailwind CSS to your Ember app or addon])https://github.com/embermap/ember-cli-tailwind)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ### Apps/Websites
