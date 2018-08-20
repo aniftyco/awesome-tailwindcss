@@ -26,7 +26,7 @@ Official and unofficial resources for getting started with and using the tailwin
 ### Projects Using Tailwind CSS
 #### Open source
 
-Open Source section gives the possibility for developers to contribute and be a part of an opensource project using their knowledge of the Tailwind.
+Open Source section gives the possibility for developers to contribute and be a part of an opensource project using their knowledge of Tailwind.
 You should put your project in this category if the following conditions are true:
 - The documentation (README) contains a description of the project, illustration of the project with a demo or screenshots and a CONTRIBUTING section.
 - The documentation is in English.
