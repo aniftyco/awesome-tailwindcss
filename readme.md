@@ -50,7 +50,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Seminyak Hugo Theme](https://github.com/comfusion/seminyak)
 - [Stitches - Website Generator with Tailwind](https://github.com/amiechen/stitches-template-generator)
 - [Dogpatch - WordPress starter + Webpack, Vue, Babel and Tailwind CSS](https://github.com/jack-pallot/dogpatch)
-- [Sage – a WordPress starter theme with Tailwind preset](https://github.com/roots/sage)
+- [Sage – a WordPress starter theme with a Tailwind preset](https://github.com/roots/sage)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ### Apps/Websites
