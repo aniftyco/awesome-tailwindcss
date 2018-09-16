@@ -91,6 +91,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Ben John Bagley](https://benbagley.co.uk)
 - [The MBR Site](https://www.thembrsite.com)
 - [Natures Finest Pet Supplies Holding Page](https://www.naturesfinestpetsupplies.co.uk)
+- [Peter Fox](https://www.peterfox.me)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
