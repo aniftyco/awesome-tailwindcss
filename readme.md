@@ -144,6 +144,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Filters](https://github.com/benface/tailwindcss-filters)
 - [Important](https://github.com/chasegiunta/tailwindcss-important)
 - [Scrims](https://github.com/brettgullan/tailwindcss-scrims)
+- [Grid](https://github.com/chrisrowe/tailwindcss-grid)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
