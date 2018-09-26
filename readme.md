@@ -172,6 +172,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Rebuilding Netlify with Tailwind CSS](https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s)
 - [Rebuilding Resolute](https://www.youtube.com/watch?v=banq3TfAPYk)
 - [How to setup Tailwind CSS in Sage (WordPress starter theme)](https://roots.io/guides/how-to-setup-tailwind-css-in-sage/)
+- [More experimentation with Tailwind CSS](https://www.youtube.com/watch?v=nBzfVK3QUzM&feature=youtu.be)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
