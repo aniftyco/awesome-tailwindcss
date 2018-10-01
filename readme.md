@@ -4,6 +4,7 @@
 
 Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces.
 
+
 ## Contents
 
 - [Resources](#resources)
@@ -14,6 +15,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Components & Libraries](#components--libraries)
 - [Plugins](#plugins)
 - [Demos & Samples](#demos--samples)
+
 
 ## Resources
 
@@ -30,6 +32,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Alfred Workflow - Search Tailwind Docs with Alfred](https://github.com/clnt/alfred-tailwindcss-docs)
 - [ng-tailwindcss - The happy marriage of Tailwind with Angular CLI](https://github.com/tehpsalmist/ng-tailwindcss)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
+
 
 ## Projects Using Tailwind CSS
 
@@ -91,13 +94,14 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Peter Fox](https://www.peterfox.me)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
-## Tools
 
+## Tools
 - [Color shades generator](https://javisperez.github.io/tailwindcolorshades/)
 - [Color palette generator](https://adevade.github.io/color-scheme-generator/)
 - [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f)
 - [Tailwind CSS IntelliSense for VS Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
+
 
 ## Components & Libraries
 
@@ -106,6 +110,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [tails-ui](https://github.com/knipferrc/tails-ui)
 - [Toggle switch](https://github.com/TowelSoftware/tailwindcss-toggle)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
+
 
 ## Plugins
 
@@ -170,9 +175,11 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [How to setup Tailwind CSS in Sage (WordPress starter theme)](https://roots.io/guides/how-to-setup-tailwind-css-in-sage/)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
 
 ## License
 
