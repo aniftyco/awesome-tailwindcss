@@ -88,7 +88,6 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Our Name is Mud](https://www.ournameismud.co.uk)
 - [BudgetDuo](https://budgetduo.com)
 - [Quickwords](https://quickwords.co)
-- [Ben John Bagley](https://benbagley.co.uk)
 - [The MBR Site](https://www.thembrsite.com)
 - [Natures Finest Pet Supplies Holding Page](https://www.naturesfinestpetsupplies.co.uk)
 - [Peter Fox](https://www.peterfox.me)
@@ -152,7 +151,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 
 - [Tailwind CSS - Building a Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page/)
 - [Rebuilding Laravel.io with Tailwind CSS](https://www.youtube.com/watch?v=ZrRRMBaz5Z0)
-- [Rebuilding Coinbase with Tailwind CSS](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - [Codepen](https://codepen.io/adamwathan/pen/RxWrZr)
+- [Rebuilding Coinbase with Tailwind CSS](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - [Codepen](https://codepen.io/adamwathan/pen/RxWrZr).
 - [Creating a modal dialog with Tailwind CSS](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f)
 - [Rebuilding FreshBooks with Tailwind CSS](http://joey.io/rebuilding-freshbooks-with-tailwind-css/)
 - [PingPing - We build a Login using TailwindCSS](https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss/)
@@ -166,7 +165,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Interactive Tailwind + Vue Responsive Navbar](https://codepen.io/joshmanders/pen/PQQBoR)
 - [Collection of marketing site templates](https://github.com/colmtuite/tailwind-template)
 - [Plugin Examples (Official)](https://github.com/tailwindcss/plugin-examples)
-- [Rebuilding Twitter with Tailwind CSS](https://www.youtube.com/watch?v=Pg_5Ni1_bg4) - [CodePen](https://codepen.io/drehimself/full/vpeVMx)
+- [Rebuilding Twitter with Tailwind CSS](https://www.youtube.com/watch?v=Pg_5Ni1_bg4) - [CodePen](https://codepen.io/drehimself/full/vpeVMx).
 - [Rebuilding YouTube with Tailwind CSS + plugins](https://www.youtube.com/watch?v=qxQKnqmNKv0)
 - [How to Add TailwindCSS to an Ember App](https://eaf4.com/how-to-add-tailwindcss-to-an-ember-app/)
 - [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
