@@ -21,7 +21,7 @@ Make sure you put things in the right category. There are five main categories:
 
 ### Resources
 
-Official and unofficial resources for getting started with and using the tailwindcss framework.
+Official and unofficial resources for getting started with and using the Tailwind CSS framework.
 
 ### Projects Using Tailwind CSS
 #### Open source
@@ -45,12 +45,12 @@ You should put your app/website in this category if the following conditions are
 
 ### Components & Libraries
 
-Components and libraries that extend the tailwindcss framework.
+Components and libraries that extend the Tailwind CSS framework.
 
 ### Plugins
 
-Tailwindcss plugins that use the [official plugin architecture](https://tailwindcss.com/docs/plugins/) to extend the framework.
+Tailwind CSS plugins that use the [official plugin architecture](https://tailwindcss.com/docs/plugins/) to extend the framework.
 
 ### Demos & Samples
 
-Demos, examples and samples of tailwindcss in use.
+Demos, examples and samples of Tailwind CSS in use.

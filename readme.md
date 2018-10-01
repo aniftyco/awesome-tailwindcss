@@ -30,7 +30,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Tailwind Themes](https://www.tailwind-themes.com)
 - [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet)
 - [Alfred Workflow - Search Tailwind Docs with Alfred](https://github.com/clnt/alfred-tailwindcss-docs)
-- [ng-tailwindcss - The happy marriage of Tailwind with Angular CLI](https://github.com/tehpsalmist/ng-tailwindcss)
+- [ng-tailwindcss - The happy marriage of Tailwind CSS with Angular CLI](https://github.com/tehpsalmist/ng-tailwindcss)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
@@ -41,7 +41,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Tailwind Jekyll Starter Kit](https://github.com/taylorbryant/tailwind-jekyll)
 - [Tailwind Gulp Starket Kit](https://github.com/simonswiss/tailwind-starter)
 - [Tailwind Fiddle](https://tailwind.unravel.eu)
-- [Wordpress Tailwindcss + Google PWA](https://github.com/ri7nz/Mesjid)
+- [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid)
 - [Create React Native App Tailwind](https://github.com/taylorbryant/crna-tailwind)
 - [Gatsby Starter Tailwind](https://github.com/taylorbryant/gatsby-starter-tailwind)
 - [Create React App Tailwind](https://github.com/kriswep/cra-tailwindcss)
@@ -105,7 +105,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 ## Components & Libraries
 
 - [Convert Bootstrap CSS code to Tailwind CSS code](https://github.com/awssat/tailwindo)
-- [Use TailwindCSS with CSS-in-JS](https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c)
+- [Use Tailwind CSS with CSS-in-JS](https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c)
 - [tails-ui](https://github.com/knipferrc/tails-ui)
 - [Toggle switch](https://github.com/TowelSoftware/tailwindcss-toggle)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
@@ -154,7 +154,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Rebuilding Coinbase with Tailwind CSS](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - [Codepen](https://codepen.io/adamwathan/pen/RxWrZr).
 - [Creating a modal dialog with Tailwind CSS](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f)
 - [Rebuilding FreshBooks with Tailwind CSS](http://joey.io/rebuilding-freshbooks-with-tailwind-css/)
-- [PingPing - We build a Login using TailwindCSS](https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss/)
+- [PingPing - We build a Login using Tailwind CSS](https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss/)
 - [Setting Up Tailwind in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project)
 - [How to Build a Vue.js Component With Tailwind in a Laravel Project](https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project)
 - [Build a Customizable Vue.js Modal with Tailwind CSS](https://nick-basile.com/blog/post/build-a-customizable-vuejs-modal-with-tailwind-css)
@@ -167,7 +167,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Plugin Examples (Official)](https://github.com/tailwindcss/plugin-examples)
 - [Rebuilding Twitter with Tailwind CSS](https://www.youtube.com/watch?v=Pg_5Ni1_bg4) - [CodePen](https://codepen.io/drehimself/full/vpeVMx).
 - [Rebuilding YouTube with Tailwind CSS + plugins](https://www.youtube.com/watch?v=qxQKnqmNKv0)
-- [How to Add TailwindCSS to an Ember App](https://eaf4.com/how-to-add-tailwindcss-to-an-ember-app/)
+- [How to Add Tailwind CSS to an Ember App](https://eaf4.com/how-to-add-tailwindcss-to-an-ember-app/)
 - [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
 - [Rebuilding Netlify with Tailwind CSS](https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s)
 - [Rebuilding Resolute](https://www.youtube.com/watch?v=banq3TfAPYk)
@@ -184,3 +184,5 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, [NiftyCo](https://aniftyco.com/) has waived all copyright and related or neighboring rights to this work.
