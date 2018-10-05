@@ -44,6 +44,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid)
 - [Create React Native App Tailwind](https://github.com/taylorbryant/crna-tailwind)
 - [Gatsby Starter Tailwind](https://github.com/taylorbryant/gatsby-starter-tailwind)
+- [Gatsby Tailwind Emotion Starter](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter)
 - [Create React App Tailwind](https://github.com/kriswep/cra-tailwindcss)
 - [Jaxli - Feature Request System](https://github.com/laraboost/jaxli)
 - [Goodwork - Project Management & Collaboration Tool](https://github.com/iluminar/goodwork)
