@@ -31,7 +31,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet)
 - [Alfred Workflow - Search Tailwind Docs with Alfred](https://github.com/clnt/alfred-tailwindcss-docs)
 - [ng-tailwindcss - The happy marriage of Tailwind CSS with Angular CLI](https://github.com/tehpsalmist/ng-tailwindcss)
-- [Tailwind Toolbox - Starter Template](https://www.tailwindtoolbox.com/setup)
+- [Tailwind Toolbox - Starter Templates](https://www.tailwindtoolbox.com)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
@@ -177,8 +177,6 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Rebuilding Resolute](https://www.youtube.com/watch?v=banq3TfAPYk)
 - [How to setup Tailwind CSS in Sage (WordPress starter theme)](https://roots.io/guides/how-to-setup-tailwind-css-in-sage/)
 - [More experimentation with Tailwind CSS](https://www.youtube.com/watch?v=nBzfVK3QUzM)
-- [Tailwind Toolbox - Admin Template](https://www.tailwindtoolbox.com/templates/admin-template/)
-- [Tailwind Toolbox - Various Starter Templates](https://www.tailwindtoolbox.com/templates)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
