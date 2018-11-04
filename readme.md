@@ -150,6 +150,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Scrims](https://github.com/brettgullan/tailwindcss-scrims)
 - [Grid](https://github.com/chrisrowe/tailwindcss-grid)
 - [TailwindCSS variables](https://github.com/omarkhatibco/tailwind-css-variables) - Transform Tailwind config file to CSS variables.
+- [Spaced Items](https://github.com/n1kk/tailwindcss-spaced-items) - Add fixed margins to all container items except last one.
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
