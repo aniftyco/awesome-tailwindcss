@@ -54,6 +54,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Dogpatch - WordPress starter + Webpack, Vue, Babel and Tailwind CSS](https://github.com/jack-pallot/dogpatch)
 - [Adds Tailwind CSS to your Ember app or addon](https://github.com/embermap/ember-cli-tailwind)
 - [Create React App + Tailwind CSS + EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter/)
+- [Statusfy](https://github.com/bazzite/statusfy): Statusfy is a simple Open Source Status Page system designed to be built and maintained with minimum effort.
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ### Apps/Websites
