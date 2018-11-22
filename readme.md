@@ -32,6 +32,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Alfred Workflow - Search Tailwind Docs with Alfred](https://github.com/clnt/alfred-tailwindcss-docs)
 - [ng-tailwindcss - The happy marriage of Tailwind CSS with Angular CLI](https://github.com/tehpsalmist/ng-tailwindcss)
 - [Tailwind Toolbox - Starter Templates](https://www.tailwindtoolbox.com)
+- [Tailwind Templates](https://www.tailwindtemplates.io/)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
