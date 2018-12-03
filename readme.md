@@ -100,6 +100,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Martin Williams](https://www.martinwilliamsart.co.uk)
 - [Brahms Electric Hearses](https://www.electrichearse.co.uk)
 - [Woburn Mosaic Holding Page](https://www.woburnmosaic.co.uk)
+- [Crypto Contributors](https://crypto-contributors.netlify.com)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
