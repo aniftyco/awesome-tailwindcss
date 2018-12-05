@@ -159,6 +159,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [TailwindCSS variables](https://github.com/omarkhatibco/tailwind-css-variables) - Transform Tailwind config file to CSS variables.
 - [Spaced Items](https://github.com/n1kk/tailwindcss-spaced-items) - Add fixed margins to all container items except last one.
 - [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - Streamlined integration between tailwindcss and heropatterns
+- [Caret Color](https://github.com/naoray/tailwind-caret-color) - Coloring carets with tailwindcss colors
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
