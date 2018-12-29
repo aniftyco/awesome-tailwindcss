@@ -121,6 +121,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [tails-ui](https://github.com/knipferrc/tails-ui)
 - [Toggle switch](https://github.com/TowelSoftware/tailwindcss-toggle)
 - [Gatsby Plugin Tailwind CSS](https://github.com/muhajirframe/gatsby-plugin-tailwindcss)
+- [Pagination Template For Laravel](https://gist.github.com/mazedlx/86512703b1dbcb987b2815c31e5173a3)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
