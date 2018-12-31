@@ -57,6 +57,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Adds Tailwind CSS to your Ember app or addon](https://github.com/embermap/ember-cli-tailwind)
 - [Create React App + Tailwind CSS + EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter/)
 - [Statusfy](https://github.com/bazzite/statusfy): Statusfy is a Status Page System, easy to use and completely Open Source.
+- [Todolist - Laravel, Vue and Tailwind CSS](https://github.com/guillaumebriday/todolist-frontend-vuejs)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ### Apps/Websites
@@ -102,6 +103,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Woburn Mosaic Holding Page](https://www.woburnmosaic.co.uk)
 - [Crypto Contributors](https://crypto-contributors.netlify.com)
 - [Sjabloon](https://www.getsjabloon.com)
+- [Guillaume Briday](https://guillaumebriday.fr)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
