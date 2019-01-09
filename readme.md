@@ -154,6 +154,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Layout](https://github.com/benface/tailwindcss-layout)
 - [Gradients - 1](https://github.com/benface/tailwindcss-gradients)
 - [Gradients - 2](https://github.com/lorisleiva/tailwindcss-plugins/tree/master/gradients)
+- [Border Gradient](https://github.com/hellocosmin/tailwindcss-border-gradients)
 - [Typography](https://github.com/benface/tailwindcss-typography)
 - [Transforms](https://github.com/benface/tailwindcss-transforms)
 - [Filters](https://github.com/benface/tailwindcss-filters)
