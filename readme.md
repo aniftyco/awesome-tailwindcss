@@ -51,7 +51,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Create React App Tailwind](https://github.com/kriswep/cra-tailwindcss)
 - [Jaxli - Feature Request System](https://github.com/laraboost/jaxli)
 - [Goodwork - Project Management & Collaboration Tool](https://github.com/iluminar/goodwork)
-- [Seminyak Hugo Theme](https://github.com/comfusion/seminyak)
+- [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak)
 - [Stitches - Website Generator with Tailwind](https://github.com/amiechen/stitches-template-generator)
 - [Dogpatch - WordPress starter + Webpack, Vue, Babel and Tailwind CSS](https://github.com/jack-pallot/dogpatch)
 - [Adds Tailwind CSS to your Ember app or addon](https://github.com/embermap/ember-cli-tailwind)
