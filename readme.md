@@ -58,6 +58,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Create React App + Tailwind CSS + EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter/)
 - [Statusfy](https://github.com/bazzite/statusfy): Statusfy is a Status Page System, easy to use and completely Open Source.
 - [Todolist - Laravel, Vue and Tailwind CSS](https://github.com/guillaumebriday/todolist-frontend-vuejs)
+- [Create React App, included with TailwindCSS and PurgeCSS](https://github.com/DemianD/create-react-app-tailwindcss)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ### Apps/Websites
