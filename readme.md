@@ -106,6 +106,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Sjabloon](https://www.getsjabloon.com)
 - [Guillaume Briday](https://guillaumebriday.fr)
 - [Hello Sun](https://hellosun.brussels/en/)
+- [Onur Şuyalçınkaya](https://suyalcinkaya.me)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
