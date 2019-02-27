@@ -201,6 +201,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [How to setup Tailwind CSS in Sage (WordPress starter theme)](https://roots.io/guides/how-to-setup-tailwind-css-in-sage/)
 - [More experimentation with Tailwind CSS](https://www.youtube.com/watch?v=nBzfVK3QUzM)
 - [Using Tailwind With GatsbyJS](https://dev.to/jakedohm_34/using-tailwind-with-gatsby-js-10fj)
+- [How to setup TailwindCSS in Phoenix 1.4](https://equimper.com/blog/how-to-setup-tailwindcss-in-phoenix-1.4)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
