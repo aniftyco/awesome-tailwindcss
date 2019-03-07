@@ -110,6 +110,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Onur Şuyalçınkaya](https://suyalcinkaya.me)
 - [Faruno](https://www.faruno.co): A unique email address for every service you use within one inbox
 - [University of West London](https://www.uwl.ac.uk)
+- [OpenEmu](http://openemu.org)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
@@ -203,6 +204,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [More experimentation with Tailwind CSS](https://www.youtube.com/watch?v=nBzfVK3QUzM)
 - [Using Tailwind With GatsbyJS](https://dev.to/jakedohm_34/using-tailwind-with-gatsby-js-10fj)
 - [How to setup TailwindCSS in Phoenix 1.4](https://equimper.com/blog/how-to-setup-tailwindcss-in-phoenix-1.4)
+- [jQuery + Tailwind Checkbox Toggle](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle/)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
