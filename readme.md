@@ -174,6 +174,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - Streamlined integration between tailwindcss and heropatterns
 - [Caret Color](https://github.com/naoray/tailwind-caret-color) - Coloring carets with tailwindcss colors
 - [Direction](https://github.com/RonMelkhior/tailwindcss-dir) - RTL & LTR direction variants for Tailwind.
+- [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) - Additional variants for touch based media queries.
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
