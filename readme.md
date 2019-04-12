@@ -177,6 +177,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Direction](https://github.com/RonMelkhior/tailwindcss-dir) - RTL & LTR direction variants for Tailwind.
 - [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) - Additional variants for touch based media queries.
 - [Elevation](https://github.com/jonaskay/tailwindcss-elevation) - Elevation classes taken from Material Components.
+- [Localized](https://github.com/hdodov/tailwindcss-localized) - Variant for utilities based on site language.
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
