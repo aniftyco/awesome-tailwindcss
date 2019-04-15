@@ -178,6 +178,9 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) - Additional variants for touch based media queries.
 - [Elevation](https://github.com/jonaskay/tailwindcss-elevation) - Elevation classes taken from Material Components.
 - [Localized](https://github.com/hdodov/tailwindcss-localized) - Variant for utilities based on site language.
+- [Skip link](https://github.com/opdavies/tailwindcss-skip-link) - Adds an accessible 'skip to main content' link
+- [List Reset](https://github.com/opdavies/tailwindcss-list-reset) - Re-adds the `list-reset` class that was removed prior to Tailwind 1.0.
+- [Vue.js](https://github.com/opdavies/tailwindcss-vuejs) - adds classes for showing and hiding elements in different display variations in combination with Vue's v-cloak directive.
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
