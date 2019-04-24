@@ -111,6 +111,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Faruno](https://www.faruno.co): A unique email address for every service you use within one inbox
 - [University of West London](https://www.uwl.ac.uk)
 - [OpenEmu](http://openemu.org)
+- [Alice's Magical Maze](https://alice.thomasverhelst.be/game)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
