@@ -112,6 +112,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [University of West London](https://www.uwl.ac.uk)
 - [OpenEmu](http://openemu.org)
 - [Alice's Magical Maze](https://alice.thomasverhelst.be/game)
+- [sleeplessmind.info](https://sleeplessmind.info/)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
