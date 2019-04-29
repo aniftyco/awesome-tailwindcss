@@ -34,6 +34,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Tailwind Toolbox - Starter Templates](https://www.tailwindtoolbox.com)
 - [Tailwind Templates](https://www.tailwindtemplates.io/)
 - [Laravel Dark Tailwind Preset](https://github.com/Naoray/dark-tailwind-preset)
+- [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
