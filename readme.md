@@ -42,6 +42,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 
 ### Open Source
 
+- [Jekyll Tailwind Starter](https://github.com/mhanberg/jekyll-tailwind-starter)
 - [Tailwind Jekyll Starter Kit](https://github.com/taylorbryant/tailwind-jekyll)
 - [Tailwind Gulp Starket Kit](https://github.com/simonswiss/tailwind-starter)
 - [Tailwind Fiddle](https://tailwind.unravel.eu)
