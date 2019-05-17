@@ -190,6 +190,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [List Reset](https://github.com/opdavies/tailwindcss-list-reset) - Re-adds the `list-reset` class that was removed prior to Tailwind 1.0.
 - [Vue.js](https://github.com/opdavies/tailwindcss-vuejs) - adds classes for showing and hiding elements in different display variations in combination with Vue's v-cloak directive.
 - [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) - Additional customizable variants for pseudo selectors.
+- [Custom Native](https://github.com/SirNavith/tailwindcss-custom-native) - Custom utilities with little configuration
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
