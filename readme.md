@@ -223,6 +223,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [jQuery + Tailwind Checkbox Toggle](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle/)
 - [Rebuilding Acquia’s hosting dashboard with Vue.js and Tailwind CSS](https://github.com/opdavies/rebuilding-acquia)
 - [Rebuilding Bartik (Drupal’s default theme) with Vue.js and Tailwind CSS](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css)
+- [Tailwind Dark Mode Theme Switcher](https://github.com/huphtur/tailwind-theme-switcher)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
