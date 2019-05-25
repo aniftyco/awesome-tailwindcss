@@ -64,6 +64,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Admin Panel Built On Tailwind](https://github.com/tailwindadmin/admin)
 - [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss)
 - [Hugo Starter Theme with Tailwindcss](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter)
+- [Tailwind Next.js Starter](https://github.com/oddstronaut/tailwind-next)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ### Apps/Websites
