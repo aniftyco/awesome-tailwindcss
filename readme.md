@@ -142,6 +142,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Pagination Template For Laravel](https://gist.github.com/mazedlx/86512703b1dbcb987b2815c31e5173a3)
 - [Shift to the next Tailwind CSS version hassle-free](https://github.com/awssat/tailwind-shift)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
+- [VueTailwind](https://github.com/alfonsobries/vue-tailwind): A set of vue components with configurable classes
 
 
 ## Plugins
