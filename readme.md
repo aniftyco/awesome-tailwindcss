@@ -132,6 +132,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Tailwind CSS Styled Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets)
 - [Tailwind CSS IntelliSense for (neo)vim](https://github.com/iamcco/coc-tailwindcss)
 - [Tailwind Button Playground](https://minthemiddle.github.io/tailwind-button-playground/)
+- [Tailupgrade](https://www.npmjs.com/package/tailupgrade) : Convert HTML files with tailwind V.0.x class name into stable version V.1.x
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
