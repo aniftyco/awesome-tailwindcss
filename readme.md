@@ -197,6 +197,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Vue.js](https://github.com/opdavies/tailwindcss-vuejs) - adds classes for showing and hiding elements in different display variations in combination with Vue's v-cloak directive.
 - [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) - Additional customizable variants for pseudo selectors.
 - [Custom Native](https://github.com/SirNavith/tailwindcss-custom-native) - Custom utilities with little configuration
+- [Custom Forms](https://github.com/tailwindcss/custom-forms) - A better base for styling form elements with Tailwind CSS.
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
