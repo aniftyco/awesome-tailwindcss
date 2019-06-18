@@ -106,11 +106,9 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [BudgetDuo](https://budgetduo.com)
 - [Quickwords](https://quickwords.co)
 - [The MBR Site](https://www.thembrsite.com)
-- [Natures Finest Pet Supplies Holding Page](https://www.naturesfinestpetsupplies.co.uk)
 - [Peter Fox](https://www.peterfox.me)
 - [Martin Williams](https://www.martinwilliamsart.co.uk)
 - [Brahms Electric Hearses](https://www.electrichearse.co.uk)
-- [Woburn Mosaic Holding Page](https://www.woburnmosaic.co.uk)
 - [Crypto Contributors](https://crypto-contributors.netlify.com)
 - [Sjabloon](https://www.getsjabloon.com)
 - [Guillaume Briday](https://guillaumebriday.fr)
@@ -122,6 +120,8 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Alice's Magical Maze](https://alice.thomasverhelst.be/game)
 - [sleeplessmind.info](https://sleeplessmind.info/)
 - [The Speedcube Site](https://speedcube.site/)
+- [Woburn Mosaic](https://www.woburnmosaic.co.uk)
+- [Hunsbury Hot Tubs](https://www.hunsburyhottubs.co.uk/)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
