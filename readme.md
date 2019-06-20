@@ -120,9 +120,9 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Alice's Magical Maze](https://alice.thomasverhelst.be/game)
 - [sleeplessmind.info](https://sleeplessmind.info/)
 - [The Speedcube Site](https://speedcube.site/)
-- [DigitalDam](https://digitaldam.ca/): Automated backup/snapshot scheduling for DigitalOcean droplets.
 - [Woburn Mosaic](https://www.woburnmosaic.co.uk)
 - [Hunsbury Hot Tubs](https://www.hunsburyhottubs.co.uk/)
+- [DigitalDam](https://digitaldam.ca/): Automated backup/snapshot scheduling for DigitalOcean droplets.
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
