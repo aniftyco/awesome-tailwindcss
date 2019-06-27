@@ -200,6 +200,8 @@ to boost your presentations.
 - [Vue.js](https://github.com/opdavies/tailwindcss-vuejs) - adds classes for showing and hiding elements in different display variations in combination with Vue's v-cloak directive.
 - [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) - Additional customizable variants for pseudo selectors.
 - [Custom Native](https://github.com/SirNavith/tailwindcss-custom-native) - Custom utilities with little configuration
+- [Font Variant Numeric](https://github.com/philippbosch/tailwindcss-font-variant-numeric) - Utility classes for `font-variant-numeric`
+- [Colorize](https://github.com/philippbosch/tailwindcss-colorize) - Colorize arbitrary elements using CSS filters
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
