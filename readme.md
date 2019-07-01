@@ -202,6 +202,7 @@ to boost your presentations.
 - [Custom Native](https://github.com/SirNavith/tailwindcss-custom-native) - Custom utilities with little configuration
 - [Font Variant Numeric](https://github.com/philippbosch/tailwindcss-font-variant-numeric) - Utility classes for `font-variant-numeric`
 - [Colorize](https://github.com/philippbosch/tailwindcss-colorize) - Colorize arbitrary elements using CSS filters
+- [Hyphens](https://github.com/philippbosch/tailwindcss-hyphens) – Utility classes for `hyphens`
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
