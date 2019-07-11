@@ -68,6 +68,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Tailwind Next.js Starter](https://github.com/oddstronaut/tailwind-next)
 - [Sapper & Svelte Tailwind Starter](https://github.com/EricPKerr/sapper-tailwindcss-starter)
 - [Netlify Lambda Tailwind Static Starter](https://github.com/HugoDF/netlify-lambda-tailwind-static-starter)
+- [Gatsby Starter Theme: Serif](https://github.com/windedge/gatsby-tailwind-serif)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ### Apps/Websites
