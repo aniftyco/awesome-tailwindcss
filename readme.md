@@ -138,6 +138,7 @@ to boost your presentations.
 - [Tailwind CSS IntelliSense for (neo)vim](https://github.com/iamcco/coc-tailwindcss)
 - [Tailwind Button Playground](https://minthemiddle.github.io/tailwind-button-playground/)
 - [Tailupgrade](https://www.npmjs.com/package/tailupgrade) : Convert HTML files with tailwind V.0.x class name into stable version V.1.x
+- [Tailwind Colors](https://tailwind-colors.meidev.co): Generate color configuration for Tailwind v1.x.
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
