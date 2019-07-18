@@ -157,6 +157,7 @@ to boost your presentations.
 
 ## Plugins
 
+- [Custom Forms (Official)](https://github.com/tailwindcss/custom-forms) - A better base for styling form elements with Tailwind CSS.
 - [Aspect Ratio](https://github.com/webdna/tailwindcss-aspect-ratio)
 - [Card](https://github.com/NathanHeffley/tailwindcss-card)
 - [Fluid](https://github.com/bradlc/tailwindcss-fluid)
