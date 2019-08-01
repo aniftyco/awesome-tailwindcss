@@ -207,6 +207,7 @@ to boost your presentations.
 - [Colorize](https://github.com/philippbosch/tailwindcss-colorize) - Colorize arbitrary elements using CSS filters
 - [Hyphens](https://github.com/philippbosch/tailwindcss-hyphens) – Utility classes for `hyphens`
 - [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - A plugin that adds variants for dark mode.
+- [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) - Tailwind CSS plugin to generate truncate multiline utilities.
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
