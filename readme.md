@@ -139,6 +139,7 @@ to boost your presentations.
 - [Tailwind Button Playground](https://minthemiddle.github.io/tailwind-button-playground/)
 - [Tailupgrade](https://www.npmjs.com/package/tailupgrade) : Convert HTML files with tailwind V.0.x class name into stable version V.1.x
 - [Tailwind Colors](https://tailwind-colors.meidev.co): Generate color configuration for Tailwind v1.x.
+- [Tailwind CSS Figma Plugin](https://github.com/impulse/tailwindcss-figma-plugin): Tailwind CSS integration for Figma
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
