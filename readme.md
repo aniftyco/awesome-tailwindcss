@@ -126,6 +126,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [DigitalDam](https://digitaldam.ca/): Automated backup/snapshot scheduling for DigitalOcean droplets.
 - [SlidesGo](https://slidesgo.com/): Free Google Slides and Powerpoint templates
 to boost your presentations.
+- [BuildPulse](https://buildpulse.io/): A GitHub app helping you win the fight against flaky builds.
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
