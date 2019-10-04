@@ -21,6 +21,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 
 - [Tailwind Official Site](https://tailwindcss.com)
 - [Tailwind Official Repo](https://github.com/tailwindcss/tailwindcss)
+- [Tailwind UI](https://tailwindui.com)
 - [Discussion Repo](https://github.com/tailwindcss/discuss)
 - [Webpack Starter Project](https://github.com/tailwindcss/webpack-starter)
 - [Gusts - Tailwind CSS Playground](https://gustscss.com/)
