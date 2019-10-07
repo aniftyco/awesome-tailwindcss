@@ -214,6 +214,7 @@ to boost your presentations.
 - [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - A plugin that adds variants for dark mode.
 - [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) - Tailwind CSS plugin to generate truncate multiline utilities.
 - [Theming](https://github.com/hawezo/tailwindcss-theming) Uses CSS variables to allow the usage of client-side multiple themes.
+- [RFS](https://github.com/aerni/tailwindcss-rfs) Utility classes for RFS to automate your responsive workflow
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 ## Demos & Samples
