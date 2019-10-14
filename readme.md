@@ -38,6 +38,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [vue-cli-plugin-tailwind - Tailwind for Vue CLI Projects](https://github.com/forsartis/vue-cli-plugin-tailwind)
 - [Tailwind Figma Kit](https://github.com/impulse/tailwindcss-figma-kit)
 - [Tailwindcss Cheatsheet](https://umeshmk.github.io/Tailwindcss-cheatsheet)
+- [Tailwind setup with Webpack4 and PostCSS](https://paramagicdev.github.io/my-blog/javascript/tailwindWebpackPostCSS/)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
