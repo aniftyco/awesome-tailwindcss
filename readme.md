@@ -24,21 +24,22 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Tailwind UI](https://tailwindui.com)
 - [Discussion Repo](https://github.com/tailwindcss/discuss)
 - [Webpack Starter Project](https://github.com/tailwindcss/webpack-starter)
-- [Gusts - Tailwind CSS Playground](https://gustscss.com/)
+- [Gusts](https://gustscss.com/): Tailwind CSS Playground
 - [Laravel Frontend Preset](https://github.com/laravel-frontend-presets/tailwindcss)
 - [Ruby on Rails Example Project](https://github.com/jvanbaarsen/tailwindcss-rails-example)
 - [Tailwind Components](https://tailwindcomponents.com)
 - [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet)
-- [Alfred Workflow - Search Tailwind Docs with Alfred](https://github.com/clnt/alfred-tailwindcss-docs)
-- [ng-tailwindcss - The happy marriage of Tailwind CSS with Angular CLI](https://github.com/tehpsalmist/ng-tailwindcss)
-- [Tailwind Toolbox - Starter Templates](https://www.tailwindtoolbox.com)
+- [Alfred Workflow](https://github.com/clnt/alfred-tailwindcss-docs): Search Tailwind Docs with Alfred
+- [ng-tailwindcss](https://github.com/tehpsalmist/ng-tailwindcss): The happy marriage of Tailwind CSS with Angular CLI
+- [Tailwind Toolbox](https://www.tailwindtoolbox.com): Starter Templates
 - [Tailwind Templates](https://www.tailwindtemplates.io/)
 - [Laravel Dark Tailwind Preset](https://github.com/Naoray/dark-tailwind-preset)
 - [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest)
-- [vue-cli-plugin-tailwind - Tailwind for Vue CLI Projects](https://github.com/forsartis/vue-cli-plugin-tailwind)
+- [vue-cli-plugin-tailwind](https://github.com/forsartis/vue-cli-plugin-tailwind): Tailwind for Vue CLI Projects
 - [Tailwind Figma Kit](https://github.com/impulse/tailwindcss-figma-kit)
 - [Tailwindcss Cheatsheet](https://umeshmk.github.io/Tailwindcss-cheatsheet)
 - [Tailwind setup with Webpack4 and PostCSS](https://paramagicdev.github.io/my-blog/javascript/tailwindWebpackPostCSS/)
+- [tailwind.run](https://tailwind.run/): Tailwind CSS Fiddle with built-time features
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
@@ -55,15 +56,15 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Gatsby Starter Tailwind](https://github.com/taylorbryant/gatsby-starter-tailwind)
 - [Gatsby Tailwind CSS Emotion Starter](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter)
 - [Create React App Tailwind](https://github.com/kriswep/cra-tailwindcss)
-- [Jaxli - Feature Request System](https://github.com/laraboost/jaxli)
-- [Goodwork - Project Management & Collaboration Tool](https://github.com/iluminar/goodwork)
+- [Jaxli](https://github.com/laraboost/jaxli): Feature Request System
+- [Goodwork](https://github.com/iluminar/goodwork): Project Management & Collaboration Tool
 - [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak)
-- [Stitches - Website Generator with Tailwind](https://github.com/amiechen/stitches-template-generator)
-- [Dogpatch - WordPress starter + Webpack, Vue, Babel and Tailwind CSS](https://github.com/jack-pallot/dogpatch)
+- [Stitches](https://github.com/amiechen/stitches-template-generator): Website Generator with Tailwind
+- [Dogpatch](https://github.com/jack-pallot/dogpatch): WordPress starter + Webpack, Vue, Babel and Tailwind CSS
 - [Adds Tailwind CSS to your Ember app or addon](https://github.com/embermap/ember-cli-tailwind)
 - [Create React App + Tailwind CSS + EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter/)
 - [Statusfy](https://github.com/bazzite/statusfy): Statusfy is a Status Page System, easy to use and completely Open Source.
-- [Todolist - Laravel, Vue and Tailwind CSS](https://github.com/guillaumebriday/todolist-frontend-vuejs)
+- [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs):  Laravel, Vue and Tailwind CSS
 - [Create React App, included with TailwindCSS and PurgeCSS](https://github.com/DemianD/create-react-app-tailwindcss)
 - [Admin Panel Built On Tailwind](https://github.com/tailwindadmin/admin)
 - [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss)
