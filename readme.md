@@ -147,6 +147,8 @@ to boost your presentations.
 - [Tailwind Colors](https://tailwind-colors.meidev.co): Generate color configuration for Tailwind v1.x.
 - [Tailwind CSS Figma Plugin](https://github.com/impulse/tailwindcss-figma-plugin): Tailwind CSS integration for Figma
 - [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev): Adds a prefix to tailwind vanilla classes
+- [typed-tailwind](https://github.com/dvkndn/typed-tailwind): Bring TailwindCSS to TypeScript
+- [re-tailwind](https://github.com/phthhieu/re-tailwind): Bring TailwindCSS to ReasonML
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
