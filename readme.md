@@ -132,6 +132,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 to boost your presentations.
 - [BuildPulse](https://buildpulse.io/): A GitHub app helping you win the fight against flaky builds.
 - [ScrumGenius](https://scrumgenius.com/): Automate daily standups on Slack and Microsoft Teams
+- [AwesomeTechStack](https://awesometechstack.com): Website Tech Stack Analyzer
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
