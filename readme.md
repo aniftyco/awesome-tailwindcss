@@ -255,6 +255,12 @@ to boost your presentations.
 - [Rebuilding Acquia’s hosting dashboard with Vue.js and Tailwind CSS](https://github.com/opdavies/rebuilding-acquia)
 - [Rebuilding Bartik (Drupal’s default theme) with Vue.js and Tailwind CSS](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css)
 - [Tailwind Dark Mode Theme Switcher](https://github.com/huphtur/tailwind-theme-switcher)
+- [Re-create Airbnb’s Home Page with Tailwind CSS](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css/)
+- [Let’s Build: With Tailwind CSS – Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page/)
+- [Lets Build: With Tailwind CSS – Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar/)
+- [Let’s Build: with Tailwind CSS Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot/)
+- [Let’s Build: With Tailwind CSS – Tweet](https://web-crunch.com/lets-build-tailwind-css-tweet/)
+- [How to Extend Tailwind CSS](https://web-crunch.com/how-to-extend-tailwind-css/)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
