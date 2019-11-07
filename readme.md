@@ -76,7 +76,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 
 - [University of West London](https://www.uwl.ac.uk) - UWL's website.
 - [Merched.com](https://merched.com) - Design-selling platform.
-- [NiftyCo](https://anifty.com) - NiftyCo's website.
+- [NiftyCo](https://aniftyco.com/) - NiftyCo's website.
 - [Josh Manders](https://joshmanders.com/) - Josh Manders's website.
 - [Matt Stauffer](https://mattstauffer.com/) - Matt Stauffer's website.
 - [Miguel Piedrafita](https://miguelpiedrafita.com/) - Miguel Piedrafita's website.
@@ -111,7 +111,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Brahms Electric Hearses](https://www.electrichearse.co.uk) - Electric Vehicle company website.
 - [Sjabloon](https://www.getsjabloon.com) - Open-source package website.
 - [Guillaume Briday](https://guillaumebriday.fr) - Guillaum Briday's blog.
-- [Hello Sun](https://hellosun.brussels/en/) - Hello Sun's website.
+- [Hello Sun](https://hellosun.brussels) - Hello Sun's website.
 - [Onur Şuyalçınkaya](https://suyalcinkaya.me) - Onur Şuyalçınkaya's website.
 - [OpenEmu](http://openemu.org) - OpenEmu's website.
 - [Alice's Magical Maze](https://alice.thomasverhelst.be/game) - Online game.
@@ -233,9 +233,9 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Rebuilding Acquia’s hosting dashboard with Vue.js and Tailwind CSS](https://github.com/opdavies/rebuilding-acquia)
 - [Rebuilding Laravel.io with Tailwind CSS](https://www.youtube.com/watch?v=ZrRRMBaz5Z0)
 - [Rebuilding Coinbase with Tailwind CSS](https://www.youtube.com/watch?v=7gX_ApBeSpQ)
-    - [Codepen](https://codepen.io/adamwathan/pen/RxWrZr)
+  - [Codepen](https://codepen.io/adamwathan/pen/RxWrZr)
 - [Rebuilding Twitter with Tailwind CSS](https://www.youtube.com/watch?v=Pg_5Ni1_bg4)
-    - [CodePen](https://codepen.io/drehimself/full/vpeVMx)
+  - [CodePen](https://codepen.io/drehimself/full/vpeVMx)
 - [Rebuilding YouTube with Tailwind CSS + plugins](https://www.youtube.com/watch?v=qxQKnqmNKv0)
 - [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
 - [Rebuilding Netlify with Tailwind CSS](https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s)
