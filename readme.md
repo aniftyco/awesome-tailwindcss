@@ -127,25 +127,27 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 
 
 ## Tools
-- [Color shades generator](https://javisperez.github.io/tailwindcolorshades/)
-- [Color palette generator](https://adevade.github.io/color-scheme-generator/)
-- [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f)
-- [Tailwind CSS IntelliSense for VS Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
-- [Tailwind CSS Styled Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets)
-- [Tailwind CSS IntelliSense for (neo)vim](https://github.com/iamcco/coc-tailwindcss)
-- [Tailwind Button Playground](https://minthemiddle.github.io/tailwind-button-playground/)
-- [Tailupgrade](https://www.npmjs.com/package/tailupgrade) : Convert HTML files with tailwind V.0.x class name into stable version V.1.x
-- [Tailwind Colors](https://tailwind-colors.meidev.co): Generate color configuration for Tailwind v1.x.
-- [Tailwind CSS Figma Plugin](https://github.com/impulse/tailwindcss-figma-plugin): Tailwind CSS integration for Figma
-- [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev): Adds a prefix to tailwind vanilla classes
-- [typed-tailwind](https://github.com/dvkndn/typed-tailwind): Bring TailwindCSS to TypeScript
-- [re-tailwind](https://github.com/phthhieu/re-tailwind): Bring TailwindCSS to ReasonML
-- [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
-- [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - React Native style-typing system.
-- [Stitches](https://github.com/amiechen/stitches-template-generator) - Template generator with Tailwind.
-- [tailwind.run](https://tailwind.run/) - Tailwind CSS fiddle with built-time features.
-- [Tailwind Fiddle](https://tailwind.unravel.eu)
 
+- [tailwind.run](https://tailwind.run/) - Tailwind CSS fiddle with built-time features.
+- [typed-tailwind](https://github.com/dvkndn/typed-tailwind) - TypeScript typings for Tailwind CSS.
+- [Color shades generator](https://javisperez.github.io/tailwindcolorshades/) - Color shades generator for Tailwind CSS.
+- [Color palette generator](https://adevade.github.io/color-scheme-generator/) - Color palette generator that outputs a color configuration for Tailwind CSS.
+- [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f) - Zeplin extension that generates Tailwind configurations.
+- [Tailwind Button Playground](https://minthemiddle.github.io/tailwind-button-playground/) - Playground for theming a button with Tailwind CSS.
+- [Tailupgrade](https://github.com/virkillz/tailupgrade) - Conversion tool for upgrading HTML files from Tailwind CSS v0.x to v1.0.
+- [Tailwind Colors](https://tailwind-colors.meidev.co) - Color configuration generator for Tailwind CSS.
+- [Tailwind CSS Figma Plugin](https://github.com/impulse/tailwindcss-figma-plugin) - Figma plugin that integrates Tailwind CSS.
+- [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind classes' prefixer tool.
+- [re-tailwind](https://github.com/phthhieu/re-tailwind) - ReasonML utility that generates Tailwind classes.
+- [Tailwind Fiddle](https://tailwind.unravel.eu) - Tailwind CSS fiddle.
+- [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - React Native typing system.
+- [Stitches](https://github.com/amiechen/stitches-template-generator) - Template generator with Tailwind.
+
+## IDE extensions
+
+- [Tailwind CSS IntelliSense for VS Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Visual Studio Code IntelliSense extension for Tailwind CSS.
+- [Tailwind CSS Styled Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets) - Visual Studio Code snippet extension for Tailwind CSS.
+- [Tailwind CSS IntelliSense for (neo)vim](https://github.com/iamcco/coc-tailwindcss) - VIM IntelliSense extension for Tailwind CSS.
 
 ## Components & Libraries
 
