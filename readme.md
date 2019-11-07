@@ -175,26 +175,26 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [webdna's transitions](https://github.com/webdna/tailwindcss-transition) - Adds configurable transition utilities.
 - [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) - Adds basic transition utilities.
 - [Bootstrap Tables](https://github.com/drehimself/tailwindcss-tables) - Adds table utilities based on Bootstrap's tables.
-- * [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden) - Adds screen reader utilities.
+- `*` [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden) - Adds screen reader utilities.
 - [Writing Mode](https://github.com/magicspon/tailwindcss-writing-mode) - Adds `writing-mode` utilities.
 - [Alpha](https://github.com/bradlc/tailwindcss-alpha) - Adds alpha color variants.
 - [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) - Extends `cursor` utilities.
 - [Blend Mode](https://github.com/hacknug/tailwindcss-blend-mode) - Adds `blend-mode` utilities.
-- * [Object Fit](https://github.com/hendrikeng/tailwindcss-object-fit) - Adds `object-fit` utilities.
+- `*` [Object Fit](https://github.com/hendrikeng/tailwindcss-object-fit) - Adds `object-fit` utilities.
 - [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) - Adds `image-rendering` utilities.
 - [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) - Adds `text-indent` utilities.
 - [Triangle After](https://github.com/chrisrowe/tailwindcss-triangle-after) - Adds CSS triangles utilities.
 - [Responsive Embed](https://github.com/drdogbot7/tailwindcss-responsive-embed) - Adds a `responsive-embed` component.
-- * [Object Position](https://github.com/hacknug/tailwindcss-object-position) - Adds `object-position` utilities.
-- * [Accessibility](https://github.com/jack-pallot/tailwindcss-accessibility) - Adds screen reader utilities.
-- * [Layout](https://github.com/benface/tailwindcss-layout) - Adds some layout utilities.
+- `*` [Object Position](https://github.com/hacknug/tailwindcss-object-position) - Adds `object-position` utilities.
+- `*` [Accessibility](https://github.com/jack-pallot/tailwindcss-accessibility) - Adds screen reader utilities.
+- `*` [Layout](https://github.com/benface/tailwindcss-layout) - Adds some layout utilities.
 - [benface's gradients](https://github.com/benface/tailwindcss-gradients) - Adds gradient utilities.
 - [lorisleiva's gradients](https://github.com/lorisleiva/tailwindcss-plugins/tree/master/gradients) - Adds background gradient utilities.
 - [Border Gradients](https://github.com/cossssmin/tailwindcss-border-gradients) - Adds `border-image` gradient utilities.
 - [Typography](https://github.com/benface/tailwindcss-typography) - Adds typography utilities.
 - [Transforms](https://github.com/benface/tailwindcss-transforms) - Adds `transform` utilities.
 - [Filters](https://github.com/benface/tailwindcss-filters) - Adds `filter` utilities.
-- * [Important](https://github.com/chasegiunta/tailwindcss-important) - Adds an `important` variant.
+- `*` [Important](https://github.com/chasegiunta/tailwindcss-important) - Adds an `important` variant.
 - [Scrims](https://github.com/brettgullan/tailwindcss-scrims) - Adds scrims utilities.
 - [Grid](https://github.com/chrisrowe/tailwindcss-grid) - Adds CSS grids utilities.
 - [Colors to CSS Variables](https://github.com/n1kk/tailwind-color-vars) - Exports color configuration to CSS Custom Properties.
@@ -218,6 +218,8 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Adds `dark` variants based on the `prefers-color-scheme` media query.
 - [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) - Adds utilities to truncate multi-line text elements.
 - [RFS](https://github.com/aerni/tailwindcss-rfs) - Adds [`RFS`](https://github.com/twbs/rfs) utilities.
+
+*`*` the functionalities these plugins offer have been implemented in the latest Tailwind CSS versions.*
 
 ## Demos & Samples
 
