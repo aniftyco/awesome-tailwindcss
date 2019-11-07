@@ -8,9 +8,10 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 ## Contents
 
 - [Resources](#resources)
-- [Projects Using Tailwind CSS](#projects-using-tailwind-css)
-  - [Open Source](#open-source)
-  - [Apps/Websites](#appswebsites)
+- [Starter, Templates & Boilerplates](#starters-templates-and-boilerplates)
+- [Themes](#themes)
+- [Open Source](#open-source)
+- [Apps/Websites](#appswebsites)
 - [Tools](#tools)
 - [Components & Libraries](#components--libraries)
 - [Plugins](#plugins)
@@ -40,39 +41,38 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Tailwind setup with Webpack4 and PostCSS](https://paramagicdev.github.io/my-blog/javascript/tailwindWebpackPostCSS/) - How to setup Tailwind CSS with PostCSS and Webpack.
 
 
-## Projects Using Tailwind CSS
+## Starters, Templates and Boilerplates
 
-### Open Source
+- [Jekyll Starter](https://github.com/mhanberg/jekyll-tailwind-starter) - Jekyll starter using Tailwind CSS.
+- [Jekyll Starter](https://github.com/taylorbryant/tailwind-jekyll) - Jekyll starter using Tailwind CSS.
+- [Gulp Starter](https://github.com/simonswiss/tailwind-starter) - Gulp starter using Tailwind CSS.
+- [Gatsby Starter](https://github.com/taylorbryant/gatsby-starter-tailwind) - Gatsby starter using Tailwind CSS.
+- [Gatsby Starter + Emotion JS](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter) - Gatsby starter using Tailwind CSS and Emotion JS.
+- [Create React App Boilerplate with EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter/) - CRA boilerplate using Tailwind CSS and Emotion JS.
+- [Create React App Boilerplate](https://github.com/kriswep/cra-tailwindcss) - CRA boilerplate using Tailwind CSS.
+- [Create React App script with PurgeCSS](https://github.com/DemianD/create-react-app-tailwindcss) - CRA script that adds Tailwind CSS and PurgeCSS.
+- [Dogpatch](https://github.com/jack-pallot/dogpatch) - WordPress starter using Webpack, Vue, Babel and Tailwind CSS.
+- [Tailwind Admin](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
+- [Next.js Starter](https://github.com/oddstronaut/tailwind-next) - Next.js boilerplate using Tailwind CSS.
+- [Sapper & Svelte Starter](https://github.com/EricPKerr/sapper-tailwindcss-starter) - Svelte boilerplate using Sapper, Tailwind CSS, Purge CSS, Prettier and ESLint.
+- [Netlify Lambda Static Starter](https://github.com/HugoDF/netlify-lambda-tailwind-static-starter) - Netlify Lambda boilerplate using Tailwind CSS.
+- [Gatsby Starter Theme: Serif](https://github.com/windedge/gatsby-tailwind-serif) - Gatsby's serif theme using Tailwind CSS.
+- [Laravel Boilerplate](https://github.com/hawezo/laravel-boilerplate) - Laravel boilerplate using Tailwind CSS, Inertia JS, TypeScript, Vue, and font-end theming.
 
-- [Jekyll Tailwind Starter](https://github.com/mhanberg/jekyll-tailwind-starter)
-- [Tailwind Jekyll Starter Kit](https://github.com/taylorbryant/tailwind-jekyll)
-- [Tailwind Gulp Starket Kit](https://github.com/simonswiss/tailwind-starter)
-- [Tailwind Fiddle](https://tailwind.unravel.eu)
-- [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid)
-- [Create React Native App Tailwind](https://github.com/taylorbryant/crna-tailwind)
-- [Gatsby Starter Tailwind](https://github.com/taylorbryant/gatsby-starter-tailwind)
-- [Gatsby Tailwind CSS Emotion Starter](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter)
-- [Create React App Tailwind](https://github.com/kriswep/cra-tailwindcss)
-- [Jaxli](https://github.com/laraboost/jaxli): Feature Request System
-- [Goodwork](https://github.com/iluminar/goodwork): Project Management & Collaboration Tool
-- [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak)
-- [Stitches](https://github.com/amiechen/stitches-template-generator): Website Generator with Tailwind
-- [Dogpatch](https://github.com/jack-pallot/dogpatch): WordPress starter + Webpack, Vue, Babel and Tailwind CSS
-- [Adds Tailwind CSS to your Ember app or addon](https://github.com/embermap/ember-cli-tailwind)
-- [Create React App + Tailwind CSS + EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter/)
-- [Statusfy](https://github.com/bazzite/statusfy): Statusfy is a Status Page System, easy to use and completely Open Source.
-- [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs):  Laravel, Vue and Tailwind CSS
-- [Create React App, included with TailwindCSS and PurgeCSS](https://github.com/DemianD/create-react-app-tailwindcss)
-- [Admin Panel Built On Tailwind](https://github.com/tailwindadmin/admin)
-- [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss)
-- [Hugo Starter Theme with Tailwindcss](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter)
-- [Tailwind Next.js Starter](https://github.com/oddstronaut/tailwind-next)
-- [Sapper & Svelte Tailwind Starter](https://github.com/EricPKerr/sapper-tailwindcss-starter)
-- [Netlify Lambda Tailwind Static Starter](https://github.com/HugoDF/netlify-lambda-tailwind-static-starter)
-- [Gatsby Starter Theme: Serif](https://github.com/windedge/gatsby-tailwind-serif)
-- [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
+## Themes
 
-### Apps/Websites
+- [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid) - Wordpress Theme and PWA using Tailwind CSS.
+- [Stitches](https://github.com/amiechen/stitches-template-generator) - Template generator with Tailwind CSS.
+- [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) - Hugo Theme using Tailwind CSS.
+- [Hugo Starter Theme Starter](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) - Hugo theme starter using Tailwind CSS.
+
+## Open-Source
+
+- [Goodwork](https://github.com/iluminar/goodwork) - Project Management & Collaboration Tool.
+- [Statusfy](https://github.com/bazzite/statusfy) - Status page system using Tailwind CSS.
+- [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs) - To-do list application using Tailwind CSS.
+
+## Apps/Websites
 
 - [Merched.com](https://merched.com)
 - [NiftyCo](https://anifty.com)
