@@ -19,27 +19,25 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 
 ## Resources
 
-- [Tailwind Official Site](https://tailwindcss.com)
-- [Tailwind Official Repo](https://github.com/tailwindcss/tailwindcss)
-- [Tailwind UI](https://tailwindui.com)
-- [Discussion Repo](https://github.com/tailwindcss/discuss)
-- [Webpack Starter Project](https://github.com/tailwindcss/webpack-starter)
-- [Laravel Frontend Preset](https://github.com/laravel-frontend-presets/tailwindcss)
-- [Ruby on Rails Example Project](https://github.com/jvanbaarsen/tailwindcss-rails-example)
-- [Tailwind Components](https://tailwindcomponents.com)
-- [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet)
-- [Alfred Workflow](https://github.com/clnt/alfred-tailwindcss-docs): Search Tailwind Docs with Alfred
-- [ng-tailwindcss](https://github.com/tehpsalmist/ng-tailwindcss): The happy marriage of Tailwind CSS with Angular CLI
-- [Tailwind Toolbox](https://www.tailwindtoolbox.com): Starter Templates
-- [Tailwind Templates](https://www.tailwindtemplates.io/)
-- [Laravel Dark Tailwind Preset](https://github.com/Naoray/dark-tailwind-preset)
-- [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest)
-- [vue-cli-plugin-tailwind](https://github.com/forsartis/vue-cli-plugin-tailwind): Tailwind for Vue CLI Projects
-- [Tailwind Figma Kit](https://github.com/impulse/tailwindcss-figma-kit)
-- [Tailwindcss Cheatsheet](https://umeshmk.github.io/Tailwindcss-cheatsheet)
-- [Tailwind setup with Webpack4 and PostCSS](https://paramagicdev.github.io/my-blog/javascript/tailwindWebpackPostCSS/)
-- [tailwind.run](https://tailwind.run/): Tailwind CSS Fiddle with built-time features
-- [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
+- [Tailwind CSS website](https://tailwindcss.com) - Official Tailwind CSS website.
+- [Tailwind CSS on GitHub](https://github.com/tailwindcss/tailwindcss) - Official Tailwind CSS repository.
+- [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
+- [Discussion Repository](https://github.com/tailwindcss/discuss) - Official Tailwind CSS repository for discussions.
+- [tailwind.run](https://tailwind.run/) - Tailwind CSS fiddle with built-time features.
+- [Laravel Frontend Preset](https://github.com/laravel-frontend-presets/tailwindcss) - Front-end preset using Tailwind CSS for the Laravel Framework.
+- [Laravel Dark Frontend Preset](https://github.com/Naoray/dark-tailwind-preset) - Dark-themed front-end preset using Tailwind CSS for the Laravel Framework.
+- [Ruby on Rails Example Project](https://github.com/jvanbaarsen/tailwindcss-rails-example) - Rails example application using Tailwind CSS.
+- [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
+- [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS class names, variants and directives cheat sheet.
+- [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet) - Tailwind CSS class names cheat sheet.
+- [Alfred Workflow](https://github.com/clnt/alfred-tailwindcss-docs) - Fast Tailwind CSS documentation search application.
+- [ng-tailwindcss](https://github.com/tehpsalmist/ng-tailwindcss) - CLI tool for integrating Tailwind CSS into Angular-CLI projects.
+- [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Tailwind CSS templates, components and resources.
+- [Tailwind Templates](https://www.tailwindtemplates.io/) - Tailwind CSS components.
+- [vue-cli-plugin-tailwind](https://github.com/forsartis/vue-cli-plugin-tailwind) - Vue CLI plugin that adds Tailwind CSS to a project.
+- [Tailwind Figma Kit](https://github.com/impulse/tailwindcss-figma-kit) - Figma Kit for Tailwind CSS.
+- [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest) - How to test Tailwind CSS plugins with Jest.
+- [Tailwind setup with Webpack4 and PostCSS](https://paramagicdev.github.io/my-blog/javascript/tailwindWebpackPostCSS/) - How to setup Tailwind CSS with PostCSS and Webpack.
 
 
 ## Projects Using Tailwind CSS
@@ -262,7 +260,7 @@ to boost your presentations.
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](contributing.md) first. 
 
 
 ## License
