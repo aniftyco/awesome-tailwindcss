@@ -234,7 +234,6 @@ to boost your presentations.
 - [Building a Nav with Tailwind CSS](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css)
 - [How to Style a Form With Tailwind CSS](https://css-tricks.com/style-form-tailwind-css/)
 - [Building a Photo Gallery With CSS Grid and Tailwind CSS](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css)
-- [Create a Sticky Footer Using Tailwind CSS](https://jimshannon.me/blog/create-a-sticky-footer-using-tailwind-css)
 - [Interactive Tailwind + Vue Responsive Navbar](https://codepen.io/joshmanders/pen/PQQBoR)
 - [Collection of marketing site templates](https://github.com/colmtuite/tailwind-template)
 - [Plugin Examples (Official)](https://github.com/tailwindcss/plugin-examples)
