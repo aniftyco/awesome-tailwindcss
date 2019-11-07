@@ -117,7 +117,6 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Guillaume Briday](https://guillaumebriday.fr)
 - [Hello Sun](https://hellosun.brussels/en/)
 - [Onur Şuyalçınkaya](https://suyalcinkaya.me)
-- [Faruno](https://www.faruno.co): A unique email address for every service you use within one inbox
 - [University of West London](https://www.uwl.ac.uk)
 - [OpenEmu](http://openemu.org)
 - [Alice's Magical Maze](https://alice.thomasverhelst.be/game)
