@@ -2,21 +2,21 @@
 
 Please be sure to follow the [Tailwind CSS Community Guidelines](https://github.com/tailwindcss/tailwindcss/blob/master/.github/CODE_OF_CONDUCT.md). After your pull request, this list must still be elligible for [awesome](https://github.com/sindresorhus/awesome).
 
-## General guidelines
+## General Guidelines
 
 1. Respect the formats and categories described below.
 2. Make sure your item is **awesome**.
     - > Only has awesome items. Awesome lists are curations of the best, not everything. 
       > *— [Awesome Guidelines](https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md#requirements-for-your-awesome-list)*
-3. If the item you add is a [plugin](README.md/#plugins), an [UI Library/Component](README.md/#ui-libraries--components), an [open-source project](README.md/#open-source-projects), or an [app or website](README.md/#apps--websites) add it **to the bottom of the list**. However, in the [Resources](README.md/#resources) sub-categories, try to regroup similar items.
+3. If the item is a [plugin](README.md/#plugins), an [UI Library/Component](README.md/#ui-libraries--components), an [open-source project](README.md/#open-source-projects), or an [app or website](README.md/#apps--websites), it must be added **to the bottom of the list**. The other [Resources](README.md/#resources) sub-categories may have specific rules described in their sections.
 4. Use [`awesome-lint`](https://github.com/sindresorhus/awesome-lint) before sending your pull request. You can ignore the following lint errors:
-    - `License was not detected by GitHub (remark-lint:awesome/github)`
-    - `The repository should have ... as a GitHub topic (remark-lint:awesome/github)`
-    - `Link to ... is dead (remark-lint:no-dead-urls)` (until https://github.com/transitive-bullshit/check-links/issues/4 is resolved)
+    - `License was not detected by GitHub` (`remark-lint:awesome/github`)
+    - `The repository should have ... as a GitHub topic` (`remark-lint:awesome/github`)
+    - `Link to ... is dead` (`remark-lint:no-dead-urls`) (until https://github.com/transitive-bullshit/check-links/issues/4 is resolved)
 5. Please list the items you have added in the description of the pull request (if applicable) for faster PR approbation.
 6. Be awesome. 👓
 
-## Formats, naming conventions and descriptions
+## Formats, Naming Conventions and Descriptions
 
 - Every item MUST have the following format: `[Item Name](link) - Description.`.
 - Every name and description must be in english.
