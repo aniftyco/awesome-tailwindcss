@@ -71,12 +71,12 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 
 > 🛑 - *The functionalities these plugins below offer have been fully or partially implemented in the latest Tailwind CSS versions.*
 
-* 🛑 [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden) - Adds screen reader utilities. 
-* 🛑 [Object Fit](https://github.com/hendrikeng/tailwindcss-object-fit) - Adds `object-fit` utilities.
-* 🛑 [Object Position](https://github.com/hacknug/tailwindcss-object-position) - Adds `object-position` utilities.
-* 🛑 [Accessibility](https://github.com/jack-pallot/tailwindcss-accessibility) - Adds screen reader utilities.
-* 🛑 [Layout](https://github.com/benface/tailwindcss-layout) - Adds some layout utilities.
-* 🛑 [Important](https://github.com/chasegiunta/tailwindcss-important) - Adds an `important` variant.
+- 🛑 [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden) - Adds screen reader utilities. 
+- 🛑 [Object Fit](https://github.com/hendrikeng/tailwindcss-object-fit) - Adds `object-fit` utilities.
+- 🛑 [Object Position](https://github.com/hacknug/tailwindcss-object-position) - Adds `object-position` utilities.
+- 🛑 [Accessibility](https://github.com/jack-pallot/tailwindcss-accessibility) - Adds screen reader utilities.
+- 🛑 [Layout](https://github.com/benface/tailwindcss-layout) - Adds some layout utilities.
+- 🛑 [Important](https://github.com/chasegiunta/tailwindcss-important) - Adds an `important` variant.
 
 
 ## UI Libraries & Components
