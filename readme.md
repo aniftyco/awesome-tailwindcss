@@ -1,5 +1,8 @@
 # Awesome Tailwind CSS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+
+[<img src="tailwind-css-logo.svg" align="right" width="100">](https://tailwindcss.com)
+
 > A curated list of awesome things related to Tailwind CSS
 
 Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces.
