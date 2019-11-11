@@ -229,58 +229,58 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 
 ### Apps & Websites
 
-- [University of West London](https://www.uwl.ac.uk) - UWL's website.
-- [Merched.com](https://merched.com) - Design-selling platform.
-- [NiftyCo](https://aniftyco.com) - Website of NiftyCo.
-- [Josh Manders](https://joshmanders.com) - Josh Manders's website.
-- [Matt Stauffer](https://mattstauffer.com) - Matt Stauffer's website.
-- [Miguel Piedrafita](https://miguelpiedrafita.com) - Miguel Piedrafita's website.
-- [Blogcast](https://blogcast.host) - Tool for generating audio out of blog posts.
-- [Lichter.io (Alexander Lichter)](https://lichter.io) - Alexander Lichter's website.
-- [Rias](https://rias.be) - Rias' blog.
-- [Freek Van der Herten](https://murze.be) - Freek Van der Herten's blog.
-- [Taylor Bryant](https://taylorbryant.blog) - Taylor Bryant's blog.
-- [Oliver Davies](https://www.oliverdavies.uk) - Oliver Davies's blog.
-- [BaseCode](https://basecodefieldguide.com) - Coding advice website.
-- [Joey Beninghove](https://joey.io) - Joey Beninghove's blog.
-- [Stefan Bauer](https://stefanbauer.me) - Stefan Bauer's blog.
-- [Eyewitness.io](https://eyewitness.io) - Laravel monitoring application.
-- [Laravel Spark](https://spark.laravel.com) - Laravel Spark package's website.
-- [Sitesauce](https://sitesauce.app) - Static site generator.
-- [Milan Chheda](https://milanchheda.com) - Milan Chheda's blog.
-- [Matheus Lima](https://matheuslima.com.br) - Matheus Lima's blog.
-- [CSS Cursors](https://css-cursors.netlify.com) - CSS cursors cheat sheet.
-- [Developmint](https://developmint.de) - Development company.
-- [Rational Investment Management](https://rationalim.com) - Rational Investment Management's website.
-- [Stephen Popoola](https://stephenpopoola.uk) - Stephen Popoola's website.
-- [Vince Mitchell](http://vincemitchell.me) - Vince Mitchell's website.
-- [Marco Mark](https://www.marcomark.net) - Marco Mark's website.
-- [Nehal Hasnayeen](https://hasnayeen.github.io) - Nehal Hasnayeen's website.
-- [Plowman Craven](https://www.plowmancraven.co.uk) - Survey company.
-- [Our Name is Mud](https://www.ournameismud.co.uk) - Development company.
-- [BudgetDuo](https://budgetduo.com) - Calculator tool.
-- [Quickwords](https://quickwords.co) - Quickwords application's website.
-- [The MBR Site](https://www.thembrsite.com) - Membrane Bioreactors' website.
-- [Peter Fox](https://www.peterfox.me) - Peter Fox's website.
-- [Martin Williams](https://www.martinwilliamsart.co.uk) - Martin Williams' website.
-- [Brahms Electric Hearses](https://www.electrichearse.co.uk) - Electric Vehicle company website.
-- [Sjabloon](https://www.getsjabloon.com) - Open-source package website.
-- [Guillaume Briday](https://guillaumebriday.fr) - Guillaume Briday's blog.
-- [Hello Sun](https://hellosun.brussels) - Hello Sun's website.
-- [Onur Şuyalçınkaya](https://suyalcinkaya.me) - Onur Şuyalçınkaya's website.
-- [OpenEmu](http://openemu.org) - Website of OpenEmu.
-- [Alice's Magical Maze](https://alice.thomasverhelst.be/game) - Online game.
-- [sleeplessmind.info](https://sleeplessmind.info) - A cool website.
-- [The Speedcube Site](https://speedcube.site) - Cubing platform.
-- [Woburn Mosaic](https://www.woburnmosaic.co.uk) - Contemporary art gallery.
-- [Hunsbury Hot Tubs](https://www.hunsburyhottubs.co.uk) - Family business.
-- [DigitalDam](https://digitaldam.ca) - Automated backup/snapshot scheduling for DigitalOcean droplets.
-- [SlidesGo](https://slidesgo.com) - Google Slides and Powerpoint templates.
-- [BuildPulse](https://buildpulse.io) - GitHub app helping you win the fight against flaky builds.
-- [ScrumGenius](https://scrumgenius.com) - Slack and Microsoft Teams stand-up automation.
-- [AwesomeTechStack](https://awesometechstack.com) - Techstack anaylizer tool.
-- [Allan White](https://allanwhite.design/) - Allan White's website.
-- [Dance of Dawn](https://www.danceofdawn.com/) - Dance of Dawn website.
+- [University of West London](https://www.uwl.ac.uk)
+- [Merched.com](https://merched.com)
+- [NiftyCo](https://aniftyco.com)
+- [Josh Manders](https://joshmanders.com)
+- [Matt Stauffer](https://mattstauffer.com)
+- [Miguel Piedrafita](https://miguelpiedrafita.com)
+- [Blogcast](https://blogcast.host)
+- [Lichter.io (Alexander Lichter)](https://lichter.io)
+- [Rias](https://rias.be)
+- [Freek Van der Herten](https://murze.be)
+- [Taylor Bryant](https://taylorbryant.blog)
+- [Oliver Davies](https://www.oliverdavies.uk)
+- [BaseCode](https://basecodefieldguide.com)
+- [Joey Beninghove](https://joey.io)
+- [Stefan Bauer](https://stefanbauer.me)
+- [Eyewitness.io](https://eyewitness.io)
+- [Laravel Spark](https://spark.laravel.com)
+- [Sitesauce](https://sitesauce.app)
+- [Milan Chheda](https://milanchheda.com)
+- [Matheus Lima](https://matheuslima.com.br)
+- [CSS Cursors](https://css-cursors.netlify.com)
+- [Developmint](https://developmint.de)
+- [Rational Investment Management](https://rationalim.com)
+- [Stephen Popoola](https://stephenpopoola.uk)
+- [Vince Mitchell](http://vincemitchell.me)
+- [Marco Mark](https://www.marcomark.net)
+- [Nehal Hasnayeen](https://hasnayeen.github.io)
+- [Plowman Craven](https://www.plowmancraven.co.uk)
+- [Our Name is Mud](https://www.ournameismud.co.uk)
+- [BudgetDuo](https://budgetduo.com)
+- [Quickwords](https://quickwords.co)
+- [The MBR Site](https://www.thembrsite.com)
+- [Peter Fox](https://www.peterfox.me)
+- [Martin Williams](https://www.martinwilliamsart.co.uk)
+- [Brahms Electric Hearses](https://www.electrichearse.co.uk)
+- [Sjabloon](https://www.getsjabloon.com)
+- [Guillaume Briday](https://guillaumebriday.fr)
+- [Hello Sun](https://hellosun.brussels)
+- [Onur Şuyalçınkaya](https://suyalcinkaya.me)
+- [OpenEmu](http://openemu.org)
+- [Alice's Magical Maze](https://alice.thomasverhelst.be/game)
+- [sleeplessmind.info](https://sleeplessmind.info)
+- [The Speedcube Site](https://speedcube.site)
+- [Woburn Mosaic](https://www.woburnmosaic.co.uk)
+- [Hunsbury Hot Tubs](https://www.hunsburyhottubs.co.uk)
+- [DigitalDam](https://digitaldam.ca)
+- [SlidesGo](https://slidesgo.com)
+- [BuildPulse](https://buildpulse.io)
+- [ScrumGenius](https://scrumgenius.com)
+- [AwesomeTechStack](https://awesometechstack.com)
+- [Allan White](https://allanwhite.design/)
+- [Dance of Dawn](https://www.danceofdawn.com/)
 
 
 ## Contribute

@@ -89,6 +89,4 @@ Anything that is a material that can be used to better understand Tailwind CSS c
 
 ### Apps & Websites
 
-Any application, blog, or website that was built with Tailwind CSS and that is awesome enough can be added here. It must be something that features what can be done with the framework. You can promote your own stuff here, but it should be awesome enough, as it can't be a list of all Tailwind CSS websites ever. 
-
-Descriptions here do not need to be explicit or describing the content of the website. The name of the link should be the name of the blogger, the name of the application or the title of the website. Its description can be either `<name>'s website` or **briefly** describe the owner of the site.
+Any application, blog, or website that was built with Tailwind CSS and that is awesome enough can be added here. It must be something that features what can be done with the framework. You can promote your own stuff here, but it should be awesome enough, as it can't be a list of all Tailwind CSS websites ever. No description needed.
