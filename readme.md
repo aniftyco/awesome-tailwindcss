@@ -5,7 +5,7 @@
 
 > A curated list of awesome things related to Tailwind CSS
 
-Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces.
+[Tailwind CSS](https://tailwindcss.com) is a utility-first CSS framework for rapidly building custom user interfaces.
 
 
 ## Contents
