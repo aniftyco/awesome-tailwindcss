@@ -1,12 +1,12 @@
 # Awesome Tailwind CSS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
 [<img src="tailwind-css-logo.svg" align="right" width="100">](https://tailwindcss.com)
 
 > A curated list of awesome things related to Tailwind CSS
 
 [Tailwind CSS](https://tailwindcss.com) is a utility-first CSS framework for rapidly building custom user interfaces.
 
+🌟 **[Tailwind UI](https://tailwindui.com "Tailwind UI")** 🌟 - Beautifully designed components and templates, hand-crafted using the CSS framework you already know and love.
 
 ## Contents
 
@@ -20,7 +20,6 @@
   - [Open-Source Projects](#open-source-projects)
   - [Learning](#learning)
   - [Apps & Websites](#apps--websites)
-
 
 ## Plugins
 
@@ -67,20 +66,19 @@
 - [Spaced Items](https://github.com/n1kk/tailwindcss-spaced-items) - Adds `spaced` components that add fixed margins to all container items, except the last one.
 - [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - Ads [Hero Patterns](https://www.heropatterns.com) components.
 - [Localized](https://github.com/hdodov/tailwindcss-localized) - Adds variants based on the HTML `lang` attribute, to use utilities only with certain languages.
-- [Skip link](https://github.com/opdavies/tailwindcss-skip-link) - Adds a *Skip to main content* accessible component.
+- [Skip link](https://github.com/opdavies/tailwindcss-skip-link) - Adds a _Skip to main content_ accessible component.
 - [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) - Adds custom variants to Tailwind CSS's configuration.
 - [Custom Native](https://github.com/SirNavith/tailwindcss-custom-native) - Leverages Tailwind CSS's configuration to allow the creation of utilities.
 - [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) - Adds utilities to truncate multi-line text elements.
 
-> 🛑 - *The functionalities these plugins below offer have been fully or partially implemented in the latest Tailwind CSS versions.*
+> 🛑 - _The functionalities these plugins below offer have been fully or partially implemented in the latest Tailwind CSS versions._
 
-- 🛑 [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden) - Adds screen reader utilities. 
+- 🛑 [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden) - Adds screen reader utilities.
 - 🛑 [Object Fit](https://github.com/hendrikeng/tailwindcss-object-fit) - Adds `object-fit` utilities.
 - 🛑 [Object Position](https://github.com/hacknug/tailwindcss-object-position) - Adds `object-position` utilities.
 - 🛑 [Accessibility](https://github.com/jack-pallot/tailwindcss-accessibility) - Adds screen reader utilities.
 - 🛑 [Layout](https://github.com/benface/tailwindcss-layout) - Adds some layout utilities.
 - 🛑 [Important](https://github.com/chasegiunta/tailwindcss-important) - Adds an `important` variant.
-
 
 ## UI Libraries & Components
 
@@ -132,7 +130,7 @@
 | 🌍    | Online accessible                              |
 | 🧪    | Conversion or upgrade tool                     |
 | 🔧    | Generator                                      |
-| 🅰    | Typing/enforcement                             |
+| 🅰     | Typing/enforcement                             |
 | 💼    | Plugins/Tools/Extensions for external services |
 
 ### Starters, Templates & Themes
@@ -159,11 +157,11 @@
 - 🎨 [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid) - Wordpress Theme and PWA using Tailwind CSS.
 - 🎨 [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) - Hugo Theme using Tailwind CSS.
 
-| Emoji | Description                                    |
-| ----- | ---------------------------------------------- |
-| 🔧    | Starters & Boilerplates                        |
-| 🛠    | Starter packages                               |
-| 🎨    | Templates & Themes                             |
+| Emoji | Description             |
+| ----- | ----------------------- |
+| 🔧    | Starters & Boilerplates |
+| 🛠     | Starter packages        |
+| 🎨    | Templates & Themes      |
 
 ### IDE Extensions
 
@@ -282,11 +280,9 @@
 - [Allan White](https://allanwhite.design/)
 - [Dance of Dawn](https://www.danceofdawn.com/)
 
-
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first. 
-
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## License
 
