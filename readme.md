@@ -6,7 +6,11 @@
 
 [Tailwind CSS](https://tailwindcss.com) is a utility-first CSS framework for rapidly building custom user interfaces.
 
+---
+
 🌟 **[Tailwind UI](https://tailwindui.com "Tailwind UI")** 🌟 - Beautifully designed components and templates, hand-crafted using the CSS framework you already know and love.
+
+---
 
 ## Contents
 
