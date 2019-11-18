@@ -74,6 +74,7 @@
 - [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) - Adds custom variants to Tailwind CSS's configuration.
 - [Custom Native](https://github.com/SirNavith/tailwindcss-custom-native) - Leverages Tailwind CSS's configuration to allow the creation of utilities.
 - [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) - Adds utilities to truncate multi-line text elements.
+- [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Adds a component that shows the currently active screen (responsive breakpoint).
 
 > 🛑 - _The functionalities these plugins below offer have been fully or partially implemented in the latest Tailwind CSS versions._
 
