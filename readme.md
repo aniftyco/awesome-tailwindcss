@@ -174,7 +174,7 @@
 - [Tailwind CSS IntelliSense for VS Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Visual Studio Code IntelliSense extension for Tailwind CSS.
 - [Tailwind CSS Styled Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets) - Visual Studio Code snippet extension for Tailwind CSS.
 - [Tailwind CSS IntelliSense for Neovim](https://github.com/iamcco/coc-tailwindcss) - Neovim IntelliSense extension for Tailwind CSS.
-- [Headwind](https://github.com/heybourn/headwind) - An opinionated TailwindCSS class sorter built for Visual Studio Code
+- [Headwind](https://github.com/heybourn/headwind) - Visual Studio Code class sorter for Tailwind CSS.
 
 ### Open-Source Projects
 
