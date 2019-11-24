@@ -234,10 +234,9 @@
 
 ### Apps & Websites
 
-- [University of West London](https://www.uwl.ac.uk)
-- [Merched.com](https://merched.com)
-- [NiftyCo](https://aniftyco.com)
 - [Josh Manders](https://joshmanders.com)
+- [App Metrics](https://appmetrics.co)
+- [Full Snack Developer](https://full.snack.dev)
 - [Matt Stauffer](https://mattstauffer.com)
 - [Miguel Piedrafita](https://miguelpiedrafita.com)
 - [Blogcast](https://blogcast.host)
@@ -247,6 +246,7 @@
 - [Taylor Bryant](https://taylorbryant.blog)
 - [Oliver Davies](https://www.oliverdavies.uk)
 - [BaseCode](https://basecodefieldguide.com)
+- [University of West London](https://www.uwl.ac.uk)
 - [Joey Beninghove](https://joey.io)
 - [Stefan Bauer](https://stefanbauer.me)
 - [Eyewitness.io](https://eyewitness.io)
