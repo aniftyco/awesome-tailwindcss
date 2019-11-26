@@ -129,7 +129,7 @@
 - 💼 [vue-cli-plugin-tailwind](https://github.com/forsartis/vue-cli-plugin-tailwind) - Vue CLI plugin that adds Tailwind CSS to a project.
 - 💼 [Tailwind CSS Figma Kit](https://github.com/impulse/tailwindcss-figma-kit) - Figma Kit for Tailwind CSS.
 - 💼 [Tailwind CSS Figma Plugin](https://github.com/impulse/tailwindcss-figma-plugin) - Figma plugin that integrates Tailwind CSS.
-- 🧪 [RustyWind](https://github.com/avencera/rustywind) - CLI for sorting Tailwind CSS classes 
+- 🧪 [RustyWind](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 
 | Emoji | Description                                    |
 | ----- | ---------------------------------------------- |
