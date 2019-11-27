@@ -122,6 +122,7 @@
 - 🅰 [typed-tailwind](https://github.com/dvkndn/typed-tailwind) - TypeScript typings for Tailwind CSS.
 - 💼🔧 [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f) - Zeplin extension that generates Tailwind configurations.
 - 💼 [Gatsby Plugin Tailwind CSS](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) - Gastby plugin to use Tailwind CSS with CSS-in-JS.
+- 💼 [Gridsome Plugin Tailwind CSS](https://github.com/brandonpittman/gridsome-plugin-tailwindcss) - Gridsome plugin to use Tailwind CSS with PurgeCSS, postcss-import, and postcss-env.
 - 🔧 [re-tailwind](https://github.com/phthhieu/re-tailwind) - ReasonML utility that generates Tailwind classes.
 - 🅰 [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - React Native typing system.
 - 💼 [Alfred Workflow](https://github.com/clnt/alfred-tailwindcss-docs) - Fast Tailwind CSS documentation search application.
