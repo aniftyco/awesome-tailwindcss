@@ -184,6 +184,7 @@
 - [Goodwork](https://github.com/iluminar/goodwork) - Project Management & Collaboration tool.
 - [Statusfy](https://github.com/bazzite/statusfy) - Status page system using Tailwind CSS.
 - [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs) - To-do list application using Tailwind CSS.
+- [LeagueStats](https://github.com/vkaelin/LeagueStats) - Statistics website for League of Legends players.
 
 ### Learning
 
