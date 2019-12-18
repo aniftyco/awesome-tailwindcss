@@ -50,7 +50,8 @@
 - [Border Gradients](https://github.com/cossssmin/tailwindcss-border-gradients) - Adds `border-image` gradient utilities.
 - [RFS](https://github.com/aerni/tailwindcss-rfs) - Adds [`RFS`](https://github.com/twbs/rfs) utilities.
 - [Font Variant Numeric](https://github.com/philippbosch/tailwindcss-font-variant-numeric) - Adds `font-variant-numeric` utilities.
-- [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Adds `dark` variants based on the `prefers-color-scheme` media query.
+- [Dark Mode (deprecated)](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Adds `dark` variants based on the `prefers-color-scheme` media query.
+- [DarkMode](https://github.com/danestves/tailwindcss-darkmode) - Adds `dark` variants based on a class in `html` or `body`, default class for use `dark` is `.dark-mode`.
 - [Vue.js](https://github.com/opdavies/tailwindcss-vuejs) - Adds visibility classes that work with Vue.js's `v-cloak` directive.
 - [List Reset](https://github.com/opdavies/tailwindcss-list-reset) - Re-adds the `list-reset` class that was removed prior to Tailwind CSS 1.0.
 - [Fluid](https://github.com/bradlc/tailwindcss-fluid) - Adds fluid sizing utilities.
