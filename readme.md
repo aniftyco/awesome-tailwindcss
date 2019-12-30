@@ -110,7 +110,6 @@
 
 ### Tools
 
-- 🌍🔧 [TailwindCSS Palette Generator](https://tailwindcss-palette-generator.coderello.com/) - Palette generator for Tailwind CSS (online).
 - 🌍🔧 [Color shades generator](https://javisperez.github.io/tailwindcolorshades) - Color shades generator for Tailwind CSS (online).
 - 🌍🔧 [Color palette generator](https://adevade.github.io/color-scheme-generator) - Color palette generator that outputs a color configuration for Tailwind CSS (online).
 - 🌍 [Tailwind Button Playground](https://minthemiddle.github.io/tailwind-button-playground) - Playground for theming a button with Tailwind CSS (online).
@@ -134,6 +133,7 @@
 - 💼 [Tailwind CSS Figma Plugin](https://github.com/impulse/tailwindcss-figma-plugin) - Figma plugin that integrates Tailwind CSS.
 - 🧪 [RustyWind](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 - 🔧 [Protoship Codegen](https://protoship.io) - Code generator that creates Tailwind CSS based HTML & CSS from Sketch designs.
+- 🌍🔧 [TailwindCSS Palette Generator](https://tailwindcss-palette-generator.coderello.com/) - Palette generator for Tailwind CSS (online).
 
 | Emoji | Description                                    |
 | ----- | ---------------------------------------------- |
