@@ -193,7 +193,7 @@
 
 - 🧪 [Tailwind Dark Mode Theme Switcher](https://github.com/huphtur/tailwind-theme-switcher) - Switching themes with CSS Custom Properties and Tailwind CSS.
 - 🧪 [Plugin Examples (Official)](https://github.com/tailwindcss/plugin-examples) - Official plugin examples.
-- 🧪 [Acquia](https://github.com/opdavies/ing-acquia) - Acquia’s hosting dashboard rebuilt with Vue.js and Tailwind CSS.
+- 🧪 [Acquia](https://github.com/opdavies/rebuilding-acquia) - Acquia’s hosting dashboard rebuilt with Vue.js and Tailwind CSS.
 - 🧪 [Navbar](https://codepen.io/joshmanders/pen/PQQBoR) - Navbar made with Vue.js and Tailwind CSS.
 - 🧪 [Toggle switch](https://github.com/TowelSoftware/tailwindcss-toggle) - Switch using Tailwind CSS.
 - 🔧 [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest) - How to test Tailwind CSS plugins with Jest.
