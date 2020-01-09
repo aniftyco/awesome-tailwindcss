@@ -218,6 +218,7 @@
 - 🎬 [Let’s Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) - Dribbble shot with Tailwind CSS.
 - 🎬 [Let’s Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - Building a Tweet component with Tailwind CSS.
 - 🎓 [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) - Creating a modal dialog with Tailwind CSS.
+- 🎓 [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - Examples of building UIs of Shopify, Spotify, Netlify and Atlassian using Tailwind CSS. 
 - 🎓 [Rebuilding FreshBooks](http://joey.io/rebuilding-freshbooks-with-tailwind-css) - Rebuilding FreshBooks with Tailwind CSS.
 - 🎓 [Login Page (PingPing)](https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss) - Creating a login page with Tailwind CSS.
 - 🎓 [Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page) - Creating a login page with Tailwind CSS.
