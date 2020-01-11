@@ -28,13 +28,10 @@
 ## Plugins
 
 - [Custom Forms (Official)](https://github.com/tailwindcss/custom-forms) - Adds better default styles to form elements.
-- [benface's transitions](https://github.com/benface/tailwindcss-transitions) - Adds configurable transition utilities, with or without CSS variables.
 - [Theming (Dark/Light)](https://github.com/hawezo/tailwindcss-theming) - Adds powerful theming capabilities with CSS variables and `prefers-color-scheme`.
 - [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) - Adds `text-indent` utilities.
-- [Transforms](https://github.com/benface/tailwindcss-transforms) - Adds `transform` utilities.
 - [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) - Adds `image-rendering` utilities.
 - [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) - Extends `cursor` utilities.
-- [Grid](https://github.com/chrisrowe/tailwindcss-grid) - Adds CSS grids utilities.
 - [Filters](https://github.com/benface/tailwindcss-filters) - Adds `filter` utilities.
 - [Spinner](https://github.com/aniftyco/tailwindcss-spinner) - Adds a spinner utility.
 - [Elevation](https://github.com/jonaskay/tailwindcss-elevation) - Adds [Material UI `elevation`](https://material.io/design/environment/elevation.html) utilities.
@@ -61,8 +58,6 @@
 - [Bootstrap Tables](https://github.com/drehimself/tailwindcss-tables) - Adds table utilities based on Bootstrap's tables.
 - [Typography](https://github.com/benface/tailwindcss-typography) - Adds typography utilities.
 - [Card](https://github.com/NathanHeffley/tailwindcss-card) - Adds card components.
-- [webdna's transitions](https://github.com/webdna/tailwindcss-transition) - Adds configurable transition utilities.
-- [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) - Adds basic transition utilities.
 - [Triangle After](https://github.com/chrisrowe/tailwindcss-triangle-after) - Adds CSS triangles utilities.
 - [Scrims](https://github.com/brettgullan/tailwindcss-scrims) - Adds scrims utilities.
 - [Colors to CSS Variables](https://github.com/n1kk/tailwind-color-vars) - Exports color configuration to CSS Custom Properties.
@@ -85,6 +80,13 @@
 - 🛑 [Accessibility](https://github.com/jack-pallot/tailwindcss-accessibility) - Adds screen reader utilities.
 - 🛑 [Layout](https://github.com/benface/tailwindcss-layout) - Adds some layout utilities.
 - 🛑 [Important](https://github.com/chasegiunta/tailwindcss-important) - Adds an `important` variant.
+- 🛑 [Grid](https://github.com/chrisrowe/tailwindcss-grid) - Adds CSS grids utilities.
+- 🛑 [Transforms](https://github.com/benface/tailwindcss-transforms) - Adds `transform` utilities.
+- 🛑 [benface's transitions](https://github.com/benface/tailwindcss-transitions) - Adds configurable transition utilities, with or without CSS variables.
+- 🛑 [webdna's transitions](https://github.com/webdna/tailwindcss-transition) - Adds configurable transition utilities.
+- 🛑 [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) - Adds basic transition utilities.
+
+
 
 ## UI Libraries & Components
 
