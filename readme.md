@@ -296,6 +296,7 @@
 - [Dance of Dawn](https://www.danceofdawn.com/)
 - [MOODZ Travel Gallery](https://moodz.yakovleva.dev/)
 - [Laravel Livewire](https://laravel-livewire.com/)
+- [Valohai](https://valohai.com)
 
 ## Contribute
 
