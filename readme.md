@@ -300,6 +300,7 @@
 - [Laravel Livewire](https://laravel-livewire.com/)
 - [Valohai](https://valohai.com)
 - [GitInLog](https://www.gitinlog.com/)
+- [UptimeMate](https://uptimemate.com/)
 
 ## Contribute
 
