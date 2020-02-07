@@ -62,6 +62,7 @@
 - [Scrims](https://github.com/brettgullan/tailwindcss-scrims) - Adds scrims utilities.
 - [Colors to CSS Variables](https://github.com/n1kk/tailwind-color-vars) - Exports color configuration to CSS Custom Properties.
 - [CSS Variables](https://github.com/omarkhatibco/tailwind-css-variables) - Exports configuration to CSS Custom Properties.
+- [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) - Generate classnames for CSS Logical Properties for margin, padding, border-width, border-raduis, text-align, float & writing-mode.
 - [Spaced Items](https://github.com/n1kk/tailwindcss-spaced-items) - Adds `spaced` components that add fixed margins to all container items, except the last one.
 - [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - Ads [Hero Patterns](https://www.heropatterns.com) components.
 - [Localized](https://github.com/hdodov/tailwindcss-localized) - Adds variants based on the HTML `lang` attribute, to use utilities only with certain languages.
