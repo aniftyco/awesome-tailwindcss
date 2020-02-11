@@ -305,6 +305,7 @@
 - [Valohai](https://valohai.com)
 - [GitInLog](https://www.gitinlog.com/)
 - [UptimeMate](https://uptimemate.com/)
+- [myDID](https://mydid.dev)
 
 ## Contribute
 
