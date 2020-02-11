@@ -237,6 +237,7 @@
 - 🎥 [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)
 - 🎥 [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
 - 🎥 [Rebuilding Meetup](https://youtu.be/ULe6yKJrFuI)
+
 | Emoji | Type                       |
 | ----- | -------------------------- |
 | 🧪    | Sample                     |
