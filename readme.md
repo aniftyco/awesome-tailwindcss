@@ -31,7 +31,6 @@
 - [Theming (Dark/Light)](https://github.com/hawezo/tailwindcss-theming) - Adds powerful theming capabilities with CSS variables and `prefers-color-scheme`.
 - [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) - Adds `text-indent` utilities.
 - [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) - Adds `image-rendering` utilities.
-- [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) - Extends `cursor` utilities.
 - [Filters](https://github.com/benface/tailwindcss-filters) - Adds `filter` utilities.
 - [Spinner](https://github.com/aniftyco/tailwindcss-spinner) - Adds a spinner utility.
 - [Elevation](https://github.com/jonaskay/tailwindcss-elevation) - Adds [Material UI `elevation`](https://material.io/design/environment/elevation.html) utilities.
@@ -87,6 +86,7 @@
 - 🛑 [benface's transitions](https://github.com/benface/tailwindcss-transitions) - Adds configurable transition utilities, with or without CSS variables.
 - 🛑 [webdna's transitions](https://github.com/webdna/tailwindcss-transition) - Adds configurable transition utilities.
 - 🛑 [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) - Adds basic transition utilities.
+- 🛑 [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) - Extends `cursor` utilities.
 
 
 
