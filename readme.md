@@ -251,7 +251,6 @@
 ### Apps & Websites
 - [Josh Manders](https://joshmanders.com)
 - [App Metrics](https://appmetrics.co)
-- [Full Snack Developer](https://full.snack.dev)
 - [Matt Stauffer](https://mattstauffer.com)
 - [Miguel Piedrafita](https://miguelpiedrafita.com)
 - [Blogcast](https://blogcast.host)
