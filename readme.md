@@ -194,7 +194,7 @@
 - [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs) - To-do list application using Tailwind CSS.
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) - Statistics website for League of Legends players.
 - [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) - ecommerce using svelte & Tailwind CSS.
-- [Misiki Books](https://github.com/itswadesh/misiki-books) - Book shop using VueJS + Moltin + Tailwind CSS
++ [Misiki Books](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
 
 ### Learning
 
