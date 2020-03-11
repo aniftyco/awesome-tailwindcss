@@ -140,6 +140,7 @@
 - 🧪 [RustyWind](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 - 🔧 [Protoship Codegen](https://protoship.io) - Code generator that creates Tailwind CSS based HTML & CSS from Sketch designs.
 - 🌍🔧 [TailwindCSS Palette Generator](https://tailwindcss-palette-generator.coderello.com/) - Palette generator for Tailwind CSS (online).
+- 💼 [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) - Tailwind CSS module for NuxtJS with PurgeCSS and modern CSS (preset env 1).
 
 | Emoji | Description                                    |
 | ----- | ---------------------------------------------- |
@@ -308,6 +309,7 @@
 - [UptimeMate](https://uptimemate.com/)
 - [myDID](https://mydid.dev)
 - [Home Away From Home](https://homeawayfromhome.online)
+- [NuxtJS Documentation](https://nuxtjs.org)
 
 ## Contribute
 
