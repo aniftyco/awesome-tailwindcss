@@ -72,6 +72,7 @@
 - [Dark Mode with Class](https://github.com/danestves/tailwindcss-darkmode) - Adds `dark` variants based on CSS classes.
 - [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) - Generate classnames for CSS Logical Properties for margin, padding, border-width, border-raduis, text-align, float & writing-mode.
 - [CSS Scroll Snap](https://github.com/hawezo/tailwindcss-scroll-snap) - Adds `scroll-snap` utilities.
++ [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) - Adds opacity variants to existing colors.
 
 > 🛑 - _The functionalities these plugins below offer have been fully or partially implemented in the latest Tailwind CSS versions._
 
@@ -112,6 +113,7 @@
 - [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS class names, variants and directives cheat sheet.
 - [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet) - Tailwind CSS class names cheat sheet.
 - [tailwind.run](https://tailwind.run) - Tailwind CSS fiddle with built-time features (online).
+- [Maizzle](https://maizzle.com/) - Framework for rapid email prototyping with Tailwind CSS.
 
 ### Tools
 
@@ -139,6 +141,8 @@
 - 🧪 [RustyWind](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 - 🔧 [Protoship Codegen](https://protoship.io) - Code generator that creates Tailwind CSS based HTML & CSS from Sketch designs.
 - 🌍🔧 [TailwindCSS Palette Generator](https://tailwindcss-palette-generator.coderello.com/) - Palette generator for Tailwind CSS (online).
+- 💼 [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) - Tailwind CSS module for NuxtJS with PurgeCSS and modern CSS (preset env 1).
+- 💼 [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) - Adds Tailwind CSS module as PostCSS plugin and sets up PurgeCSS in production for PreactJS CLI Projects.
 
 | Emoji | Description                                    |
 | ----- | ---------------------------------------------- |
@@ -193,7 +197,7 @@
 - [Statusfy](https://github.com/bazzite/statusfy) - Status page system using Tailwind CSS.
 - [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs) - To-do list application using Tailwind CSS.
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) - Statistics website for League of Legends players.
-- [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) - ecommerce using svelte & Tailwind CSS.
+- [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) - ecommerce storefront using svelte & Tailwind CSS.
 + [Misiki Books](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
 
 ### Learning
@@ -310,6 +314,7 @@
 - [myDID](https://mydid.dev)
 - [Home Away From Home](https://homeawayfromhome.online)
 - [Litekart](https://www.litekart.in)
+- [NuxtJS Documentation](https://nuxtjs.org)
 
 ## Contribute
 
