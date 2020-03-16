@@ -197,6 +197,8 @@
 - [Statusfy](https://github.com/bazzite/statusfy) - Status page system using Tailwind CSS.
 - [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs) - To-do list application using Tailwind CSS.
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) - Statistics website for League of Legends players.
++ [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) - E-commerce storefront using Svelte & Tailwind CSS.
++ [Misiki Books](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
 
 ### Learning
 
@@ -311,6 +313,7 @@
 - [UptimeMate](https://uptimemate.com/)
 - [myDID](https://mydid.dev)
 - [Home Away From Home](https://homeawayfromhome.online)
+- [Litekart](https://www.litekart.in)
 - [NuxtJS Documentation](https://nuxtjs.org)
 
 ## Contribute
