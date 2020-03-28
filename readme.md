@@ -73,6 +73,7 @@
 - [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) - Generate classnames for CSS Logical Properties for margin, padding, border-width, border-raduis, text-align, float & writing-mode.
 - [CSS Scroll Snap](https://github.com/hawezo/tailwindcss-scroll-snap) - Adds `scroll-snap` utilities.
 + [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) - Adds opacity variants to existing colors.
+- [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) - Adds shadow outline based on a color.
 
 > 🛑 - _The functionalities these plugins below offer have been fully or partially implemented in the latest Tailwind CSS versions._
 
