@@ -315,6 +315,7 @@
 - [Home Away From Home](https://homeawayfromhome.online)
 - [Litekart](https://www.litekart.in)
 - [NuxtJS Documentation](https://nuxtjs.org)
+- [Vaggelis Yfantis](https://octoper.me)
 
 ## Contribute
 
