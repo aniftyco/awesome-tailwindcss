@@ -319,6 +319,7 @@
 - [Litekart](https://www.litekart.in)
 - [NuxtJS Documentation](https://nuxtjs.org)
 - [Vaggelis Yfantis](https://octoper.me)
+- [thismonthrocks](https://thismonth.rocks)
 
 ## Contribute
 
