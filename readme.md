@@ -58,6 +58,7 @@
 - [Typography](https://github.com/benface/tailwindcss-typography) - Adds typography utilities.
 - [Card](https://github.com/NathanHeffley/tailwindcss-card) - Adds card components.
 - [Triangle After](https://github.com/chrisrowe/tailwindcss-triangle-after) - Adds CSS triangles utilities.
+- [Tooltip Arrows After](https://github.com/gvital3230/tailwindcss-tooltip-arrow-after) - Adds CSS utilities for tooltip arrows with configurable border and background.
 - [Scrims](https://github.com/brettgullan/tailwindcss-scrims) - Adds scrims utilities.
 - [Colors to CSS Variables](https://github.com/n1kk/tailwind-color-vars) - Exports color configuration to CSS Custom Properties.
 - [CSS Variables](https://github.com/omarkhatibco/tailwind-css-variables) - Exports configuration to CSS Custom Properties.
