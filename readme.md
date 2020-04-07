@@ -118,6 +118,8 @@
 
 ### Tools
 
+**Legend**: 🌍 Online accessible · 🧪 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services
+
 - 🌍🔧 [Color shades generator](https://javisperez.github.io/tailwindcolorshades) - Color shades generator for Tailwind CSS (online).
 - 🌍🔧 [Color palette generator](https://adevade.github.io/color-scheme-generator) - Color palette generator that outputs a color configuration for Tailwind CSS (online).
 - 🌍 [Tailwind Button Playground](https://minthemiddle.github.io/tailwind-button-playground) - Playground for theming a button with Tailwind CSS (online).
@@ -146,15 +148,9 @@
 - 💼 [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) - Adds Tailwind CSS module as PostCSS plugin and sets up PurgeCSS in production for PreactJS CLI Projects.
 - 💼🔧 [@tailwindcssinjs/macro](https://github.com/Arthie/tailwindcssinjs) - Babel macro that transforms Tailwind CSS classes into objects for CSS-in-JS libraries.
 
-| Emoji | Description                                    |
-| ----- | ---------------------------------------------- |
-| 🌍    | Online accessible                              |
-| 🧪    | Conversion or upgrade tool                     |
-| 🔧    | Generator                                      |
-| 🅰     | Typing/enforcement                             |
-| 💼    | Plugins/Tools/Extensions for external services |
-
 ### Starters, Templates & Themes
+
+**Legend**: 🔧 Starters & Boilerplates · 🛠 Starter packages · 🎨 Templates & Themes
 
 - 🔧 [Jekyll Starter](https://github.com/mhanberg/jekyll-tailwind-starter) - Jekyll starter using Tailwind CSS.
 - 🔧 [Jekyll Starter](https://github.com/taylorbryant/tailwind-jekyll) - Jekyll starter using Tailwind CSS.
@@ -181,12 +177,6 @@
 - 🎨 [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid) - Wordpress Theme and PWA using Tailwind CSS.
 - 🎨 [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) - Hugo Theme using Tailwind CSS.
 
-| Emoji | Description             |
-| ----- | ----------------------- |
-| 🔧    | Starters & Boilerplates |
-| 🛠     | Starter packages        |
-| 🎨    | Templates & Themes      |
-
 ### IDE Extensions
 
 - [Tailwind CSS IntelliSense for VS Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Visual Studio Code IntelliSense extension for Tailwind CSS.
@@ -205,6 +195,8 @@
 - [Misiki Books](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
 
 ### Learning
+
+**Legend**: 🧪 Sample · 🔧 Setup Tutorial · 🎬 Video Tutorial · 🎓 Component or Page Tutorial · 🎥 Cast
 
 - 🧪 [Tailwind Dark Mode Theme Switcher](https://github.com/huphtur/tailwind-theme-switcher) - Switching themes with CSS Custom Properties and Tailwind CSS.
 - 🧪 [Plugin Examples (Official)](https://github.com/tailwindcss/plugin-examples) - Official plugin examples.
@@ -249,14 +241,6 @@
 - 🎥 [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)
 - 🎥 [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
 - 🎥 [Rebuilding Meetup](https://youtu.be/ULe6yKJrFuI)
-
-| Emoji | Type                       |
-| ----- | -------------------------- |
-| 🧪    | Sample                     |
-| 🔧    | Setup Tutorial             |
-| 🎬    | Video Tutorial             |
-| 🎓    | Component or Page Tutorial |
-| 🎥    | Cast                       |
 
 ### Apps & Websites
 
