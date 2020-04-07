@@ -228,7 +228,7 @@
 - 🎬 [Rebuilding YouTube](https://www.youtube.com/watch?v=qxQKnqmNKv0) - Rebuilding YouTube with Tailwind CSS.
 - 🎬 [Rebuilding Netlify](https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s) - Rebuilding Netlify with Tailwind CSS.
 - 🎬 [Rebuilding Resolute](https://www.youtube.com/watch?v=banq3TfAPYk) - Rebuilding Resolute with Tailwind CSS.
-- 🎬 [Let’s Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) - Building a movie production landing page with Tailwind CSS.
+- 🎬 [Let's Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) - Building a movie production landing page with Tailwind CSS.
 - 🎬 [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) - Building a responsive navbar with Tailwind CSS.
 - 🎬 [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) - Dribbble shot with Tailwind CSS.
 - 🎬 [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - Building a Tweet component with Tailwind CSS.
@@ -243,7 +243,7 @@
 - 🎓 [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) - How to style a form with Tailwind CSS.
 - 🎓 [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) - Building a photo gallery with CSS grids and Tailwind CSS.
 - 🎓 [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) - Rebuilding Bartik (Drupal's default theme) with Vue.js and Tailwind CSS.
-- 🎓 [Rebuilding Airbnb’s Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) - Rebuilding Airbnb's Home Page with Tailwind CSS.
+- 🎓 [Rebuilding Airbnb's Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) - Rebuilding Airbnb's Home Page with Tailwind CSS.
 - 🎥 [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
 - 🎥 [More experimentation with Tailwind CSS](https://www.youtube.com/watch?v=nBzfVK3QUzM)
 - 🎥 [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)
