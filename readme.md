@@ -1,4 +1,5 @@
 <!--lint ignore no-dead-urls-->
+
 # Awesome Tailwind CSS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/aniftyco/awesome-tailwindcss/workflows/Lint%20Awesome%20List/badge.svg)
 
 [<img src="tailwind-css-logo.svg" align="right" width="100">](https://tailwindcss.com)
@@ -90,8 +91,6 @@
 - 🛑 [webdna's transitions](https://github.com/webdna/tailwindcss-transition) - Adds configurable transition utilities.
 - 🛑 [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) - Adds basic transition utilities.
 - 🛑 [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) - Extends `cursor` utilities.
-
-
 
 ## UI Libraries & Components
 
@@ -201,8 +200,9 @@
 - [Statusfy](https://github.com/bazzite/statusfy) - Status page system using Tailwind CSS.
 - [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs) - To-do list application using Tailwind CSS.
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) - Statistics website for League of Legends players.
-+ [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) - E-commerce storefront using Svelte & Tailwind CSS.
-+ [Misiki Books](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
+
+* [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) - E-commerce storefront using Svelte & Tailwind CSS.
+* [Misiki Books](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
 
 ### Learning
 
@@ -233,7 +233,7 @@
 - 🎬 [Let’s Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) - Dribbble shot with Tailwind CSS.
 - 🎬 [Let’s Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - Building a Tweet component with Tailwind CSS.
 - 🎓 [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) - Creating a modal dialog with Tailwind CSS.
-- 🎓 [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - Examples of building UIs of Shopify, Spotify, Netlify and Atlassian using Tailwind CSS. 
+- 🎓 [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - Examples of building UIs of Shopify, Spotify, Netlify and Atlassian using Tailwind CSS.
 - 🎓 [Rebuilding FreshBooks](http://joey.io/rebuilding-freshbooks-with-tailwind-css) - Rebuilding FreshBooks with Tailwind CSS.
 - 🎓 [Login Page (PingPing)](https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss) - Creating a login page with Tailwind CSS.
 - 🎓 [Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page) - Creating a login page with Tailwind CSS.
@@ -259,6 +259,7 @@
 | 🎥    | Cast                       |
 
 ### Apps & Websites
+
 - [Josh Manders](https://joshmanders.com)
 - [App Metrics](https://appmetrics.co)
 - [Matt Stauffer](https://mattstauffer.com)
