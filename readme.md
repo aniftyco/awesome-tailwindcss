@@ -143,7 +143,6 @@
 - 💼 [Tailwind CSS Figma Plugin](https://github.com/impulse/tailwindcss-figma-plugin) - Figma plugin that integrates Tailwind CSS.
 - 🧪 [RustyWind](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 - 🔧 [Protoship Codegen](https://protoship.io) - Code generator that creates Tailwind CSS based HTML & CSS from Sketch designs.
-- 🌍🔧 [TailwindCSS Palette Generator](https://tailwindcss-palette-generator.coderello.com/) - Palette generator for Tailwind CSS (online).
 - 💼 [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) - Tailwind CSS module for NuxtJS with PurgeCSS and modern CSS (preset env 1).
 - 💼 [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) - Adds Tailwind CSS module as PostCSS plugin and sets up PurgeCSS in production for PreactJS CLI Projects.
 - 💼🔧 [@tailwindcssinjs/macro](https://github.com/Arthie/tailwindcssinjs) - Babel macro that transforms Tailwind CSS classes into objects for CSS-in-JS libraries.
@@ -257,7 +256,6 @@
 - [University of West London](https://www.uwl.ac.uk)
 - [Joey Beninghove](https://joey.io)
 - [Stefan Bauer](https://stefanbauer.me)
-- [Eyewitness.io](https://eyewitness.io)
 - [Laravel Spark](https://spark.laravel.com)
 - [Sitesauce](https://sitesauce.app)
 - [Milan Chheda](https://milanchheda.com)
@@ -280,9 +278,7 @@
 - [Sjabloon](https://www.getsjabloon.com)
 - [Guillaume Briday](https://guillaumebriday.fr)
 - [Hello Sun](https://hellosun.brussels)
-- [Onur Şuyalçınkaya](https://suyalcinkaya.me)
 - [OpenEmu](http://openemu.org)
-- [Alice's Magical Maze](https://alice.thomasverhelst.be/game)
 - [sleeplessmind.info](https://sleeplessmind.info)
 - [The Speedcube Site](https://speedcube.site)
 - [Woburn Mosaic](https://www.woburnmosaic.co.uk)
