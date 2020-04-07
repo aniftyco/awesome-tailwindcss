@@ -1,4 +1,5 @@
-# Awesome Tailwind CSS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<!--lint ignore no-dead-urls-->
+# Awesome Tailwind CSS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/aniftyco/awesome-tailwindcss/workflows/Lint%20Awesome%20List/badge.svg)
 
 [<img src="tailwind-css-logo.svg" align="right" width="100">](https://tailwindcss.com)
 
@@ -72,8 +73,8 @@
 - [Dark Mode with Class](https://github.com/danestves/tailwindcss-darkmode) - Adds `dark` variants based on CSS classes.
 - [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) - Generate classnames for CSS Logical Properties for margin, padding, border-width, border-raduis, text-align, float & writing-mode.
 - [CSS Scroll Snap](https://github.com/hawezo/tailwindcss-scroll-snap) - Adds `scroll-snap` utilities.
-+ [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) - Adds opacity variants to existing colors.
-+ [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) - Adds `box-shadow` utilities based on configured colors.
+- [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) - Adds opacity variants to existing colors.
+- [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) - Adds `box-shadow` utilities based on configured colors.
 
 > 🛑 - _The functionalities these plugins below offer have been fully or partially implemented in the latest Tailwind CSS versions._
 
