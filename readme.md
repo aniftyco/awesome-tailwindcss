@@ -1,4 +1,7 @@
-# Awesome Tailwind CSS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<!--lint disable no-dead-urls-->
+<!-- ignore all dead urls because of https://github.com/sindresorhus/awesome-lint/issues/89 -->
+
+# Awesome Tailwind CSS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/aniftyco/awesome-tailwindcss/workflows/Lint%20Awesome%20List/badge.svg)
 
 [<img src="tailwind-css-logo.svg" align="right" width="100">](https://tailwindcss.com)
 
@@ -8,7 +11,7 @@
 
 ---
 
-🌟 **[Tailwind UI](https://tailwindui.com "Tailwind UI")** 🌟 - Beautifully designed components and templates, hand-crafted using the CSS framework you already know and love.
+🌟 **[Tailwind UI](https://tailwindui.com)** 🌟 - Beautifully designed components and templates, hand-crafted using the CSS framework you already know and love.
 
 ---
 
@@ -72,8 +75,8 @@
 - [Dark Mode with Class](https://github.com/danestves/tailwindcss-darkmode) - Adds `dark` variants based on CSS classes.
 - [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) - Generate classnames for CSS Logical Properties for margin, padding, border-width, border-raduis, text-align, float & writing-mode.
 - [CSS Scroll Snap](https://github.com/hawezo/tailwindcss-scroll-snap) - Adds `scroll-snap` utilities.
-+ [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) - Adds opacity variants to existing colors.
-+ [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) - Adds `box-shadow` utilities based on configured colors.
+- [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) - Adds opacity variants to existing colors.
+- [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) - Adds `box-shadow` utilities based on configured colors.
 - [Tooltip Arrows After](https://github.com/gvital3230/tailwindcss-tooltip-arrow-after) - Adds CSS utilities for tooltip arrows with configurable border and background.
 
 > 🛑 - _The functionalities these plugins below offer have been fully or partially implemented in the latest Tailwind CSS versions._
@@ -90,8 +93,6 @@
 - 🛑 [webdna's transitions](https://github.com/webdna/tailwindcss-transition) - Adds configurable transition utilities.
 - 🛑 [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) - Adds basic transition utilities.
 - 🛑 [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) - Extends `cursor` utilities.
-
-
 
 ## UI Libraries & Components
 
@@ -119,6 +120,8 @@
 
 ### Tools
 
+**Legend**: 🌍 Online accessible · 🧪 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services
+
 - 🌍🔧 [Color shades generator](https://javisperez.github.io/tailwindcolorshades) - Color shades generator for Tailwind CSS (online).
 - 🌍🔧 [Color palette generator](https://adevade.github.io/color-scheme-generator) - Color palette generator that outputs a color configuration for Tailwind CSS (online).
 - 🌍 [Tailwind Button Playground](https://minthemiddle.github.io/tailwind-button-playground) - Playground for theming a button with Tailwind CSS (online).
@@ -142,20 +145,13 @@
 - 💼 [Tailwind CSS Figma Plugin](https://github.com/impulse/tailwindcss-figma-plugin) - Figma plugin that integrates Tailwind CSS.
 - 🧪 [RustyWind](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 - 🔧 [Protoship Codegen](https://protoship.io) - Code generator that creates Tailwind CSS based HTML & CSS from Sketch designs.
-- 🌍🔧 [TailwindCSS Palette Generator](https://tailwindcss-palette-generator.coderello.com/) - Palette generator for Tailwind CSS (online).
 - 💼 [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) - Tailwind CSS module for NuxtJS with PurgeCSS and modern CSS (preset env 1).
 - 💼 [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) - Adds Tailwind CSS module as PostCSS plugin and sets up PurgeCSS in production for PreactJS CLI Projects.
 - 💼🔧 [@tailwindcssinjs/macro](https://github.com/Arthie/tailwindcssinjs) - Babel macro that transforms Tailwind CSS classes into objects for CSS-in-JS libraries.
 
-| Emoji | Description                                    |
-| ----- | ---------------------------------------------- |
-| 🌍    | Online accessible                              |
-| 🧪    | Conversion or upgrade tool                     |
-| 🔧    | Generator                                      |
-| 🅰     | Typing/enforcement                             |
-| 💼    | Plugins/Tools/Extensions for external services |
-
 ### Starters, Templates & Themes
+
+**Legend**: 🔧 Starters & Boilerplates · 🛠 Starter packages · 🎨 Templates & Themes
 
 - 🔧 [Jekyll Starter](https://github.com/mhanberg/jekyll-tailwind-starter) - Jekyll starter using Tailwind CSS.
 - 🔧 [Jekyll Starter](https://github.com/taylorbryant/tailwind-jekyll) - Jekyll starter using Tailwind CSS.
@@ -182,12 +178,6 @@
 - 🎨 [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid) - Wordpress Theme and PWA using Tailwind CSS.
 - 🎨 [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) - Hugo Theme using Tailwind CSS.
 
-| Emoji | Description             |
-| ----- | ----------------------- |
-| 🔧    | Starters & Boilerplates |
-| 🛠     | Starter packages        |
-| 🎨    | Templates & Themes      |
-
 ### IDE Extensions
 
 - [Tailwind CSS IntelliSense for VS Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Visual Studio Code IntelliSense extension for Tailwind CSS.
@@ -201,14 +191,16 @@
 - [Statusfy](https://github.com/bazzite/statusfy) - Status page system using Tailwind CSS.
 - [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs) - To-do list application using Tailwind CSS.
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) - Statistics website for League of Legends players.
-+ [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) - E-commerce storefront using Svelte & Tailwind CSS.
-+ [Misiki Books](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
+- [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) - E-commerce storefront using Svelte & Tailwind CSS.
+- [Misiki Books](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
 
 ### Learning
 
+**Legend**: 🧪 Sample · 🔧 Setup Tutorial · 🎬 Video Tutorial · 🎓 Component or Page Tutorial · 🎥 Cast
+
 - 🧪 [Tailwind Dark Mode Theme Switcher](https://github.com/huphtur/tailwind-theme-switcher) - Switching themes with CSS Custom Properties and Tailwind CSS.
 - 🧪 [Plugin Examples (Official)](https://github.com/tailwindcss/plugin-examples) - Official plugin examples.
-- 🧪 [Acquia](https://github.com/opdavies/rebuilding-acquia) - Acquia’s hosting dashboard rebuilt with Vue.js and Tailwind CSS.
+- 🧪 [Acquia](https://github.com/opdavies/rebuilding-acquia) - Acquia's hosting dashboard rebuilt with Vue.js and Tailwind CSS.
 - 🧪 [Navbar](https://codepen.io/joshmanders/pen/PQQBoR) - Navbar made with Vue.js and Tailwind CSS.
 - 🧪 [Toggle switch](https://github.com/TowelSoftware/tailwindcss-toggle) - Switch using Tailwind CSS.
 - 🔧 [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest) - How to test Tailwind CSS plugins with Jest.
@@ -228,12 +220,12 @@
 - 🎬 [Rebuilding YouTube](https://www.youtube.com/watch?v=qxQKnqmNKv0) - Rebuilding YouTube with Tailwind CSS.
 - 🎬 [Rebuilding Netlify](https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s) - Rebuilding Netlify with Tailwind CSS.
 - 🎬 [Rebuilding Resolute](https://www.youtube.com/watch?v=banq3TfAPYk) - Rebuilding Resolute with Tailwind CSS.
-- 🎬 [Let’s Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) - Building a movie production landing page with Tailwind CSS.
+- 🎬 [Let's Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) - Building a movie production landing page with Tailwind CSS.
 - 🎬 [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) - Building a responsive navbar with Tailwind CSS.
-- 🎬 [Let’s Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) - Dribbble shot with Tailwind CSS.
-- 🎬 [Let’s Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - Building a Tweet component with Tailwind CSS.
+- 🎬 [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) - Dribbble shot with Tailwind CSS.
+- 🎬 [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - Building a Tweet component with Tailwind CSS.
 - 🎓 [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) - Creating a modal dialog with Tailwind CSS.
-- 🎓 [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - Examples of building UIs of Shopify, Spotify, Netlify and Atlassian using Tailwind CSS. 
+- 🎓 [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - Examples of building UIs of Shopify, Spotify, Netlify and Atlassian using Tailwind CSS.
 - 🎓 [Rebuilding FreshBooks](http://joey.io/rebuilding-freshbooks-with-tailwind-css) - Rebuilding FreshBooks with Tailwind CSS.
 - 🎓 [Login Page (PingPing)](https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss) - Creating a login page with Tailwind CSS.
 - 🎓 [Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page) - Creating a login page with Tailwind CSS.
@@ -242,23 +234,16 @@
 - 🎓 [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) - Building a navigation with Tailwind CSS.
 - 🎓 [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) - How to style a form with Tailwind CSS.
 - 🎓 [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) - Building a photo gallery with CSS grids and Tailwind CSS.
-- 🎓 [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) - Rebuilding Bartik (Drupal’s default theme) with Vue.js and Tailwind CSS.
-- 🎓 [Rebuilding Airbnb’s Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) - Rebuilding Airbnb’s Home Page with Tailwind CSS.
+- 🎓 [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) - Rebuilding Bartik (Drupal's default theme) with Vue.js and Tailwind CSS.
+- 🎓 [Rebuilding Airbnb's Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) - Rebuilding Airbnb's Home Page with Tailwind CSS.
 - 🎥 [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
 - 🎥 [More experimentation with Tailwind CSS](https://www.youtube.com/watch?v=nBzfVK3QUzM)
 - 🎥 [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)
 - 🎥 [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
 - 🎥 [Rebuilding Meetup](https://youtu.be/ULe6yKJrFuI)
 
-| Emoji | Type                       |
-| ----- | -------------------------- |
-| 🧪    | Sample                     |
-| 🔧    | Setup Tutorial             |
-| 🎬    | Video Tutorial             |
-| 🎓    | Component or Page Tutorial |
-| 🎥    | Cast                       |
-
 ### Apps & Websites
+
 - [Josh Manders](https://joshmanders.com)
 - [App Metrics](https://appmetrics.co)
 - [Matt Stauffer](https://mattstauffer.com)
@@ -273,7 +258,6 @@
 - [University of West London](https://www.uwl.ac.uk)
 - [Joey Beninghove](https://joey.io)
 - [Stefan Bauer](https://stefanbauer.me)
-- [Eyewitness.io](https://eyewitness.io)
 - [Laravel Spark](https://spark.laravel.com)
 - [Sitesauce](https://sitesauce.app)
 - [Milan Chheda](https://milanchheda.com)
@@ -296,9 +280,7 @@
 - [Sjabloon](https://www.getsjabloon.com)
 - [Guillaume Briday](https://guillaumebriday.fr)
 - [Hello Sun](https://hellosun.brussels)
-- [Onur Şuyalçınkaya](https://suyalcinkaya.me)
 - [OpenEmu](http://openemu.org)
-- [Alice's Magical Maze](https://alice.thomasverhelst.be/game)
 - [sleeplessmind.info](https://sleeplessmind.info)
 - [The Speedcube Site](https://speedcube.site)
 - [Woburn Mosaic](https://www.woburnmosaic.co.uk)
