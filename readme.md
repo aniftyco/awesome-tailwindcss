@@ -304,6 +304,7 @@
 - [NuxtJS Documentation](https://nuxtjs.org)
 - [Vaggelis Yfantis](https://octoper.me)
 - [This Month Rocks](https://thismonth.rocks)
+- [Aditya Agarwal](https://devadi.netlify.com)
 
 ## Contribute
 
