@@ -305,6 +305,7 @@
 - [Vaggelis Yfantis](https://octoper.me)
 - [This Month Rocks](https://thismonth.rocks)
 - [Aditya Agarwal](https://devadi.netlify.com)
+- [Dumpsters.com](https://www.dumpsters.com)
 
 ## Contribute
 
