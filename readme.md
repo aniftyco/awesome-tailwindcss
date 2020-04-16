@@ -103,7 +103,7 @@
 - [Tailwind Templates](https://www.tailwindtemplates.io) - Tailwind CSS components.
 - [jQuery + Tailwind Checkbox Toggle](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - Switches using jQuery and Tailwind CSS.
 - [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation?ref=awesome-tailwindcss) - Tailwind Starter Kit is an extension for TailwindCSS, Free and Open Source.
-- [a17t](https://a17t.rmrm.io) - Atomic design toolkit built to extend Tailwind CSS.
+- [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
 - [Tailwind Blocks](https://mert.dev/tailwind-blocks) - Tailwind CSS UI blocks for landing pages.
 
 ## Resources
