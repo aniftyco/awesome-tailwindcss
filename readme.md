@@ -78,6 +78,7 @@
 - [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) - Adds opacity variants to existing colors.
 - [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) - Adds `box-shadow` utilities based on configured colors.
 - [Tooltip Arrows After](https://github.com/gvital3230/tailwindcss-tooltip-arrow-after) - Adds CSS utilities for tooltip arrows with configurable border and background.
+- [Bidirectional](https://github.com/20lives/tailwindcss-rtl) - Adds utilities for creating multilingual bidirectional layouts.
 
 > 🛑 - _The functionalities these plugins below offer have been fully or partially implemented in the latest Tailwind CSS versions._
 
