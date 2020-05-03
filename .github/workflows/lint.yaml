@@ -1,0 +1,20 @@
+name: Lint Awesome List
+on: [pull_request, push]
+
+jobs:
+  awesome-lint:
+    name: "lint: awesome-lint"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "checkout repo"
+        uses: actions/checkout@v2.0.0
+        with:
+          fetch-depth: 0
+      - name: Setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: "12.x"
+      - name: Run awesome-lint
+        run: |
+          npm install --global awesome-lint@latest
+          awesome-lint ./readme.md
