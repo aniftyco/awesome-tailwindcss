@@ -152,6 +152,7 @@
 - 💼 [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) - Tailwind CSS module for NuxtJS with PurgeCSS and modern CSS (preset env 1).
 - 💼 [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) - Adds Tailwind CSS module as PostCSS plugin and sets up PurgeCSS in production for PreactJS CLI Projects.
 - 💼🔧 [@tailwindcssinjs/macro](https://github.com/Arthie/tailwindcssinjs) - Babel macro that transforms Tailwind CSS classes into objects for CSS-in-JS libraries.
+- 💼🔧 [twin.macro](https://github.com/ben-rogerson/twin.macro) - Use Tailwind classes within any CSS-in-JS library.
 
 ### Starters, Templates & Themes
 
