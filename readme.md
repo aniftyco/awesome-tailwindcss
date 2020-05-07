@@ -105,6 +105,7 @@
 - [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation?ref=awesome-tailwindcss) - Tailwind Starter Kit is an extension for TailwindCSS, Free and Open Source.
 - [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
 - [Tailwind Blocks](https://mert.dev/tailwind-blocks) - Tailwind CSS UI blocks for landing pages.
+- [Meraki UI Components](https://merakiui.com) - Beautiful Tailwindcss components that support RTL languages.
 
 ## Resources
 
