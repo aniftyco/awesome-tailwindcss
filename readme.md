@@ -11,7 +11,7 @@
 
 ---
 
-🌟 **[Tailwind UI](https://tailwindui.com)** 🌟 - Beautifully designed components and templates, hand-crafted using the CSS framework you already know and love.
+🌟 **[Tailwind UI is hiring](https://jobs.tailwindui.com/full-stack-developer)** 🌟 - Help define and build the future of their developer tools and products.
 
 ---
 
@@ -113,7 +113,7 @@
 
 - [Tailwind CSS website](https://tailwindcss.com) - Official Tailwind CSS website.
 - [Tailwind CSS on GitHub](https://github.com/tailwindcss/tailwindcss) - Official Tailwind CSS repository.
-- [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
+- 🌟 [Tailwind UI](https://tailwindui.com) 🌟 - Component library made with Tailwind CSS.
 - [Discussion Repository](https://github.com/tailwindcss/discuss) - Official Tailwind CSS repository for discussions.
 - [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 - [Built With Tailwind](https://builtwithtailwind.com/) - Community-driven collection of awesome websites built with Tailwind CSS.
