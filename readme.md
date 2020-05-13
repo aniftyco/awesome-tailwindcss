@@ -252,7 +252,7 @@
 ### Apps & Websites
 
 - [Josh Manders](https://joshmanders.com)
-- [App Metrics](https://appmetrics.co)
+- [Audience](https://startuadience.com)
 - [Matt Stauffer](https://mattstauffer.com)
 - [Miguel Piedrafita](https://miguelpiedrafita.com)
 - [Blogcast](https://blogcast.host)
