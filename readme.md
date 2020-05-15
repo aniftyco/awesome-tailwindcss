@@ -52,7 +52,6 @@
 - [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Adds `dark` variants based on the `prefers-color-scheme` media query.
 - [Vue.js](https://github.com/opdavies/tailwindcss-vuejs) - Adds visibility classes that work with Vue.js's `v-cloak` directive.
 - [List Reset](https://github.com/opdavies/tailwindcss-list-reset) - Re-adds the `list-reset` class that was removed prior to Tailwind CSS 1.0.
-- [Fl Utilities](https://github.com/soberwp/tailwindcss-fl) - Generate fluid sizing utilities by leveraging existing config.
 - [Fluid](https://github.com/bradlc/tailwindcss-fluid) - Adds fluid sizing utilities.
 - [Flexbox Order](https://github.com/035media/tailwindcss-flexbox-order) - Extends `order` utilities.
 - [benface's gradients](https://github.com/benface/tailwindcss-gradients) - Adds gradient utilities.
@@ -79,6 +78,7 @@
 - [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) - Adds `box-shadow` utilities based on configured colors.
 - [Tooltip Arrows After](https://github.com/gvital3230/tailwindcss-tooltip-arrow-after) - Adds CSS utilities for tooltip arrows with configurable border and background.
 - [Bidirectional](https://github.com/20lives/tailwindcss-rtl) - Adds utilities for creating multilingual bidirectional layouts.
+- [Fluid Utilities](https://github.com/soberwp/tailwindcss-fl) - Generate `fl:` utilities by leveraging existing config.
 
 > 🛑 - _The functionalities these plugins below offer have been fully or partially implemented in the latest Tailwind CSS versions._
 
