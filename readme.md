@@ -52,6 +52,7 @@
 - [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Adds `dark` variants based on the `prefers-color-scheme` media query.
 - [Vue.js](https://github.com/opdavies/tailwindcss-vuejs) - Adds visibility classes that work with Vue.js's `v-cloak` directive.
 - [List Reset](https://github.com/opdavies/tailwindcss-list-reset) - Re-adds the `list-reset` class that was removed prior to Tailwind CSS 1.0.
+- [Fl Utilities](https://github.com/soberwp/tailwindcss-fl) - Generate fluid sizing utilities by leveraging existing config.
 - [Fluid](https://github.com/bradlc/tailwindcss-fluid) - Adds fluid sizing utilities.
 - [Flexbox Order](https://github.com/035media/tailwindcss-flexbox-order) - Extends `order` utilities.
 - [benface's gradients](https://github.com/benface/tailwindcss-gradients) - Adds gradient utilities.
