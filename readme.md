@@ -169,6 +169,7 @@
 - 🔧 [Create React App Boilerplate with EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter) - CRA boilerplate using Tailwind CSS and Emotion JS.
 - 🔧 [Create React App Boilerplate](https://github.com/kriswep/cra-tailwindcss) - CRA boilerplate using Tailwind CSS.
 - 🔧🛠 [Create React App script with PurgeCSS](https://github.com/DemianD/create-react-app-tailwindcss) - CRA script that adds Tailwind CSS and PurgeCSS.
+- 🔧 [Create React App with Purgecss + Autoprefixer + CSSNano](https://github.com/saadeghi/create-react-app-tailwindcss) - CRA boilerplate With Tailwind CSS (Purgecss included) and Autoprefixer and CSSNano.
 - 🔧 [Dogpatch](https://github.com/jack-pallot/dogpatch) - WordPress starter using Webpack, Vue, Babel and Tailwind CSS.
 - 🔧 [Next.js Starter](https://github.com/oddstronaut/tailwind-next) - Next.js boilerplate using Tailwind CSS.
 - 🔧 [Sapper & Svelte Starter](https://github.com/EricPKerr/sapper-tailwindcss-starter) - Svelte boilerplate using Sapper, Tailwind CSS, Purge CSS, Prettier and ESLint.
