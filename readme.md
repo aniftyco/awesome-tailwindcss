@@ -107,6 +107,7 @@
 - [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
 - [tailblocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
 - [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
+- [Treact](https://treact.owaiskhan.me) - React UI Templates and Components built using Tailwind CSS.
 
 ## Resources
 
