@@ -237,6 +237,17 @@
 - 🎬 [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) - Building a responsive navbar with Tailwind CSS.
 - 🎬 [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) - Dribbble shot with Tailwind CSS.
 - 🎬 [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - Building a Tweet component with Tailwind CSS.
+- 🎬 [Beautiful Responsive Login Form Using HTML, CSS & tailwindcss](https://www.youtube.com/watch?v=nGywT5TP7Fk) - Beautiful Responsive Login Form Using HTML, CSS & tailwindcss.
+- 🎬 [Building out my Portfolio with Gridsome and TailwindCSS](https://www.youtube.com/watch?v=OECM7XKoLZ4) - Building out my Portfolio with Gridsome and TailwindCSS.
+- 🎬 [Building a Blog homepage in TailwindCSS - Part 1](https://www.youtube.com/watch?v=Yj1800mGthQ) - Building a Blog homepage in TailwindCSS - Part 1.
+- 🎬 [Building a Blog homepage in TailwindCSS - Part 2](https://www.youtube.com/watch?v=gzvGrF5hq_k) - Building a Blog homepage in TailwindCSS - Part 2.
+- 🎬 [Building a Blog homepage in TailwindCSS - Part 3](https://www.youtube.com/watch?v=CWm83kKJOyk) - Building a Blog homepage in TailwindCSS - Part 3.
+- 🎬 [Building a Blog homepage in TailwindCSS - Part 4](https://www.youtube.com/watch?v=yef5_lkt7ig) - Building a Blog homepage in TailwindCSS - Part 4.
+- 🎬 [Building a Blog homepage in TailwindCSS - Part 5](https://www.youtube.com/watch?v=7dMyCwvmbRw) - Building a Blog homepage in TailwindCSS - Part 5.
+- 🎬 [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4) - Tailwind CSS Tutorial for Beginners - Full Course.
+- 🎬 [Rebuilding the Vercel Dashboard with Tailwind CSS](https://www.youtube.com/watch?v=r6mykOig_Bs) - Rebuilding the Vercel Dashboard with Tailwind CSS.
+- 🎬 [Rebuilding the Vercel Dashboard with Tailwind CSS (Part 2)](https://www.youtube.com/watch?v=xIuXxB7qG2Y) - Rebuilding the Vercel Dashboard with Tailwind CSS.
+- 🎬 [Design to Code using TailwindCSS](https://www.youtube.com/watch?v=r3PUid2daTk) - Design to Code using TailwindCSS.
 - 🎓 [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) - Creating a modal dialog with Tailwind CSS.
 - 🎓 [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - Examples of building UIs of Shopify, Spotify, Netlify and Atlassian using Tailwind CSS.
 - 🎓 [Rebuilding FreshBooks](http://joey.io/rebuilding-freshbooks-with-tailwind-css) - Rebuilding FreshBooks with Tailwind CSS.
