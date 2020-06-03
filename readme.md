@@ -108,6 +108,7 @@
 - [tailblocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
 - [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
 - [Treact](https://treact.owaiskhan.me) - React UI templates and components built using Tailwind CSS.
+- [VueTailwindPicker](https://vue-tailwind-picker.netlify.app) - Datepicker component for Vue.js using Tailwind CSS.
 
 ## Resources
 
