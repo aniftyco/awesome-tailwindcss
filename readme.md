@@ -322,7 +322,7 @@
 - [Rasul Kireev](https://rasulkireev.com)
 - [Built with Django](https://builtwithdjango.com)
 - [Log1x](https://log1x.com)
-
+- [Free Codecanyon Alternative](https://www.frontendfun.com)
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
