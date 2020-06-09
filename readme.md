@@ -190,7 +190,7 @@
 - 🎨 [Tailwind Admin](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
 - 🎨 [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid) - Wordpress Theme and PWA using Tailwind CSS.
 - 🎨 [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) - Hugo Theme using Tailwind CSS.
-- 🎨 [Create React App Template with Tailwind CSS + TypeScript](https://github.com/dance2die/cra-template-tailwindcss-typescript) - CRA Template to  add Tailwind CSS + TypeScript support.
+- 🎨 [Create React App Template with Tailwind CSS + TypeScript](https://github.com/dance2die/cra-template-tailwindcss-typescript) - CRA Template to add Tailwind CSS + TypeScript support.
 
 ### IDE Extensions
 
@@ -323,6 +323,7 @@
 - [Built with Django](https://builtwithdjango.com)
 - [Log1x](https://log1x.com)
 - [Frontendfun](https://www.frontendfun.com)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
