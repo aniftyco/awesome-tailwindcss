@@ -325,6 +325,7 @@
 - [Built with Django](https://builtwithdjango.com)
 - [Log1x](https://log1x.com)
 - [Frontendfun](https://www.frontendfun.com)
+- [PWA Inside](https://pwainside.com)
 
 ## Contribute
 
