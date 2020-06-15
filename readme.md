@@ -79,6 +79,7 @@
 - [Tooltip Arrows After](https://github.com/gvital3230/tailwindcss-tooltip-arrow-after) - Adds CSS utilities for tooltip arrows with configurable border and background.
 - [Bidirectional](https://github.com/20lives/tailwindcss-rtl) - Adds utilities for creating multilingual bidirectional layouts.
 - [Fluid Utilities](https://github.com/soberwp/tailwindcss-fl) - Generate `fl:` utilities by leveraging existing config.
+- [Multi Theme](https://tailwindcss-multi-theme.now.sh/) - Creates multiple themes based on a single `theme` property.
 
 > 🛑 - _The functionalities these plugins below offer have been fully or partially implemented in the latest Tailwind CSS versions._
 
@@ -192,6 +193,7 @@
 - 🎨 [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid) - Wordpress Theme and PWA using Tailwind CSS.
 - 🎨 [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) - Hugo Theme using Tailwind CSS.
 - 🎨 [Create React App Template with Tailwind CSS + TypeScript](https://github.com/dance2die/cra-template-tailwindcss-typescript) - CRA Template to add Tailwind CSS + TypeScript support.
+- 🎨 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard.
 
 ### IDE Extensions
 
