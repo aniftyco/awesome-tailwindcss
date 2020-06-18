@@ -201,6 +201,7 @@
 - [Tailwind CSS Styled Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets) - Visual Studio Code snippet extension for Tailwind CSS.
 - [Tailwind CSS IntelliSense for Neovim](https://github.com/iamcco/coc-tailwindcss) - Neovim IntelliSense extension for Tailwind CSS.
 - [Headwind for VS Code](https://github.com/heybourn/headwind) - Visual Studio Code class sorter for Tailwind CSS.
+- [Tailwind CSS Shades](https://github.com/bourhaouta/vscode-tailwindshades) - Tailwind CSS color palette generator.
 
 ### Open-Source Projects
 
