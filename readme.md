@@ -210,6 +210,7 @@
 - [Statusfy](https://github.com/bazzite/statusfy) - Status page system using Tailwind CSS.
 - [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs) - To-do list application using Tailwind CSS.
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) - Statistics website for League of Legends players.
+- [LearnAwesome](https://github.com/learn-awesome) - Humanity's universal learning map (built with Tailwind CSS)
 - [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) - E-commerce storefront using Svelte & Tailwind CSS.
 - [Misiki Books](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
 
