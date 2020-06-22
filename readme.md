@@ -119,7 +119,7 @@
 - [Tailwind CSS website](https://tailwindcss.com) - Official Tailwind CSS website.
 - [Tailwind CSS on GitHub](https://github.com/tailwindcss/tailwindcss) - Official Tailwind CSS repository.
 - 🌟 [Tailwind UI](https://tailwindui.com) 🌟 - Component library made with Tailwind CSS.
-- [Discussion Repository](https://github.com/tailwindcss/discuss) - Official Tailwind CSS repository for discussions.
+- [Discussions](https://github.com/tailwindcss/tailwindcss/discussions) - Official place to connect with other community members about Tailwind.
 - [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 - [Built With Tailwind](https://builtwithtailwind.com/) - Community-driven collection of awesome websites built with Tailwind CSS.
 - [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS class names, variants and directives cheat sheet.
