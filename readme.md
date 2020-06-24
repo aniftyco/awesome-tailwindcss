@@ -111,6 +111,7 @@
 - [Treact](https://treact.owaiskhan.me) - React UI templates and components built using Tailwind CSS.
 - [VueTailwindPicker](https://vue-tailwind-picker.netlify.app) - Datepicker component for Vue.js using Tailwind CSS.
 - [Sail UI](https://sailui.github.io/) - Collection of basic UI components built on Tailwind CSS.
+- [Tailwindow](https://component.tailwindow.com/) - Collection of Tailwind CSS component blocks and UI elements.
 
 ## Resources
 
