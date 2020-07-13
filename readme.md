@@ -11,7 +11,7 @@
 
 ---
 
-🌟 **[Tailwind UI is hiring](https://jobs.tailwindui.com/full-stack-developer)** 🌟 - Help define and build the future of their developer tools and products.
+🌟 **[Tailwind Blog](https://blog.tailwindcss.com/)** 🌟 - Checkout the new blog to read all the latest Tailwind CSS news, straight from the team.
 
 ---
 
