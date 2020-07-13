@@ -30,6 +30,7 @@
 
 ## Plugins
 
+- [Typography (Official)](https://github.com/tailwindcss/typography) - Adds `prose` class for beautiful typographic defaults.
 - [Custom Forms (Official)](https://github.com/tailwindcss/custom-forms) - Adds better default styles to form elements.
 - [Theming (Dark/Light)](https://github.com/hawezo/tailwindcss-theming) - Adds powerful theming capabilities with CSS variables and `prefers-color-scheme`.
 - [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) - Adds `text-indent` utilities.
