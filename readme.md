@@ -81,6 +81,7 @@
 - [Bidirectional](https://github.com/20lives/tailwindcss-rtl) - Adds utilities for creating multilingual bidirectional layouts.
 - [Fluid Utilities](https://github.com/soberwp/tailwindcss-fl) - Generate `fl:` utilities by leveraging existing config.
 - [Multi Theme](https://tailwindcss-multi-theme.now.sh/) - Creates multiple themes based on a single `theme` property.
+- [Background svg](https://github.com/AndersNielsen85/tailwindcss-bg-svg) - Inject svgs as background images with color variants.
 
 > 🛑 - _The functionalities these plugins below offer have been fully or partially implemented in the latest Tailwind CSS versions._
 
