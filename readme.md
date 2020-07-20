@@ -334,6 +334,7 @@
 - [Log1x](https://log1x.com)
 - [Frontendfun](https://www.frontendfun.com)
 - [PWA Inside](https://pwainside.com)
+- [EqualOpportunity.Work](https://equalopportunity.work)
 
 ## Contribute
 
