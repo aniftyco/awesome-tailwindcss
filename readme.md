@@ -114,6 +114,7 @@
 - [VueTailwindPicker](https://vue-tailwind-picker.netlify.app) - Datepicker component for Vue.js using Tailwind CSS.
 - [Sail UI](https://sailui.github.io/) - Collection of basic UI components built on Tailwind CSS.
 - [Tailwindow](https://component.tailwindow.com/) - Collection of Tailwind CSS component blocks and UI elements.
+- [Kutty](https://kutty.netlify.app) - Set of accessible and reusable components that are commonly used in web applications.
 
 ## Resources
 
