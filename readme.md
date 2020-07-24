@@ -164,6 +164,7 @@
 - 💼🔧 [@tailwindcssinjs/macro](https://github.com/Arthie/tailwindcssinjs) - Babel macro that transforms Tailwind CSS classes into objects for CSS-in-JS libraries.
 - 💼🔧 [twin.macro](https://github.com/ben-rogerson/twin.macro) - Use Tailwind classes within any CSS-in-JS library.
 - 🌍🔧 [Tailwindow Color Shades Generator](https://color.tailwindow.com) - Generate your own shades color with customizable interval and range color.
+- 💼🔧 [Tailwind Config Viewer](https://github.com/rogden/tailwind-config-viewer) - Local UI tool for visualizing your Tailwind CSS configuration file.
 
 ### Starters, Templates & Themes
 
