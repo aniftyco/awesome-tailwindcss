@@ -1,3 +1,4 @@
+<!--lint disable double-link-->
 <!--lint disable no-dead-urls-->
 <!-- ignore all dead urls because of https://github.com/sindresorhus/awesome-lint/issues/89 -->
 
