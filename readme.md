@@ -199,8 +199,8 @@
 - 🔧 [VuePress Tailwind CSS Starter](https://github.com/xiaoluoboding/vuepress-tailwind-theme-starter) - A VuePress starter using Tailwind CSS.
 - 🎨 [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) - Gatsby's serif theme using Tailwind CSS.
 - 🎨 [Tailwind Admin](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
-- 🎨 [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid) - Wordpress Theme and PWA using Tailwind CSS.
-- 🎨 [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) - Hugo Theme using Tailwind CSS.
+- 🎨 [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid) - Wordpress theme and PWA using Tailwind CSS.
+- 🎨 [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) - Hugo theme using Tailwind CSS.
 - 🎨 [Create React App template with Tailwind CSS + TypeScript](https://github.com/dance2die/cra-template-tailwindcss-typescript) - CRA template with support for Tailwind CSS and TypeScript.
 - 🎨 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard.
 
