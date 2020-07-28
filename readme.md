@@ -196,7 +196,7 @@
 - 🔧 [PostCSS and Browsersync Boilerplate](https://github.com/saadeghi/tailwindcss-postcss-browsersync-boilerplate) - Boilerplate including Tailwind CSS, Autoprefixer, PurgeCSS and CSSNano with PostCSS.
 - 🔧 [ParcelJS + TypeScript Boilerplate](https://github.com/saadeghi/tailwindcss-parceljs-typescript-boilerplate) - Boilerplate using Tailwind CSS, ParcelJS bundler and TypeScript.
 - 🔧 [Create Tailwind CSS Boilerplate](https://github.com/michelegera/create-tailwindcss-boilerplate) - Bare-bones Tailwind CSS boilerplate served by Parcel and using PurgeCSS in production builds.
-- 🔧 [VuepPress Tailwind Theme Starter](https://github.com/xiaoluoboding/vuepress-tailwind-theme-starter) - A Starter of VuePress setup with Tailwind CSS.
+- 🔧 [VuePress Tailwind CSS Starter](https://github.com/xiaoluoboding/vuepress-tailwind-theme-starter) - A VuePress starter using Tailwind CSS.
 - 🎨 [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) - Gatsby's serif theme using Tailwind CSS.
 - 🎨 [Tailwind Admin](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
 - 🎨 [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid) - Wordpress Theme and PWA using Tailwind CSS.
