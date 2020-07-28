@@ -190,7 +190,6 @@
 - 🔧 [Ruby on Rails Example Project](https://github.com/jvanbaarsen/tailwindcss-rails-example) - Rails example application using Tailwind CSS.
 - 🔧🛠 [Laravel Frontend Preset](https://github.com/laravel-frontend-presets/tailwindcss) - Front-end preset using Tailwind CSS for the Laravel Framework.
 - 🔧🛠 [Laravel Dark Frontend Preset](https://github.com/Naoray/dark-tailwind-preset) - Dark-themed front-end preset using Tailwind CSS for the Laravel Framework.
-- 🔧 [Laravel Boilerplate](https://github.com/hawezo/laravel-boilerplate) - Laravel boilerplate using Tailwind CSS, Inertia JS, TypeScript, Vue, and font-end theming.
 - 🔧 [Hugo Theme Starter with Tailwind CSS](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) - Hugo theme starter using Tailwind CSS.
 - 🔧 [Eleventy Web Starter](https://github.com/scottishstoater/jamstack-web-starter) - Starter kit using Eleventy, Tailwind CSS, Webpack and PostCSS.
 - 🔧 [Nanoc Starter](https://github.com/arkency/nanoc-parcel-tailwind-starter) - Nanoc starter using Tailwind CSS.
