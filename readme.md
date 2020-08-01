@@ -37,7 +37,6 @@
 - [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) - Adds `text-indent` utilities.
 - [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) - Adds `image-rendering` utilities.
 - [Filters](https://github.com/benface/tailwindcss-filters) - Adds `filter` utilities.
-- [Spinner](https://github.com/aniftyco/tailwindcss-spinner) - Adds a spinner utility.
 - [Elevation](https://github.com/jonaskay/tailwindcss-elevation) - Adds [Material UI `elevation`](https://material.io/design/environment/elevation.html) utilities.
 - [Caret Color](https://github.com/naoray/tailwind-caret-color) - Adds `caret` color utilities.
 - [Direction](https://github.com/RonMelkhior/tailwindcss-dir) - Adds `RTL` and `LTR` variants.
@@ -100,6 +99,7 @@
 - 🛑 [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) - Adds basic transition utilities.
 - 🛑 [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) - Extends `cursor` utilities.
 - 🛑 [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) - Adds opacity variants to existing colors.
+- 🛑 [Spinner](https://github.com/aniftyco/tailwindcss-spinner) - Adds a spinner utility.
 
 ## UI Libraries & Components
 
