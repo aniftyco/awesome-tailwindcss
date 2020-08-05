@@ -199,6 +199,8 @@
 - 🔧 [ParcelJS + TypeScript Boilerplate](https://github.com/saadeghi/tailwindcss-parceljs-typescript-boilerplate) - Boilerplate using Tailwind CSS, ParcelJS bundler and TypeScript.
 - 🔧 [Create Tailwind CSS Boilerplate](https://github.com/michelegera/create-tailwindcss-boilerplate) - Bare-bones Tailwind CSS boilerplate served by Parcel and using PurgeCSS in production builds.
 - 🔧 [VuePress Tailwind CSS Starter](https://github.com/xiaoluoboding/vuepress-tailwind-theme-starter) - A VuePress starter using Tailwind CSS.
+- 🔧🛠 [Laravel Tailwind CSS Preset](https://github.com/use-preset/laravel-tailwindcss) - A preset that adds Tailwind CSS to the Laravel framework.
+- 🔧🛠 [Vite Tailwind CSS Preset](https://github.com/use-preset/tailwindcss) - A preset that adds Tailwind CSS to a Vite application.
 - 🎨 [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) - Gatsby's serif theme using Tailwind CSS.
 - 🎨 [Tailwind Admin](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
 - 🎨 [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid) - Wordpress theme and PWA using Tailwind CSS.
