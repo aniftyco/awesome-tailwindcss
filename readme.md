@@ -169,6 +169,7 @@
 - 💼🔧 [twin.macro](https://github.com/ben-rogerson/twin.macro) - Use Tailwind classes within any CSS-in-JS library.
 - 🌍🔧 [Tailwindow Color Shades Generator](https://color.tailwindow.com) - Generate your own color shades with customizable color intervals and ranges.
 - 💼🔧 [Tailwind Config Viewer](https://github.com/rogden/tailwind-config-viewer) - Local UI tool for visualizing your Tailwind CSS configuration file.
+- 💼🔧 [Laravel Form Components](https://github.com/pascalbaljetmedia/laravel-form-components) - A set of Blade components to rapidly build forms with Tailwind CSS Custom Forms. Supports validation, model binding, translations, includes default vendor styling and fully customizable.
 
 ### Starters, Templates & Themes
 
