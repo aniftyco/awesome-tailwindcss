@@ -146,6 +146,7 @@
 - 🌍 [Tailwind Button Playground](https://minthemiddle.github.io/tailwind-button-playground) - Playground for theming a button with Tailwind CSS (online).
 - 🌍🔧 [Stitches](https://stitches.hyperyolo.com/) - Template generator with Tailwind (online).
 - 🌍🔧 [Tailwind Colors](https://tailwind-colors.meidev.co) - Color configuration generator for Tailwind CSS.
+- 🌍🔧 [Tailwind Gradient Designer](https://tailwind-gradient-designer.csspost.com/) - Generate a gradient for Tailwind 1.7+.
 - 🌍🧪 [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind classes' prefixer tool.
 - 🧪 [Tailwindo](https://github.com/awssat/tailwindo) - Bootstrap to Tailwind CSS converter.
 - 🧪 [Tailupgrade](https://github.com/virkillz/tailupgrade) - Conversion tool for upgrading HTML files from Tailwind CSS v0.x to v1.0.
