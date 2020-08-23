@@ -207,6 +207,7 @@
 - 🔧🛠 [Vite Tailwind CSS Preset](https://github.com/use-preset/tailwindcss) - A preset that adds Tailwind CSS to a Vite application.
 - 🎨 [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) - Gatsby's serif theme using Tailwind CSS.
 - 🎨 [Tailwind Admin](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
+- 🎨 [Landing Gradients](https://landing-gradients.netlify.app/) - Landing page template using gradients (1.7+).
 - 🎨 [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid) - Wordpress theme and PWA using Tailwind CSS.
 - 🎨 [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) - Hugo theme using Tailwind CSS.
 - 🎨 [Create React App template with Tailwind CSS + TypeScript](https://github.com/dance2die/cra-template-tailwindcss-typescript) - CRA template with support for Tailwind CSS and TypeScript.
