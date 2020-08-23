@@ -207,6 +207,7 @@
 - 🎨 [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) - Hugo theme using Tailwind CSS.
 - 🎨 [Create React App template with Tailwind CSS + TypeScript](https://github.com/dance2die/cra-template-tailwindcss-typescript) - CRA template with support for Tailwind CSS and TypeScript.
 - 🎨 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard.
+- 🎨 [Tailwind Made](https://tailwindmade.com/) - Paid, developer-friendly templates made with TailwindCSS
 
 ### IDE Extensions
 
