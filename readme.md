@@ -135,6 +135,7 @@
 - [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - Tailwind CSS class names in one single file.
 - [tailwind.run](https://tailwind.run) - Tailwind CSS fiddle with built-time features (online).
 - [Maizzle](https://maizzle.com/) - Framework for rapid email prototyping with Tailwind CSS.
+- [Tailwind Weekly](https://tailwindweekly.com/) - Weekly newsletter about all things Tailwind CSS. New issue every Saturday.
 
 ### Tools
 
