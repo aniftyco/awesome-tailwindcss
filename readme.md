@@ -12,7 +12,7 @@
 
 ---
 
-🌟 **[Heroicons](https://herokicons.com/)** 🌟 - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
+🌟 **[Heroicons](https://heroicons.com/)** 🌟 - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 
 ---
 
