@@ -12,7 +12,7 @@
 
 ---
 
-🌟 **[Tailwind Blog](https://blog.tailwindcss.com/)** 🌟 - Checkout the new blog to read all the latest Tailwind CSS news, straight from the team.
+🌟 **[Heroicons](https://heroicons.com/)** 🌟 - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 
 ---
 
