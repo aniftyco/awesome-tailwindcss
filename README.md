@@ -1,6 +1,4 @@
-<!--lint disable double-link-->
-<!--lint disable no-dead-urls-->
-<!-- ignore all dead urls because of https://github.com/sindresorhus/awesome-lint/issues/89 -->
+<!--lint disable awesome-heading awesome-github double-link no-dead-urls-->
 
 # Awesome Tailwind CSS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/aniftyco/awesome-tailwindcss/workflows/Lint%20Awesome%20List/badge.svg)
 
