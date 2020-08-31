@@ -26,16 +26,35 @@
 
 ## Contents
 
+- [Useful Links](#useful-links)
+- [IDE Extensions](#ide-extensions)
 - [Plugins](#plugins)
+- [Tools](#tools)
 - [UI Libraries & Components](#ui-libraries--components)
-- [Resources](#resources)
-  - [Useful Links](#useful-links)
-  - [IDE Extensions](#ide-extensions)
-  - [Tools](#tools)
-  - [Starters, Templates & Themes](#starters-templates--themes)
-  - [Open-Source Projects](#open-source-projects)
-  - [Learning](#learning)
-  - [Apps & Websites](#apps--websites)
+- [Starters, Templates & Themes](#starters-templates--themes)
+- [Open-Source Projects](#open-source-projects)
+- [Learning](#learning)
+- [Apps & Websites](#apps--websites)
+
+## Useful Links
+
+**Legend**: 💙 Official resource
+
+- 💙 [Website](https://tailwindcss.com) - Official Tailwind CSS website.
+- 💙 [Repository](https://github.com/tailwindcss/tailwindcss) - Official Tailwind CSS repository.
+- 💙 [Discussions](https://github.com/tailwindcss/tailwindcss/discussions) - Official place to connect with other community members about Tailwind.
+- 💙 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
+- 💙 [Heroicons](https://heroicons.com/) - Beautiful, hand-crafted SVG icons.
+
+## IDE Extensions
+
+**Legend**: 💙 Official resource
+
+- 💙 [IntelliSense for Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - IntelliSense extension for Visual Studio Code.
+- [Styled Snippets for Code](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets) - Snippet extension for Visual Studio Code.
+- [Headwind for Code](https://github.com/heybourn/headwind) - Class sorter extension for Visual Studio Code.
+- [Shades for Code](https://github.com/bourhaouta/vscode-tailwindshades) - Color palette generator extension for Visual Studio Code.
+- [IntelliSense for Neovim](https://github.com/iamcco/coc-tailwindcss) - IntelliSense extension for Neovim.
 
 ## Plugins
 
@@ -114,47 +133,6 @@
 - 🛑🧬 [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) - Adds opacity variants to existing colors.
 - 🛑🧩 [Spinner](https://github.com/aniftyco/tailwindcss-spinner) - Adds a spinner component.
 
-## UI Libraries & Components
-
-- 💙 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
-- [tails-ui](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
-- [VueTailwind](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS.
-- [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Tailwind CSS templates, components and resources.
-- [Tailwind Templates](https://www.tailwindtemplates.io) - Tailwind CSS components.
-- [jQuery + Tailwind Checkbox Toggle](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - Switches using jQuery and Tailwind CSS.
-- [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation?ref=awesome-tailwindcss) - Tailwind Starter Kit is an extension for Tailwind CSS, Free and Open Source.
-- [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
-- [tailblocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
-- [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
-- [Treact](https://treact.owaiskhan.me) - React UI templates and components built using Tailwind CSS.
-- [VueTailwindPicker](https://vue-tailwind-picker.netlify.app) - Datepicker component for Vue.js using Tailwind CSS.
-- [Sail UI](https://sailui.github.io/) - Collection of basic UI components built on Tailwind CSS.
-- [Tailwindow](https://component.tailwindow.com/) - Collection of Tailwind CSS component blocks and UI elements.
-- [Kutty](https://kutty.netlify.app) - Set of accessible and reusable components that are commonly used in web applications.
-- [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
-
-## Resources
-
-### Useful Links
-
-**Legend**: 💙 Official resource
-
-- 💙 [Website](https://tailwindcss.com) - Official Tailwind CSS website.
-- 💙 [Repository](https://github.com/tailwindcss/tailwindcss) - Official Tailwind CSS repository.
-- 💙 [Discussions](https://github.com/tailwindcss/tailwindcss/discussions) - Official place to connect with other community members about Tailwind.
-- 💙 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
-- 💙 [Heroicons](https://heroicons.com/) - Beautiful, hand-crafted SVG icons.
-
-### IDE Extensions
-
-**Legend**: 💙 Official resource
-
-- 💙 [IntelliSense for Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - IntelliSense extension for Visual Studio Code.
-- [Styled Snippets for Code](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets) - Snippet extension for Visual Studio Code.
-- [Headwind for Code](https://github.com/heybourn/headwind) - Class sorter extension for Visual Studio Code.
-- [Shades for Code](https://github.com/bourhaouta/vscode-tailwindshades) - Color palette generator extension for Visual Studio Code.
-- [IntelliSense for Neovim](https://github.com/iamcco/coc-tailwindcss) - IntelliSense extension for Neovim.
-
 ### Tools
 
 **Legend**: 🌍 Accessible online · 🔼 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services · 🎨 Color-related · 🚀 Framework
@@ -191,6 +169,25 @@
 - 🔧 [re-tailwind](https://github.com/phthhieu/re-tailwind) - ReasonML utility that generates Tailwind classes.
 - 🔧 [Protoship Codegen](https://protoship.io) - Code generator that creates Tailwind CSS based HTML & CSS from Sketch designs.
 - 🚀 [Maizzle](https://maizzle.com/) - Framework for rapid email prototyping with Tailwind CSS.
+
+## UI Libraries & Components
+
+- 💙 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
+- [tails-ui](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
+- [VueTailwind](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS.
+- [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Tailwind CSS templates, components and resources.
+- [Tailwind Templates](https://www.tailwindtemplates.io) - Tailwind CSS components.
+- [jQuery + Tailwind Checkbox Toggle](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - Switches using jQuery and Tailwind CSS.
+- [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation?ref=awesome-tailwindcss) - Tailwind Starter Kit is an extension for Tailwind CSS, Free and Open Source.
+- [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
+- [tailblocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
+- [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
+- [Treact](https://treact.owaiskhan.me) - React UI templates and components built using Tailwind CSS.
+- [VueTailwindPicker](https://vue-tailwind-picker.netlify.app) - Datepicker component for Vue.js using Tailwind CSS.
+- [Sail UI](https://sailui.github.io/) - Collection of basic UI components built on Tailwind CSS.
+- [Tailwindow](https://component.tailwindow.com/) - Collection of Tailwind CSS component blocks and UI elements.
+- [Kutty](https://kutty.netlify.app) - Set of accessible and reusable components that are commonly used in web applications.
+- [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 
 ### Starters, Templates & Themes
 
@@ -233,7 +230,7 @@
 - 🎨 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard.
 - 🎨 [Tailwind Made](https://tailwindmade.com/) - Paid, developer-friendly templates made with Tailwind CSS.
 
-### Open-Source Projects
+## Open-Source Projects
 
 - [Goodwork](https://github.com/iluminar/goodwork) - Project Management & Collaboration tool.
 - [Statusfy](https://github.com/bazzite/statusfy) - Status page system using Tailwind CSS.
@@ -242,7 +239,7 @@
 - [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) - E-commerce storefront using Svelte & Tailwind CSS.
 - [Misiki Books](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
 
-### Other
+## Other
 
 - [Tailwind Weekly](https://tailwindweekly.com/) - Weekly newsletter about all things Tailwind CSS. New issue every Saturday.
 - [Built With Tailwind](https://builtwithtailwind.com/) - Community-driven collection of awesome websites built with Tailwind CSS.
@@ -250,7 +247,7 @@
 - [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - Tailwind CSS class names in one single file.
 - [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS class names, variants and directives cheat sheet.
 
-### Learning
+## Learning
 
 **Legend**: 🧪 Sample · 🔧 Setup Tutorial · 🎬 Video Tutorial · 🎓 Component or Page Tutorial · 🎥 Cast
 
@@ -299,7 +296,7 @@
 - 🎥 [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
 - 🎥 [Rebuilding Meetup](https://youtu.be/ULe6yKJrFuI)
 
-### Apps & Websites
+## Apps & Websites
 
 - TODO.
 
