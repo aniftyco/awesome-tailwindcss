@@ -4,7 +4,7 @@
 
 # Awesome Tailwind CSS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/aniftyco/awesome-tailwindcss/workflows/Lint%20Awesome%20List/badge.svg)
 
-[<img src="tailwind-css-logo.svg" align="right" width="100">](https://tailwindcss.com)
+[<img src="assets/logo.svg" align="right" width="100">](https://tailwindcss.com)
 
 > A curated list of awesome things related to Tailwind CSS
 
