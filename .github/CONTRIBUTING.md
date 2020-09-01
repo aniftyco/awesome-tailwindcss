@@ -46,11 +46,11 @@ Please be sure to follow the [Tailwind CSS Community Guidelines](https://github.
 
 # Categories
 
-### Useful Links
+## Useful Links
 
 This category contains resources that are official _or_ widely known and used in the Tailwind CSS community. If you find something that we forgot to add here, or if you built something a while ago that has become quite popular in the community, feel free to add it. Otherwise, it most likely belongs in the other categories.
 
-### IDE Extensions
+## IDE Extensions
 
 If you made an extension that makes the usage of Tailwind CSS easier, make sure it is properly distributable before adding it to the list. Please use the format `[<extension type/functionality> for <IDE name>](link) - <Extension functionality> for <Full IDE name>` when applicable.
 
@@ -58,7 +58,7 @@ If you made an extension that makes the usage of Tailwind CSS easier, make sure 
 
 This category must only contain Tailwind CSS plugins that use the [official plugin architecture](https://tailwindcss.com/docs/plugins/) to extend the framework. New plugins must be added to the bottom of the corresponding category, represented by emojis.
 
-### Tools
+## Tools
 
 Tools can be anything that help with setting up or working with Tailwind CSS, or stuff that extend other services to bring Tailwind CSS in them.
 
@@ -66,18 +66,29 @@ Tools can be anything that help with setting up or working with Tailwind CSS, or
 
 This category must contain UI libraries made for Tailwind CSS, as well as standalone components that are optimized for distribution. Non-tool-agnostic templates should be added to the **Starters & Themes** category.
 
-### Starters & Themes
+## Starters & Themes
 
 This category contains boilerplates projects, starters projects and tools made for using Tailwind CSS as well as tool themes made for Tailwind CSS.
 
-### Open-Source Projects
+## Open-Source Projects
 
 Open-source projects that use Tailwind CSS can be featured in this category if you feel that it is awesome enough. Please don't add newly-created projects, and wait for them to get sort of popular before sending your pull request.
 
-### Learning
+## Learning
 
 Anything that is a material that can be used to better understand Tailwind CSS can be added here. Awesome blog posts, code samples, tutorials on any platform are welcome.
 
-### Apps & Websites
+## Apps & Websites
 
 Only **really awesome**, good-looking, preferably original websites, and ones that are not too similar to websites already on the list can be added. Do not use this section for advertising, and be aware that most websites will be refused, unless they are quite awesome.
+
+# Pull request and commits
+
+You can name your pull request and commits however you want, but for clarity, [conventional commits](http://conventionalcommits.org/) are welcome. Pull request will be squashed upon merge.
+
+Here are the keywords used in this list:
+
+- `add` — For adding a resource to the list. - eg. `add(adapters): Vue.js adapter`
+- `remove` — For removing a resource to the list. - eg. `remove(item-name): outdated resource`
+- `update` — For updating a resource to the list. - eg. `update(item-name): fix typographical error in description`
+- `chore` — For anything else.
