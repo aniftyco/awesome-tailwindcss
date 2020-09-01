@@ -45,6 +45,8 @@
 - 💙 [Discussions](https://github.com/tailwindcss/tailwindcss/discussions) - Official place to connect with other community members about Tailwind.
 - 💙 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
 - 💙 [Heroicons](https://heroicons.com/) - Beautiful, hand-crafted SVG icons.
+- [Tailwind Weekly](https://tailwindweekly.com/) - Weekly newsletter about all things Tailwind CSS.
+- [Built With Tailwind](https://builtwithtailwind.com/) - Community-driven collection of awesome websites built with Tailwind CSS.
 
 ## IDE Extensions
 
@@ -170,6 +172,9 @@
 - 🔧 [re-tailwind](https://github.com/phthhieu/re-tailwind) - ReasonML utility that generates Tailwind classes.
 - 🔧 [Protoship Codegen](https://protoship.io) - Code generator that creates Tailwind CSS based HTML & CSS from Sketch designs.
 - 🚀 [Maizzle](https://maizzle.com/) - Framework for rapid email prototyping with Tailwind CSS.
+- 🌍 [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet) - Tailwind CSS class names cheat sheet.
+- 🌍 [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - Tailwind CSS class names in one single file.
+- 🌍 [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS class names, variants and directives cheat sheet.
 
 ## UI Libraries, Components & Templates
 
@@ -241,14 +246,6 @@
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) - Statistics website for League of Legends players.
 - [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) - E-commerce storefront using Svelte & Tailwind CSS.
 - [Misiki Books](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
-
-## Other
-
-- [Tailwind Weekly](https://tailwindweekly.com/) - Weekly newsletter about all things Tailwind CSS. New issue every Saturday.
-- [Built With Tailwind](https://builtwithtailwind.com/) - Community-driven collection of awesome websites built with Tailwind CSS.
-- [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet) - Tailwind CSS class names cheat sheet.
-- [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - Tailwind CSS class names in one single file.
-- [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS class names, variants and directives cheat sheet.
 
 ## Learning
 
