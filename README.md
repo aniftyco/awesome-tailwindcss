@@ -30,8 +30,8 @@
 - [IDE Extensions](#ide-extensions)
 - [Plugins](#plugins)
 - [Tools](#tools)
-- [UI Libraries & Components](#ui-libraries--components)
-- [Starters, Templates & Themes](#starters-templates--themes)
+- [UI Libraries, Components & Templates](#ui-libraries-components--templates)
+- [Starters & Themes](#starters--themes)
 - [Open-Source Projects](#open-source-projects)
 - [Learning](#learning)
 - [Apps & Websites](#apps--websites)
@@ -171,65 +171,67 @@
 - 🔧 [Protoship Codegen](https://protoship.io) - Code generator that creates Tailwind CSS based HTML & CSS from Sketch designs.
 - 🚀 [Maizzle](https://maizzle.com/) - Framework for rapid email prototyping with Tailwind CSS.
 
-## UI Libraries & Components
+## UI Libraries, Components & Templates
 
-- 💙 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
-- [tails-ui](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
-- [VueTailwind](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS.
-- [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Tailwind CSS templates, components and resources.
-- [Tailwind Templates](https://www.tailwindtemplates.io) - Tailwind CSS components.
-- [jQuery + Tailwind Checkbox Toggle](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - Switches using jQuery and Tailwind CSS.
-- [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation?ref=awesome-tailwindcss) - Tailwind Starter Kit is an extension for Tailwind CSS, Free and Open Source.
-- [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
-- [tailblocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
-- [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
-- [Treact](https://treact.owaiskhan.me) - React UI templates and components built using Tailwind CSS.
-- [VueTailwindPicker](https://vue-tailwind-picker.netlify.app) - Datepicker component for Vue.js using Tailwind CSS.
-- [Sail UI](https://sailui.github.io/) - Collection of basic UI components built on Tailwind CSS.
-- [Tailwindow](https://component.tailwindow.com/) - Collection of Tailwind CSS component blocks and UI elements.
-- [Kutty](https://kutty.netlify.app) - Set of accessible and reusable components that are commonly used in web applications.
-- [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
+**Legend**: 💙 Official resource · 📚 Library · 🧩 Components · 📁 Templates
 
-### Starters, Templates & Themes
+- 💙🧩 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
+- 💙📚 [React](https://github.com/tailwindlabs/tailwindui-react) - Renderless, accessible UI components for React.
+- 💙📚 [Vue](https://github.com/tailwindlabs/tailwindui-vue) - Renderless, accessible UI components for Vue.js.
+- 📚 [VueTailwind](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS.
+- 📁 [Tailwind Made](https://tailwindmade.com/) - Paid, developer-friendly templates made with Tailwind CSS.
+- 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
+- 🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
+- 🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
+- 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
+- 🧩📁 [Tailwind Templates](https://www.tailwindtemplates.io) - Collection of templates and components.
+- 🧩📁 [Treact](https://treact.owaiskhan.me) - React UI templates and components built using Tailwind CSS.
+- 🧩 [Date picker](https://github.com/kenhyuwa/vue-tailwind-picker) - Datepicker component for Vue.js using Tailwind CSS.
+- 🧩 [Kutty](https://kutty.netlify.app) - Accessible and reusable components that are commonly used in web applications.
+- 🧩 [Tailwindow](https://component.tailwindow.com/) - Collection of Tailwind CSS component blocks and UI elements.
+- 🧩 [Sail UI](https://sailui.github.io/) - Collection of basic UI components built on Tailwind CSS.
+- 🧩 [jQuery Toggler](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - Switches using jQuery and Tailwind CSS.
+- 🧩 [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) - Framework-agnostic, Vue.js, React and Angular components.
+- 📁 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard template.
+- 📁 [Tailwind Admin](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
+- 📁 [Landing Gradients](https://landing-gradients.netlify.app/) - Landing page template using gradients (1.7+).
+- 📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
+- 📚 [tails-ui](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
 
-**Legend**: 🔧 Starters & Boilerplates · 💼 Starter packages · 🎨 Templates & Themes · 📟 Command line tool
+## Starters & Themes
 
-- 🔧 [Jekyll Starter](https://github.com/mhanberg/jekyll-tailwind-starter) - Jekyll starter using Tailwind CSS.
-- 🔧 [Jekyll Starter](https://github.com/taylorbryant/tailwind-jekyll) - Jekyll starter using Tailwind CSS.
-- 🔧 [Gulp Starter](https://github.com/simonswiss/tailwind-starter) - Gulp starter using Tailwind CSS.
-- 🔧 [Gatsby Starter](https://github.com/taylorbryant/gatsby-starter-tailwind) - Gatsby starter using Tailwind CSS.
-- 🔧 [Gatsby Starter Simplicity](https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme) - Gatsby starter using Tailwind CSS.
-- 🔧 [Gatsby Starter + TypeScript](https://github.com/impulse/gatsby-typescript-tailwind) - Gatsby starter using Tailwind CSS and TypeScript.
-- 🔧 [Gatsby Starter + Emotion JS](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter) - Gatsby starter using Tailwind CSS and Emotion JS.
-- 🔧 [Gatsby Starter Opinionated](https://github.com/mjsarfatti/gatsby-starter-tailwind-opinionated) - Gatsby starter using Tailwind CSS and opinionated goodies.
-- 🔧 [Create React App Boilerplate with EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter) - CRA boilerplate using Tailwind CSS and Emotion JS.
-- 🔧 [Create React App Boilerplate](https://github.com/kriswep/cra-tailwindcss) - CRA boilerplate using Tailwind CSS.
-- 🔧💼 [Create React App script with PurgeCSS](https://github.com/DemianD/create-react-app-tailwindcss) - CRA script that adds Tailwind CSS and PurgeCSS.
-- 🔧 [Create React App with PurgeCSS + Autoprefixer + CSSNano](https://github.com/saadeghi/create-react-app-tailwindcss) - CRA boilerplate with Tailwind CSS (PurgeCSS included), Autoprefixer and CSSNano.
-- 🔧 [Dogpatch](https://github.com/jack-pallot/dogpatch) - WordPress starter using Webpack, Vue, Babel and Tailwind CSS.
-- 🔧 [Next.js Starter](https://github.com/oddstronaut/tailwind-next) - Next.js boilerplate using Tailwind CSS.
-- 🔧 [Sapper & Svelte Starter](https://github.com/EricPKerr/sapper-tailwindcss-starter) - Svelte boilerplate using Sapper, Tailwind CSS, Purge CSS, Prettier and ESLint.
-- 🔧 [Netlify Lambda Static Starter](https://github.com/HugoDF/netlify-lambda-tailwind-static-starter) - Netlify Lambda boilerplate using Tailwind CSS.
-- 🔧 [Ruby on Rails Example Project](https://github.com/jvanbaarsen/tailwindcss-rails-example) - Rails example application using Tailwind CSS.
-- 🔧📟 [Laravel Preset](https://github.com/use-preset/laravel-tailwindcss) - Adds Tailwind CSS to the Laravel framework.
-- 🔧📟 [Vite Preset](https://github.com/use-preset/tailwindcss) - Adds Tailwind CSS to a Vite application.
-- 🔧📟💼 [Laravel Front-end Preset](https://github.com/laravel-frontend-presets/tailwindcss) - Front-end preset using Tailwind CSS for the Laravel Framework.
-- 🔧📟💼 [Laravel Dark Front-end Preset](https://github.com/Naoray/dark-tailwind-preset) - Dark-themed front-end preset using Tailwind CSS for the Laravel Framework.
-- 🔧 [Hugo Theme Starter with Tailwind CSS](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) - Hugo theme starter using Tailwind CSS.
-- 🔧 [Eleventy Web Starter](https://github.com/scottishstoater/jamstack-web-starter) - Starter kit using Eleventy, Tailwind CSS, Webpack and PostCSS.
-- 🔧 [Nanoc Starter](https://github.com/arkency/nanoc-parcel-tailwind-starter) - Nanoc starter using Tailwind CSS.
-- 🔧 [PostCSS and Browsersync Boilerplate](https://github.com/saadeghi/tailwindcss-postcss-browsersync-boilerplate) - Boilerplate including Tailwind CSS, Autoprefixer, PurgeCSS and CSSNano with PostCSS.
-- 🔧 [ParcelJS + TypeScript Boilerplate](https://github.com/saadeghi/tailwindcss-parceljs-typescript-boilerplate) - Boilerplate using Tailwind CSS, ParcelJS bundler and TypeScript.
-- 🔧 [Create Tailwind CSS Boilerplate](https://github.com/michelegera/create-tailwindcss-boilerplate) - Bare-bones Tailwind CSS boilerplate served by Parcel and using PurgeCSS in production builds.
-- 🔧 [VuePress Tailwind CSS Starter](https://github.com/xiaoluoboding/vuepress-tailwind-theme-starter) - A VuePress starter using Tailwind CSS.
-- 🎨 [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) - Gatsby's serif theme using Tailwind CSS.
-- 🎨 [Tailwind Admin](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
-- 🎨 [Landing Gradients](https://landing-gradients.netlify.app/) - Landing page template using gradients (1.7+).
-- 🎨 [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid) - Wordpress theme and PWA using Tailwind CSS.
-- 🎨 [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) - Hugo theme using Tailwind CSS.
-- 🎨 [Create React App template with Tailwind CSS + TypeScript](https://github.com/dance2die/cra-template-tailwindcss-typescript) - CRA template with support for Tailwind CSS and TypeScript.
-- 🎨 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard.
-- 🎨 [Tailwind Made](https://tailwindmade.com/) - Paid, developer-friendly templates made with Tailwind CSS.
+**Legend**: 💼 Package · 📟 Command line tool/generator · 🚀 Cloneable
+
+- 📟 [Create React App with PurgeCSS](https://github.com/DemianD/create-react-app-tailwindcss) - CRA script that adds Tailwind CSS and PurgeCSS.
+- 📟 [Laravel Preset](https://github.com/use-preset/laravel-tailwindcss) - Adds Tailwind CSS to the Laravel framework.
+- 📟 [Vite Preset](https://github.com/use-preset/tailwindcss) - Adds Tailwind CSS to a Vite application.
+- 📟💼 [Laravel Front-end Preset](https://github.com/laravel-frontend-presets/tailwindcss) - Front-end preset using Tailwind CSS for the Laravel Framework.
+- 📟💼 [Laravel Dark Front-end Preset](https://github.com/Naoray/dark-tailwind-preset) - Dark-themed front-end preset using Tailwind CSS for the Laravel Framework.
+- 🚀 [Create React App with EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter) - CRA boilerplate using Tailwind CSS and Emotion JS.
+- 📟 [Create React App with TypeScript](https://github.com/dance2die/cra-template-tailwindcss-typescript) - CRA template with support for Tailwind CSS and TypeScript.
+- 🚀 [Tailwind CSS Boilerplate](https://github.com/michelegera/create-tailwindcss-boilerplate) - Bare-bones Tailwind CSS boilerplate served by Parcel and using PurgeCSS in production builds.
+- 🚀 [Jekyll Starter](https://github.com/taylorbryant/tailwind-jekyll) - Jekyll starter using Tailwind CSS.
+- 🚀 [Jekyll Starter](https://github.com/mhanberg/jekyll-tailwind-starter) - Jekyll starter using Tailwind CSS.
+- 🚀 [Gulp Starter](https://github.com/simonswiss/tailwind-starter) - Gulp starter using Tailwind CSS.
+- 🚀 [Gatsby Starter](https://github.com/taylorbryant/gatsby-starter-tailwind) - Gatsby starter using Tailwind CSS.
+- 🚀 [Gatsby Starter Simplicity](https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme) - Gatsby starter using Tailwind CSS.
+- 🚀 [Gatsby Starter + TypeScript](https://github.com/impulse/gatsby-typescript-tailwind) - Gatsby starter using Tailwind CSS and TypeScript.
+- 🚀 [Gatsby Starter + Emotion JS](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter) - Gatsby starter using Tailwind CSS and Emotion JS.
+- 🚀 [Gatsby Starter Opinionated](https://github.com/mjsarfatti/gatsby-starter-tailwind-opinionated) - Gatsby starter using Tailwind CSS and opinionated goodies.
+- 🚀 [Create React App Boilerplate](https://github.com/kriswep/cra-tailwindcss) - CRA boilerplate using Tailwind CSS.
+- 🚀 [Create React App with PurgeCSS + Autoprefixer + CSSNano](https://github.com/saadeghi/create-react-app-tailwindcss) - CRA boilerplate with Tailwind CSS (PurgeCSS included), Autoprefixer and CSSNano.
+- 🚀 [Dogpatch](https://github.com/jack-pallot/dogpatch) - WordPress starter using Webpack, Vue, Babel and Tailwind CSS.
+- 🚀 [Next.js Starter](https://github.com/oddstronaut/tailwind-next) - Next.js boilerplate using Tailwind CSS.
+- 🚀 [Sapper & Svelte Starter](https://github.com/EricPKerr/sapper-tailwindcss-starter) - Svelte boilerplate using Sapper, Tailwind CSS, Purge CSS, Prettier and ESLint.
+- 🚀 [Netlify Lambda Starter](https://github.com/HugoDF/netlify-lambda-tailwind-static-starter) - Netlify Lambda boilerplate using Tailwind CSS.
+- 🚀 [Hugo Theme Starter with Tailwind CSS](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) - Hugo theme starter using Tailwind CSS.
+- 🚀 [Eleventy Web Starter](https://github.com/scottishstoater/jamstack-web-starter) - Starter kit using Eleventy, Tailwind CSS, Webpack and PostCSS.
+- 🚀 [Nanoc Starter](https://github.com/arkency/nanoc-parcel-tailwind-starter) - Nanoc starter using Tailwind CSS.
+- 🚀 [PostCSS and Browsersync Boilerplate](https://github.com/saadeghi/tailwindcss-postcss-browsersync-boilerplate) - Boilerplate including Tailwind CSS, Autoprefixer, PurgeCSS and CSSNano with PostCSS.
+- 🚀 [ParcelJS + TypeScript Boilerplate](https://github.com/saadeghi/tailwindcss-parceljs-typescript-boilerplate) - Boilerplate using Tailwind CSS, ParcelJS bundler and TypeScript.
+- 🚀 [VuePress Tailwind CSS Starter](https://github.com/xiaoluoboding/vuepress-tailwind-theme-starter) - A VuePress starter using Tailwind CSS.
+- 🚀 [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) - Gatsby's serif theme using Tailwind CSS.
+- 🚀 [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) - Hugo theme using Tailwind CSS.
 
 ## Open-Source Projects
 
