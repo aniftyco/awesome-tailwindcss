@@ -136,7 +136,7 @@
 - 🛑🧩 [Spinner](https://github.com/aniftyco/tailwindcss-spinner) - Adds a spinner component.
 - 🛑🧩 [Spaced Items](https://github.com/n1kk/tailwindcss-spaced-items) - Adds `spaced` components that add fixed margins to all container items, except the last one.
 
-### Tools
+## Tools
 
 **Legend**: 🌍 Accessible online · 🔼 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services · 🎨 Color-related · 🚀 Framework
 
