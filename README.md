@@ -299,7 +299,18 @@
 
 ## Apps & Websites
 
-- TODO.
+- [Jack McDade](https://jackmcdade.com/) - Original, colorful personal website.
+- [Dance of Dawn](https://www.danceofdawn.com/) - Original, beautifully illustrated organization website.
+- [Statamic](https://statamic.com/) - Original, colorful product website.
+- [Blogcast](https://blogcast.host/) - Minimal, beautiful product website.
+- [Sitesauce](https://sitesauce.app/) - Full-width, illustrated product website.
+- [Martin Williams](https://www.martinwilliamsart.co.uk/) - Minimal painter website.
+- [Hello Sun](https://hellosun.brussels/) - Original, illustrated organization website.
+- [Sleepless Mind](https://sleeplessmind.info/) - Original, very minimal-looking personal website.
+- [SlidesGo](https://slidesgo.com/) - Generic, good-looking template gallery website.
+- [GitInLog](https://www.gitinlog.com/) - Generic, Tailwind UI-powered product website.
+- [BuildPulse](https://buildpulse.io/) - Generic, Tailwind-looking product website.
+- [Nuxt](https://nuxtjs.org/) - Beautiful tool documentation website.
 
 <p align="center">
   <br />
