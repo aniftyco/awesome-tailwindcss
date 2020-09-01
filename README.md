@@ -296,14 +296,14 @@
 
 ## Apps & Websites
 
-- [Jack McDade](https://jackmcdade.com/) - Original, colorful personal website.
-- [Dance of Dawn](https://www.danceofdawn.com/) - Original, beautifully illustrated organization website.
-- [Statamic](https://statamic.com/) - Original, colorful product website.
-- [Sitesauce](https://sitesauce.app/) - Full-width, illustrated product website.
-- [Hello Sun](https://hellosun.brussels/) - Original, illustrated organization website.
-- [SlidesGo](https://slidesgo.com/) - Generic, good-looking template gallery website.
-- [GitInLog](https://www.gitinlog.com/) - Generic, Tailwind UI-powered product website.
-- [Nuxt](https://nuxtjs.org/) - Beautiful tool documentation website.
+- [Jack Manders](https://joshmanders.com/) - Thoughts, Stories & Ideas.
+- [Primcloud](https://primcloud.com/) - Deploy your apps quickly and easily.
+- [Jack McDade](https://jackmcdade.com/) - Is tired of boring websites.
+- [Dance of Dawn](https://www.danceofdawn.com/) - Be awaked by your birth.
+- [Statamic](https://statamic.com/) - Build beautiful, easy to manage websites.
+- [Sitesauce](https://sitesauce.app/) - A static version of your website in one click.
+- [Hello Sun](https://hellosun.brussels/) - Helping Brussels go solar.
+- [Nuxt](https://nuxtjs.org/) - Build your next Vue.js application with confidence with NuxtJS.
 
 <p align="center">
   <br />
