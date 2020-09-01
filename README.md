@@ -138,9 +138,9 @@
 
 **Legend**: 🌍 Accessible online · 🔼 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services · 🎨 Color-related · 🚀 Framework
 
-- 🎨🌍🔧 [Color shades generator](https://javisperez.github.io/tailwindcolorshades) - Color shades generator for Tailwind CSS (online).
-- 🎨🌍🔧 [Color palette generator](https://adevade.github.io/color-scheme-generator) - Color palette generator that outputs a color configuration for Tailwind CSS (online).
-- 🎨🌍🔧 [Tailwindow Color Shades Generator](https://color.tailwindow.com) - Generate your own color shades with customizable color intervals and ranges.
+- 🎨🌍🔧 [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades) - Color shades generator for Tailwind CSS.
+- 🎨🌍🔧 [Palette generator](https://adevade.github.io/color-scheme-generator) - Color palette generator that outputs Tailwind CSS configuration files.
+- 🎨🌍🔧 [Tailwindow's Color Shades](https://color.tailwindow.com) - Color shades generator for Tailwind CSS.
 - 🎨🌍🔧 [Tailwind Colors](https://tailwind-colors.meidev.co) - Color configuration generator for Tailwind CSS.
 - 🎨🌍🔧 [Tailwind Gradient Designer](https://tailwind-gradient-designer.csspost.com/) - Generate a gradient for Tailwind 1.7+.
 - 🌍🔧 [GPT-3 Tailwind CSS code generator](http://gpt-tailwind.com/) - OpenAI GPT-3 powered Tailwind CSS code generator.
@@ -153,20 +153,20 @@
 - 🔼 [RustyWind](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 - 🅰 [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - React Native typing system.
 - 🅰 [typed-tailwind](https://github.com/dvkndn/typed-tailwind) - TypeScript typings for Tailwind CSS.
-- 💼 [Gatsby Plugin Tailwind CSS](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) - Gastby plugin to use Tailwind CSS with CSS-in-JS.
-- 💼 [Gridsome Plugin Tailwind CSS](https://github.com/brandonpittman/gridsome-plugin-tailwindcss) - Gridsome plugin to use Tailwind CSS with PurgeCSS, postcss-import, and postcss-env.
+- 💼 [Gatsby Plugin](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) - Tailwind CSS integration for Gatsby.
+- 💼 [Gridsome Plugin](https://github.com/brandonpittman/gridsome-plugin-tailwindcss) - Tailwind CSS integration for Gridsome.
 - 💼 [Alfred Workflow](https://github.com/clnt/alfred-tailwindcss-docs) - Fast Tailwind CSS documentation search application.
 - 💼 [ng-tailwindcss](https://github.com/tehpsalmist/ng-tailwindcss) - CLI tool for integrating Tailwind CSS into Angular-CLI projects.
 - 💼 [vue-cli-plugin-tailwind](https://github.com/forsartis/vue-cli-plugin-tailwind) - Vue CLI plugin that adds Tailwind CSS to a project.
 - 💼 [Tailwind CSS Figma Kit](https://github.com/impulse/tailwindcss-figma-kit) - Figma Kit for Tailwind CSS.
 - 💼 [Tailwind CSS Figma Plugin](https://github.com/impulse/tailwindcss-figma-plugin) - Figma plugin that integrates Tailwind CSS.
 - 💼 [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) - Tailwind CSS module for NuxtJS with PurgeCSS and modern CSS (preset env 1).
-- 💼 [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) - Adds Tailwind CSS module as PostCSS plugin and sets up PurgeCSS in production for PreactJS CLI Projects.
+- 💼 [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) - Tailwind CSS integration for Preact.
 - 💼🔧 [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f) - Zeplin extension that generates Tailwind configurations.
 - 💼🔧 [@tailwindcssinjs/macro](https://github.com/Arthie/tailwindcssinjs) - Babel macro that transforms Tailwind CSS classes into objects for CSS-in-JS libraries.
 - 💼🔧 [twin.macro](https://github.com/ben-rogerson/twin.macro) - Use Tailwind classes within any CSS-in-JS library.
 - 💼🔧 [Tailwind Config Viewer](https://github.com/rogden/tailwind-config-viewer) - Local UI tool for visualizing your Tailwind CSS configuration file.
-- 💼🔧 [Laravel Form Components](https://github.com/pascalbaljetmedia/laravel-form-components) - A set of Blade components to rapidly build forms with Tailwind CSS Custom Forms.
+- 💼🔧 [Laravel Form Components](https://github.com/pascalbaljetmedia/laravel-form-components) - Blade form components using Tailwind CSS Custom Forms.
 - 🔧 [re-tailwind](https://github.com/phthhieu/re-tailwind) - ReasonML utility that generates Tailwind classes.
 - 🔧 [Protoship Codegen](https://protoship.io) - Code generator that creates Tailwind CSS based HTML & CSS from Sketch designs.
 - 🚀 [Maizzle](https://maizzle.com/) - Framework for rapid email prototyping with Tailwind CSS.
@@ -205,11 +205,11 @@
 - 📟 [Create React App with PurgeCSS](https://github.com/DemianD/create-react-app-tailwindcss) - CRA script that adds Tailwind CSS and PurgeCSS.
 - 📟 [Laravel Preset](https://github.com/use-preset/laravel-tailwindcss) - Adds Tailwind CSS to the Laravel framework.
 - 📟 [Vite Preset](https://github.com/use-preset/tailwindcss) - Adds Tailwind CSS to a Vite application.
-- 📟💼 [Laravel Front-end Preset](https://github.com/laravel-frontend-presets/tailwindcss) - Front-end preset using Tailwind CSS for the Laravel Framework.
-- 📟💼 [Laravel Dark Front-end Preset](https://github.com/Naoray/dark-tailwind-preset) - Dark-themed front-end preset using Tailwind CSS for the Laravel Framework.
+- 📟💼 [Laravel Front-end Preset](https://github.com/laravel-frontend-presets/tailwindcss) - Front-end preset using Tailwind CSS for Laravel.
+- 📟💼 [Laravel Dark Front-end Preset](https://github.com/Naoray/dark-tailwind-preset) - Dark-themed front-end preset using Tailwind CSS for Laravel.
 - 🚀 [Create React App with EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter) - CRA boilerplate using Tailwind CSS and Emotion JS.
 - 📟 [Create React App with TypeScript](https://github.com/dance2die/cra-template-tailwindcss-typescript) - CRA template with support for Tailwind CSS and TypeScript.
-- 🚀 [Tailwind CSS Boilerplate](https://github.com/michelegera/create-tailwindcss-boilerplate) - Bare-bones Tailwind CSS boilerplate served by Parcel and using PurgeCSS in production builds.
+- 🚀 [Tailwind CSS Boilerplate](https://github.com/michelegera/create-tailwindcss-boilerplate) - Tailwind CSS boilerplate using Parcel.
 - 🚀 [Jekyll Starter](https://github.com/taylorbryant/tailwind-jekyll) - Jekyll starter using Tailwind CSS.
 - 🚀 [Jekyll Starter](https://github.com/mhanberg/jekyll-tailwind-starter) - Jekyll starter using Tailwind CSS.
 - 🚀 [Gulp Starter](https://github.com/simonswiss/tailwind-starter) - Gulp starter using Tailwind CSS.
@@ -219,7 +219,7 @@
 - 🚀 [Gatsby Starter + Emotion JS](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter) - Gatsby starter using Tailwind CSS and Emotion JS.
 - 🚀 [Gatsby Starter Opinionated](https://github.com/mjsarfatti/gatsby-starter-tailwind-opinionated) - Gatsby starter using Tailwind CSS and opinionated goodies.
 - 🚀 [Create React App Boilerplate](https://github.com/kriswep/cra-tailwindcss) - CRA boilerplate using Tailwind CSS.
-- 🚀 [Create React App with PurgeCSS + Autoprefixer + CSSNano](https://github.com/saadeghi/create-react-app-tailwindcss) - CRA boilerplate with Tailwind CSS (PurgeCSS included), Autoprefixer and CSSNano.
+- 🚀 [Create React App with PurgeCSS + Autoprefixer + CSSNano](https://github.com/saadeghi/create-react-app-tailwindcss) - CRA boilerplate using CSS Nano.
 - 🚀 [Dogpatch](https://github.com/jack-pallot/dogpatch) - WordPress starter using Webpack, Vue, Babel and Tailwind CSS.
 - 🚀 [Next.js Starter](https://github.com/oddstronaut/tailwind-next) - Next.js boilerplate using Tailwind CSS.
 - 🚀 [Sapper & Svelte Starter](https://github.com/EricPKerr/sapper-tailwindcss-starter) - Svelte boilerplate using Sapper, Tailwind CSS, Purge CSS, Prettier and ESLint.
@@ -227,7 +227,7 @@
 - 🚀 [Hugo Theme Starter with Tailwind CSS](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) - Hugo theme starter using Tailwind CSS.
 - 🚀 [Eleventy Web Starter](https://github.com/scottishstoater/jamstack-web-starter) - Starter kit using Eleventy, Tailwind CSS, Webpack and PostCSS.
 - 🚀 [Nanoc Starter](https://github.com/arkency/nanoc-parcel-tailwind-starter) - Nanoc starter using Tailwind CSS.
-- 🚀 [PostCSS and Browsersync Boilerplate](https://github.com/saadeghi/tailwindcss-postcss-browsersync-boilerplate) - Boilerplate including Tailwind CSS, Autoprefixer, PurgeCSS and CSSNano with PostCSS.
+- 🚀 [PostCSS and Browsersync Boilerplate](https://github.com/saadeghi/tailwindcss-postcss-browsersync-boilerplate) - Boilerplate using CSS Nano.
 - 🚀 [ParcelJS + TypeScript Boilerplate](https://github.com/saadeghi/tailwindcss-parceljs-typescript-boilerplate) - Boilerplate using Tailwind CSS, ParcelJS bundler and TypeScript.
 - 🚀 [VuePress Tailwind CSS Starter](https://github.com/xiaoluoboding/vuepress-tailwind-theme-starter) - A VuePress starter using Tailwind CSS.
 - 🚀 [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) - Gatsby's serif theme using Tailwind CSS.
@@ -280,11 +280,11 @@
 - 🎬 [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) - Dribbble shot with Tailwind CSS.
 - 🎬 [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - Building a Tweet component with Tailwind CSS.
 - 🎓 [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) - Creating a modal dialog with Tailwind CSS.
-- 🎓 [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - Examples of building UIs of Shopify, Spotify, Netlify and Atlassian using Tailwind CSS.
+- 🎓 [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - Building UIs of Shopify, Spotify, Netlify and Atlassian.
 - 🎓 [Rebuilding FreshBooks](http://joey.io/rebuilding-freshbooks-with-tailwind-css) - Rebuilding FreshBooks with Tailwind CSS.
 - 🎓 [Login Page (PingPing)](https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss) - Creating a login page with Tailwind CSS.
 - 🎓 [Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page) - Creating a login page with Tailwind CSS.
-- 🎓 [Vue.js Component with Tailwind and Laravel](https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project) - Building a Vue.js component with Tailwind CSS in a Laravel project.
+- 🎓 [Vue.js Component with Tailwind and Laravel](https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project) - Building a Vue.js component in a Laravel project.
 - 🎓 [Vue.js Modal](https://nick-basile.com/blog/post/build-a-customizable-vuejs-modal-with-tailwind-css) - Building a customizable modal with Tailwind CSS and Vue.js.
 - 🎓 [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) - Building a navigation with Tailwind CSS.
 - 🎓 [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) - How to style a form with Tailwind CSS.
