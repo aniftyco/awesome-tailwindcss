@@ -296,7 +296,7 @@
 
 ## Apps & Websites
 
-- [Jack Manders](https://joshmanders.com/) - Thoughts, Stories & Ideas.
+- [Josh Manders](https://joshmanders.com/) - Thoughts, Stories & Ideas.
 - [Primcloud](https://primcloud.com/) - Deploy your apps quickly and easily.
 - [Jack McDade](https://jackmcdade.com/) - Is tired of boring websites.
 - [Dance of Dawn](https://www.danceofdawn.com/) - Be awaked by your birth.
