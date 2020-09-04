@@ -145,7 +145,7 @@
 - 🎨🌍🔧 [Tailwindow's Color Shades](https://color.tailwindow.com) - Color shades generator for Tailwind CSS.
 - 🎨🌍🔧 [Tailwind Colors](https://tailwind-colors.meidev.co) - Color configuration generator for Tailwind CSS.
 - 🎨🌍🔧 [Tailwind Gradient Designer](https://tailwind-gradient-designer.csspost.com/) - Generate a gradient for Tailwind 1.7+.
-- 🎨🌍🔧 [Tailwind Color Explorer](https://stefanbuck.com/tailwind-color-theme-explorer) - Color Explorer for Tailwind CSS.
+- 🎨🌍🔧 [Tailwind Color Explorer](https://stefanbuck.com/tailwind-color-theme-explorer) - Color explorer for Tailwind CSS.
 - 🌍🔧 [GPT-3 Tailwind CSS code generator](http://gpt-tailwind.com/) - OpenAI GPT-3 powered Tailwind CSS code generator.
 - 🌍🔧 [Stitches](https://stitches.hyperyolo.com/) - Template generator with Tailwind (online).
 - 🌍 [tailwind.run](https://tailwind.run) - Tailwind CSS fiddle with built-time features (online).
