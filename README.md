@@ -148,6 +148,7 @@
 - 🎨🌍🔧 [Tailwind Color Explorer](https://stefanbuck.com/tailwind-color-theme-explorer) - Color explorer for Tailwind CSS.
 - 🌍🔧 [GPT-3 Tailwind CSS code generator](http://gpt-tailwind.com/) - OpenAI GPT-3 powered Tailwind CSS code generator.
 - 🌍🔧 [Stitches](https://stitches.hyperyolo.com/) - Template generator with Tailwind (online).
+- 🌍 [Typography Playground](https://tailwind-typography-playground.vercel.app/) - Tool for trying different Google Fonts combinations with the Tailwind CSS Typography Plugin.
 - 🌍 [tailwind.run](https://tailwind.run) - Tailwind CSS fiddle with built-time features (online).
 - 🔼🌍 [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind classes' prefixer tool.
 - 🔼 [Tailwindo](https://github.com/awssat/tailwindo) - Bootstrap to Tailwind CSS converter.
