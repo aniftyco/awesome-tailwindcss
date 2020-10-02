@@ -314,6 +314,8 @@
 - [Sitesauce](https://sitesauce.app/) - A static version of your website in one click.
 - [Hello Sun](https://hellosun.brussels/) - Helping Brussels go solar.
 - [Nuxt](https://nuxtjs.org/) - Build your next Vue.js application with confidence with NuxtJS.
+- [Chris Wray](https://chriswray.dev) - Loves building things and helping people.
+- [MyJourney](https://myjourney.page) - Share your life journeys on a timeline.
 
 <p align="center">
   <br />
