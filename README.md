@@ -255,6 +255,7 @@
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) - Statistics website for League of Legends players.
 - [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) - E-commerce storefront using Svelte & Tailwind CSS.
 - [Misiki Books](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
+- [Covid-19 Dashboard](https://github.com/tehkaiyu/covid-19) - Covid-19 tracking dashboard using React + Tailwind CSS.
 
 ## Learning
 
