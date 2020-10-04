@@ -190,8 +190,7 @@
 **Legend**: 💙 Official resource · 📚 Library · 🧩 Components · 📁 Templates
 
 - 💙🧩 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
-- 💙📚 [React](https://github.com/tailwindlabs/tailwindui-react) - Renderless, accessible UI components for React.
-- 💙📚 [Vue](https://github.com/tailwindlabs/tailwindui-vue) - Renderless, accessible UI components for Vue.js.
+- 💙📚 [Headless UI](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
 - 📚 [VueTailwind](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS.
 - 📁 [Tailwind Made](https://tailwindmade.com/) - Paid, developer-friendly templates made with Tailwind CSS.
 - 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
