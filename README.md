@@ -88,7 +88,6 @@
 - 💼 [Hyphens](https://github.com/philippbosch/tailwindcss-hyphens) - Adds `hyphens` utilities.
 - 💼 [Border Gradients](https://github.com/cossssmin/tailwindcss-border-gradients) - Adds `border-image` gradient utilities.
 - 💼 [RFS](https://github.com/aerni/tailwindcss-rfs) - Adds [`RFS`](https://github.com/twbs/rfs) utilities.
-- 💼 [Font Variant Numeric](https://github.com/philippbosch/tailwindcss-font-variant-numeric) - Adds `font-variant-numeric` utilities.
 - 💼 [List Reset](https://github.com/opdavies/tailwindcss-list-reset) - Adds back the `list-reset` class that was removed prior to Tailwind CSS 1.0.
 - 💼 [Fluid](https://github.com/bradlc/tailwindcss-fluid) - Adds fluid sizing utilities.
 - 💼 [Typography](https://github.com/benface/tailwindcss-typography) - Adds typography utilities.
@@ -135,6 +134,7 @@
 - 🛑💼 [webdna's transitions](https://github.com/webdna/tailwindcss-transition) - Adds configurable transition utilities.
 - 🛑💼 [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) - Adds basic transition utilities.
 - 🛑💼 [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) - Extends `cursor` utilities.
+- 🛑💼 [Font Variant Numeric](https://github.com/philippbosch/tailwindcss-font-variant-numeric) - Adds `font-variant-numeric` utilities.
 - 🛑🧬 [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) - Adds opacity variants to existing colors.
 - 🛑🧩 [Spinner](https://github.com/aniftyco/tailwindcss-spinner) - Adds a spinner component.
 - 🛑🧩 [Spaced Items](https://github.com/n1kk/tailwindcss-spaced-items) - Adds `spaced` components that add fixed margins to all container items.
