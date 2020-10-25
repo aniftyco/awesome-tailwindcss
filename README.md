@@ -205,7 +205,7 @@
 - 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
 - 🧩📁 [Tailwind Templates](https://www.tailwindtemplates.io) - Collection of templates and components.
 - 🧩📁 [Treact](https://treact.owaiskhan.me) - React UI templates and components built using Tailwind CSS.
-- 🧩📁 [Jakarta LTE](https://github.com/zeroblack-c/jakarta-lte) - Free and Open Source Premium Admin Templates with rich UI Kit base on Tailwind CSS.
+- 🧩📁 [Jakarta LTE](https://github.com/zeroblack-c/jakarta-lte) - Admin template using Tailwind CSS.
 - 🧩 [Date picker](https://github.com/kenhyuwa/vue-tailwind-picker) - Datepicker component for Vue.js using Tailwind CSS.
 - 🧩 [Kutty](https://kutty.netlify.app) - Accessible and reusable components that are commonly used in web applications.
 - 🧩 [Tailwindow](https://component.tailwindow.com/) - Collection of Tailwind CSS component blocks and UI elements.
