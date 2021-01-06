@@ -235,7 +235,7 @@
 - 📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
 - 📚 [tails-ui](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
 - 📚 [tails](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
-
+- 📚 [Tailwind UI Kit](https://tailwinduikit.com/) - 600+ components & 30 templates with React, Angular, and Vue integrations.
 
 ## Starters & Themes
 
