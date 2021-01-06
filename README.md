@@ -68,6 +68,7 @@
 - 💙🧩 [Typography](https://github.com/tailwindlabs/tailwindcss-typography) - Adds a `prose` class for beautiful typographic defaults.
 - 💙💼 [Aspect Ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - Adds composable aspect ratio utilities.
 - 💙 [Forms](https://github.com/tailwindlabs/tailwindcss-forms) - Adds better default styles to form elements.
+- 💙 [Line Clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - Provides utilities for visually truncating text after a fixed number of lines.
 - 🎨🧬 [Theming](https://github.com/innocenzi/tailwindcss-theming) - Theming using CSS variables, with dark mode support.
 - 🎨🧬 [Theme Variants](https://github.com/JakeNavith/tailwindcss-theme-variants) - Adds them variants based on media queries and/or CSS selectors.
 - 🎨🧬 [Multi Theme](https://github.com/estevanmaito/tailwindcss-multi-theme) - Adds theme variants based on a single `theme` property.
