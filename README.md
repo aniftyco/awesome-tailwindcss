@@ -85,7 +85,7 @@
 - 💼 [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) - Adds `image-rendering` utilities.
 - 💼 [Filters](https://github.com/benface/tailwindcss-filters) - Adds `filter` utilities.
 - 💼 [Elevation](https://github.com/jonaskay/tailwindcss-elevation) - Adds [Material UI `elevation`](https://material.io/design/environment/elevation.html) utilities.
-- 💼 [Caret Color](https://github.com/naoray/tailwind-caret-color) - Adds `caret` color utilities.
+- 💼 [Caret Color](https://github.com/GraxMonzo/tailwind-caret-color) - Adds `caret` color utilities.
 - 💼 [Blend Mode](https://github.com/hacknug/tailwindcss-blend-mode) - Adds `blend-mode` utilities.
 - 💼 [Colorize](https://github.com/philippbosch/tailwindcss-colorize) - Adds `filter` utilities.
 - 💼 [Writing Mode](https://github.com/magicspon/tailwindcss-writing-mode) - Adds `writing-mode` utilities.
@@ -127,6 +127,7 @@
 
 > 🛑 - _The plugins below offer functionalities that are now fully or partially implemented in Tailwind CSS._
 
+- 🛑💼 [Caret Color](https://github.com/naoray/tailwind-caret-color) - Adds `caret` color utilities.
 - 🛑💼 [benface's gradients](https://github.com/benface/tailwindcss-gradients) - Adds gradient utilities.
 - 🛑💼 [lorisleiva's gradients](https://github.com/lorisleiva/tailwindcss-plugins/tree/master/gradients) - Adds background gradient utilities.
 - 🛑💼 [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden) - Adds screen reader utilities.
