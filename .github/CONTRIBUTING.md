@@ -9,6 +9,7 @@ Please be sure to follow the [Tailwind CSS Community Guidelines](https://github.
    - > Only has awesome items. Awesome lists are curations of the best, not everything. _— [Awesome Guidelines](https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md#requirements-for-your-awesome-list)_
 3. Unless specified otherwise below, an item must be added to the bottom of its emoji group.
 4. [`awesome-lint`](https://github.com/sindresorhus/awesome-lint) must be used before creating a pull request.
+5. Your project must not violate the [Tailwind brand usage guidelines](https://tailwindcss.com/brand#usage).
 
 ## Formats, Naming Conventions and Descriptions
 
