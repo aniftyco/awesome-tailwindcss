@@ -240,7 +240,7 @@
 - 📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
 - 📚 [tails-ui](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
 - 📚 [tails](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
-- 🧩📁 [themes.dev](https://www.themes.dev/) - Offers handcrafted Free and Premium Tailwind CSS themes & components.
+- 🧩📁 [themes.dev](https://www.themes.dev/) - Handcrafted, free and premium Tailwind CSS themes and components.
 
 ## Starters & Themes
 
