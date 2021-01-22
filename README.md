@@ -219,6 +219,7 @@
 - 🧩📁 [Tailwind Templates](https://www.tailwindtemplates.io) - Collection of templates and components.
 - 🧩📁 [Treact](https://treact.owaiskhan.me) - React UI templates and components built using Tailwind CSS.
 - 🧩📁 [Jakarta LTE](https://github.com/zeroblack-c/jakarta-lte) - Admin template using Tailwind CSS.
+- 🧩📁 [themes.dev](https://www.themes.dev/) - Handcrafted, free and premium Tailwind CSS themes and components.
 - 🧩 [Date picker](https://github.com/kenhyuwa/vue-tailwind-picker) - Datepicker component for Vue.js using Tailwind CSS.
 - 🧩 [Kutty](https://kutty.netlify.app) - Accessible and reusable components that are commonly used in web applications.
 - 🧩 [Tailwindow](https://component.tailwindow.com/) - Collection of Tailwind CSS component blocks and UI elements.
@@ -240,7 +241,6 @@
 - 📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
 - 📚 [tails-ui](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
 - 📚 [tails](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
-
 
 ## Starters & Themes
 
@@ -331,6 +331,7 @@
 - 🎓 [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) - Building a photo gallery with CSS grids and Tailwind CSS.
 - 🎓 [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) - Rebuilding Bartik (Drupal's default theme) with Vue.js and Tailwind CSS.
 - 🎓 [Rebuilding Airbnb's Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) - Rebuilding Airbnb's Home Page with Tailwind CSS.
+- 🎓 [Typographic defaults in Tailwind CSS](https://www.themes.dev/blog/typographic-defaults-in-tailwind-css/)
 - 🎥 [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
 - 🎥 [More experimentation with Tailwind CSS](https://www.youtube.com/watch?v=nBzfVK3QUzM)
 - 🎥 [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)
