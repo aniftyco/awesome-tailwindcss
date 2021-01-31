@@ -34,7 +34,6 @@
 - [Starters & Themes](#starters--themes)
 - [Open-Source Projects](#open-source-projects)
 - [Learning](#learning)
-- [Apps & Websites](#apps--websites)
 
 ## Useful Links
 
@@ -234,7 +233,7 @@
 - 🧩 [Gust UI](https://www.gustui.com/) - Sleek Tailwind CSS components for web applications in React and HTML.
 - 🧩 [Windstrap](https://windstrap.netlify.app) - Tailwind CSS with Bootstrap JS.
 - 🧩 [WickedBlocks](https://blocks.wickedtemplates.com/) - Collection of more than 120 layout blocks and components built with Tailwind CSS.
-- 🧩 [Daisy UI](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.  
+- 🧩 [Daisy UI](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
 - 📁 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard template.
 - 📁 [Tailwind Admin](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
 - 📁 [Landing Gradients](https://landing-gradients.netlify.app/) - Landing page template using gradients (1.7+).
@@ -341,17 +340,6 @@
 - 🎥 [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)
 - 🎥 [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
 - 🎥 [Rebuilding Meetup](https://youtu.be/ULe6yKJrFuI)
-
-## Apps & Websites
-
-- [Josh Manders](https://joshmanders.com/) - Thoughts, Stories & Ideas.
-- [Primcloud](https://primcloud.com/) - Deploy your apps quickly and easily.
-- [Jack McDade](https://jackmcdade.com/) - Is tired of boring websites.
-- [Dance of Dawn](https://www.danceofdawn.com/) - Be awaked by your birth.
-- [Statamic](https://statamic.com/) - Build beautiful, easy to manage websites.
-- [Sitesauce](https://sitesauce.app/) - A static version of your website in one click.
-- [Hello Sun](https://hellosun.brussels/) - Helping Brussels go solar.
-- [Nuxt](https://nuxtjs.org/) - Build your next Vue.js application with confidence with NuxtJS.
 
 <p align="center">
   <br />

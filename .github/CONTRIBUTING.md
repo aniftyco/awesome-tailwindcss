@@ -79,10 +79,6 @@ Open-source projects that use Tailwind CSS can be featured in this category if y
 
 Anything that is a material that can be used to better understand Tailwind CSS can be added here. Awesome blog posts, code samples, tutorials on any platform are welcome.
 
-## Apps & Websites
-
-Only **really awesome**, good-looking, preferably original websites, and ones that are not too similar to websites already on the list can be added. Do not use this section for advertising, and be aware that most websites will be refused, unless they are quite awesome.
-
 # Pull request and commits
 
 You can name your pull request and commits however you want, but for clarity, [conventional commits](http://conventionalcommits.org/) are welcome. Pull request will be squashed upon merge.
