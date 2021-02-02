@@ -285,6 +285,7 @@
 - 🚀 [Vite + Vue 3.x + Tailwind 2.x Starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Starter template using Vite, Vue, Vue Router and Tailwind CSS.
 - 🚀 [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
 - 🚀 [Starter Dashboard Layout](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
+- 🚀 [K-WD Dashboard](https://github.com/Kamona-WD/kwd-dashboard) - Dashboard starter with dark & light mode using Tailwind CSS and Alpine JS.
 
 ## Open-Source Projects
 
