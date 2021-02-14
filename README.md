@@ -26,7 +26,6 @@
 
 ## Contents
 
-- [Contents](#contents)
 - [Useful Links](#useful-links)
 - [IDE Extensions](#ide-extensions)
 - [Plugins](#plugins)
