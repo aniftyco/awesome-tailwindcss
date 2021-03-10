@@ -244,6 +244,7 @@
 - 🧩 [Daisy UI](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
 - 🧩 [Kometa UI Kit](https://kitwind.io/products/kometa/components) - Free multi-purpose UI kit, built with Tailwind CSS.
 - 🧩 [Mamba UI](https://mambaui.com) - Free Tailwind CSS components, sections and templates.
+- 🧩 [Litepie Date picker](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS, dependent to day.js.
 - 📁 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard template.
 - 📁 [Tailwind Admin](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
 - 📁 [Landing Gradients](https://landing-gradients.netlify.app/) - Landing page template using gradients (1.7+).
