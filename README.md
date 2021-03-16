@@ -70,7 +70,7 @@
 - 💙💼 [Line Clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - Provides utilities for visually truncating text after a fixed number of lines.
 - 💙 [Forms](https://github.com/tailwindlabs/tailwindcss-forms) - Adds better default styles to form elements.
 - 🎨🧬 [Theming](https://github.com/innocenzi/tailwindcss-theming) - Theming using CSS variables, with dark mode support.
-- 🎨🧬 [Theme Variants](https://github.com/JakeNavith/tailwindcss-theme-variants) - Adds them variants based on media queries and/or CSS selectors.
+- 🎨🧬 [Theme Variants](https://github.com/JakeNavith/tailwindcss-theme-variants) - Adds theme variants based on media queries and/or CSS selectors.
 - 🎨🧬 [Multi Theme](https://github.com/estevanmaito/tailwindcss-multi-theme) - Adds theme variants based on a single `theme` property.
 - 🎨🧬 [Theme Swapper](https://github.com/crswll/tailwindcss-theme-swapper) - Theming using CSS variables, with media queries support.
 - 🎨🧬 [Prefers Dark Mode](https://github.com/javifm86/tailwindcss-prefers-dark-mode) - Adds variants based on the `prefers-color-scheme` media query.
