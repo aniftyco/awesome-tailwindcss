@@ -257,6 +257,7 @@
 - 📚 [tails-ui](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
 - 📚 [tails](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
 - 📚 [Windi CSS](https://github.com/windicss/windicss) - On-demand compiler for Tailwind CSS.
+- 📚 [Tailwind Cards](https://github.com/hasinhayder/tailwind-cards) - A growing collection of text/image cards.
 
 ## Starters & Themes
 
