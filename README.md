@@ -228,6 +228,7 @@
 - 🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 - 🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
 - 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
+- 🧩 [Tailwind Cards](https://github.com/hasinhayder/tailwind-cards) - A growing collection of text/image cards.
 - 🧩📁 [Tailwind Templates](https://www.tailwindtemplates.io) - Collection of templates and components.
 - 🧩📁 [Treact](https://treact.owaiskhan.me) - React UI templates and components built using Tailwind CSS.
 - 🧩📁 [Jakarta LTE](https://github.com/zeroblack-c/jakarta-lte) - Admin template using Tailwind CSS.
@@ -257,7 +258,6 @@
 - 📚 [tails-ui](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
 - 📚 [tails](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
 - 📚 [Windi CSS](https://github.com/windicss/windicss) - On-demand compiler for Tailwind CSS.
-- 📚 [Tailwind Cards](https://github.com/hasinhayder/tailwind-cards) - A growing collection of text/image cards.
 
 ## Starters & Themes
 
