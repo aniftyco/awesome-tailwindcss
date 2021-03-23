@@ -10,4 +10,4 @@ _Resource description here_
 - [ ] My item is logically grouped below similar items
 - [ ] My item's name and description respects the conventions of the list
 - [ ] My item is awesome
-- [ ] I have read and followed the [contribution guidelines](.github/CONTRIBUTING.md)
+- [ ] I have read and followed the [contribution guidelines](https://github.com/aniftyco/awesome-tailwindcss/blob/master/.github/CONTRIBUTING.md)

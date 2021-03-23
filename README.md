@@ -215,7 +215,6 @@
 - 🌍 [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - Tailwind CSS class names in one single file.
 - 🌍 [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS class names, variants and directives cheat sheet.
 
-
 ## UI Libraries, Components & Templates
 
 **Legend**: 💙 Official resource · 📚 Library · 🧩 Components · 📁 Templates
@@ -259,7 +258,6 @@
 - 📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
 - 📚 [tails-ui](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
 - 📚 [tails](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
-- 📚 [Windi CSS](https://github.com/windicss/windicss) - On-demand compiler for Tailwind CSS.
 
 ## Starters & Themes
 
