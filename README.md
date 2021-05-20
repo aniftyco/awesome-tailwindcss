@@ -109,6 +109,7 @@
 - 💼 [Content Placeholder](https://github.com/javisperez/tailwindcontentplaceholder) - Adds utilities for content placeholder images.
 - 💼 [No Scrollbar](https://github.com/redwebcreation/tailwindcss-no-scrollbar) - Exposes `scrollbar-none` to visually hide a scrollbar.
 - 💼 [Accent Color](https://github.com/lukewarlow/tailwind-accent-color) - Adds accent color utilities.
+- 💼 [Downwind CSS Text Decoration](https://github.com/downwindcss/text-decoration) - Adds composable `text-decoration` utilities.
 - 🧬 [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) - Adds custom variants to Tailwind CSS's configuration.
 - 🧬 [Direction](https://github.com/RonMelkhior/tailwindcss-dir) - Adds `RTL` and `LTR` variants.
 - 🧬 [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) - Adds `touch` variants.
