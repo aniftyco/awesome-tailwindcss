@@ -26,6 +26,7 @@
 
 ## Contents
 
+- [Contents](#contents)
 - [Useful Links](#useful-links)
 - [IDE Extensions](#ide-extensions)
 - [Plugins](#plugins)
@@ -269,6 +270,7 @@
 
 **Legend**: 💼 Package · 📟 Command line tool/generator · 🚀 Cloneable
 
+- 📟 [new-tailwind-app](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
 - 📟 [Create React App with PurgeCSS](https://github.com/DemianD/create-react-app-tailwindcss) - CRA script that adds Tailwind CSS and PurgeCSS.
 - 📟 [Laravel Preset](https://github.com/use-preset/laravel-tailwindcss) - Adds Tailwind CSS to the Laravel framework.
 - 📟💼 [Laravel Front-end Preset](https://github.com/laravel-frontend-presets/tailwindcss) - Front-end preset using Tailwind CSS for Laravel.
