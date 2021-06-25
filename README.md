@@ -219,6 +219,7 @@
 - 🌍 [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - Tailwind CSS class names in one single file.
 - 🌍 [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS class names, variants and directives cheat sheet.
 - 🌍 [Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - Tailwind CSS class names in a searchable page.
+- 🌍 [Tailwind Gradient Generator](https://tailwindcomponents.com/gradient-generator) - Create perfect gradients for your Tailwind CSS sites easily with zero lines of code.
 
 ## UI Libraries, Components & Templates
 
