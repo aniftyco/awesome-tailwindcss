@@ -108,6 +108,7 @@
 - 💼 [Downwind CSS Easings](https://github.com/downwindcss/easings) - Extends `transition-timing-function` utilities.
 - 💼 [Content Placeholder](https://github.com/javisperez/tailwindcontentplaceholder) - Adds utilities for content placeholder images.
 - 💼 [No Scrollbar](https://github.com/redwebcreation/tailwindcss-no-scrollbar) - Exposes `scrollbar-none` to visually hide a scrollbar.
+- 💼 [Scroll Behavior](https://github.com/lukewarlow/tailwind-scroll-behavior) - Adds `scroll-smooth` and `scroll-auto` classes to control smooth scrolling.
 - 💼 [Accent Color](https://github.com/lukewarlow/tailwind-accent-color) - Adds accent color utilities.
 - 💼 [Downwind CSS Text Decoration](https://github.com/downwindcss/text-decoration) - Adds composable `text-decoration` utilities.
 - 🧬 [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) - Adds custom variants to Tailwind CSS's configuration.
