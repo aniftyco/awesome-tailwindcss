@@ -165,7 +165,6 @@
 
 - 🎨🌍🔧 [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades) - Color shades generator for Tailwind CSS.
 - 🎨🌍🔧 [Palette generator](https://adevade.github.io/color-scheme-generator) - Color palette generator that outputs Tailwind CSS configuration files.
-- 🎨🌍🔧 [Tailwindow's Color Shades](https://color.tailwindow.com) - Color shades generator for Tailwind CSS.
 - 🎨🌍🔧 [Tailwind Colors](https://tailwind-colors.meidev.co) - Color configuration generator for Tailwind CSS.
 - 🎨🌍🔧 [Tailwind Color Explorer](https://stefanbuck.com/tailwind-color-theme-explorer) - Color explorer for Tailwind CSS.
 - 🎨🌍🔧 [TailwindInk](https://tailwind.ink/) - AI palette generator, trained with the Tailwind CSS palette.
@@ -246,7 +245,6 @@
 - 🧩📁 [themes.dev](https://www.themes.dev/) - Handcrafted, free and premium Tailwind CSS themes and components.
 - 🧩 [Date picker](https://github.com/kenhyuwa/vue-tailwind-picker) - Datepicker component for Vue.js using Tailwind CSS.
 - 🧩 [Kutty](https://kutty.netlify.app) - Accessible and reusable components that are commonly used in web applications.
-- 🧩 [Tailwindow](https://component.tailwindow.com/) - Collection of Tailwind CSS component blocks and UI elements.
 - 🧩 [Sail UI](https://sailui.github.io/) - Collection of basic UI components built on Tailwind CSS.
 - 🧩 [jQuery Toggler](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - Switches using jQuery and Tailwind CSS.
 - 🧩 [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) - Framework-agnostic, Vue.js, React and Angular components.
