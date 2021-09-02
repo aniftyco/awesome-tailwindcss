@@ -264,6 +264,7 @@
 - 📁 [Simple Light](https://github.com/cruip/tailwind-landing-page-template) - Free landing page template built with React & Tailwind CSS.
 - 📁 [V-Dashboard](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
 - 📁 [Petra](https://github.com/Smuice-com/Free-Nuxtjs-Tailwindcss-landing-page-template) - Free landing page template built with Nuxt.js & Tailwind CSS.
+- 📁 [Tailmin](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS.
 - 📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
 - 📚 [tails-ui](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
 - 📚 [tails](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
