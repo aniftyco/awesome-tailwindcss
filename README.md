@@ -90,6 +90,7 @@
 - 💼 [RFS](https://github.com/aerni/tailwindcss-rfs) - Adds [`RFS`](https://github.com/twbs/rfs) utilities.
 - 💼 [List Reset](https://github.com/opdavies/tailwindcss-list-reset) - Adds back the `list-reset` class that was removed prior to Tailwind CSS 1.0.
 - 💼 [Fluid](https://github.com/bradlc/tailwindcss-fluid) - Adds fluid sizing utilities.
+- 💼 [Fluid Type](https://github.com/davidhellmann/tailwindcss-fluid-type) - Adds fluid type utilities.
 - 💼 [Typography](https://github.com/benface/tailwindcss-typography) - Adds typography utilities.
 - 💼 [Triangle After](https://github.com/chrisrowe/tailwindcss-triangle-after) - Adds CSS triangles utilities.
 - 💼 [Scrims](https://github.com/brettgullan/tailwindcss-scrims) - Adds scrims utilities.
