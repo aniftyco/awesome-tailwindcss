@@ -131,7 +131,6 @@
 - 🧩 [CSS Variables](https://github.com/omarkhatibco/tailwind-css-variables) - Exports configuration to CSS Custom Properties.
 - 🧩 [CSS Variables](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables (Dark Mode supported).
 - 🧩 [Perspective](https://github.com/Kamona-WD/tailwindcss-perspective) - Adds `perspective` utilities.
-- 🧩 [Tailwind Datepicker](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and Vanilla JavaScript
 
 > 🛑 - _The plugins below offer functionalities that are now fully or partially implemented in Tailwind CSS._
 
@@ -235,7 +234,7 @@
 - 📚 [VueTailwind](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS.
 - 📚 [Tailwind Elements](https://tailwind-elements.com/) - Huge collection of free components, mobile-friendly thanks to Bootstrap 5.
 - 📚 [Vechai UI](https://www.vechaiui.com/) - High-quality accessible React components with the built-in dark mode using Tailwind CSS.
-- 📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Open-source component library built with Tailwind CSS
+- 📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Open-source component library built with Tailwind CSS.
 - 📁 [Tailwind Made](https://tailwindmade.com/) - Paid, developer-friendly templates made with Tailwind CSS.
 - 📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
 - 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
@@ -259,6 +258,7 @@
 - 🧩 [Kometa UI Kit](https://kitwind.io/products/kometa/components) - Free multi-purpose UI kit, built with Tailwind CSS.
 - 🧩 [Mamba UI](https://mambaui.com) - Free Tailwind CSS components, sections and templates.
 - 🧩 [Litepie Date picker](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
+- 🧩 [Tailwind Datepicker](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
 - 📁 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard template.
 - 📁 [Tailwind Admin](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
 - 📁 [Landing Gradients](https://landing-gradients.netlify.app/) - Landing page template using gradients (1.7+).
