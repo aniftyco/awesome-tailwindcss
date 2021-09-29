@@ -121,7 +121,7 @@
 - 🧬 [Fluid](https://github.com/soberwp/tailwindcss-fl) - Generates `fl:` variants.
 - 🧬 [Marker](https://github.com/RadishIO/tailwindcss-marker) - Provides utilities for styling lists and `<summary>` markers.
 - 🧬 [Pseudo selectors](https://github.com/Microwawe/tailwindcss-pseudo-selectors) - Adds variants for the pseudo-classes and pseudo-elements that Tailwind CSS doesn't have by default.
-- - 🧩 [Tailwind Datepicker](https://github.com/themesberg/tailwind-datepicker) - A datepicker component built with Vanilla JavaScript and Tailwind utility classes.
+- 🧩 [Tailwind Datepicker](https://github.com/themesberg/tailwind-datepicker) - A datepicker component built with Vanilla JavaScript and Tailwind utility classes.
 - 🧩 [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Adds a component that shows the currently active screen (responsive breakpoint).
 - 🧩 [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - Adds [Hero Patterns](https://www.heropatterns.com) components.
 - 🧩 [Responsive Embed](https://github.com/drdogbot7/tailwindcss-responsive-embed) - Adds a `responsive-embed` component.
