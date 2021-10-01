@@ -26,6 +26,7 @@
 
 ## Contents
 
+- [Contents](#contents)
 - [Useful Links](#useful-links)
 - [IDE Extensions](#ide-extensions)
 - [Plugins](#plugins)
@@ -225,6 +226,7 @@
 - 🌍 [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - Tailwind CSS class names in one single file.
 - 🌍 [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS class names, variants and directives cheat sheet.
 - 🌍 [Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - Tailwind CSS class names in a searchable page.
+- 💼 [clb](https://github.com/crswll/clb) - clb (class list builder) is a small, utility function that builds a class list based on a [Stitches](https://stitches.dev/) like API.
 
 ## UI Libraries, Components & Templates
 
