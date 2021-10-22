@@ -237,6 +237,7 @@
 - 📚 [Tailwind Elements](https://tailwind-elements.com/) - Huge collection of free components, mobile-friendly thanks to Bootstrap 5.
 - 📚 [Vechai UI](https://www.vechaiui.com/) - High-quality accessible React components with the built-in dark mode using Tailwind CSS.
 - 📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Open-source component library built with Tailwind CSS.
+- 📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open Source Tailwind CSS and VueJS UI Kit and Admin
 - 📁 [Tailwind Made](https://tailwindmade.com/) - Paid, developer-friendly templates made with Tailwind CSS.
 - 📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
 - 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
