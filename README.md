@@ -185,7 +185,7 @@
 - 🌍🔧 [Windframe](https://www.devwares.com/windframe/) - Tailwind CSS drag and drop builder to rapidly build and prototype websites.
 - 🌍 [Typography Playground](https://tailwind-typography-playground.vercel.app/) - Tool for trying different Google Fonts combinations with the Tailwind CSS Typography Plugin.
 - 🌍💙 [Play](https://play.tailwindcss.com/) - Advanced online playground for Tailwind CSS.
-- 🌍💙 [Stellify](https://stellify.com/) - Advanced cloud-based graphical IDE that uses Tailwind CSS.
+- 🌍 [Stellify](https://stellify.com/) - Advanced cloud-based graphical IDE that uses Tailwind CSS.
 - 🌍 [Updrafts.app](https://updrafts.app/) - Advanced online no-code drag and drop editor for Tailwind CSS.
 - 🌍 [tailwind.run](https://tailwind.run) - Tailwind CSS fiddle with built-time features (online).
 - 🌍 [tailzilla.app](https://tailzilla.app) - Online playground for Tailwind CSS.
