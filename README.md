@@ -253,7 +253,6 @@
 - 🧩 [Sail UI](https://sailui.github.io/) - Collection of basic UI components built on Tailwind CSS.
 - 🧩 [jQuery Toggler](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - Switches using jQuery and Tailwind CSS.
 - 🧩 [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) - Framework-agnostic, Vue.js, React and Angular components.
-- 🧩 [Free Tailwind CSS Templates](https://elegantgoodies.gumroad.com/l/tailwind-bundle) - 5 free well-ceded and elegant styled Tailwind CSS Templates
 - 🧩 [lofi ui](https://lofiui.co/) - Low-fidelity Tailwind CSS components.
 - 🧩 [Gust UI](https://www.gustui.com/) - Sleek Tailwind CSS components for web applications in React and HTML.
 - 🧩 [Windstrap](https://windstrap.netlify.app) - Tailwind CSS with Bootstrap JS.
@@ -280,6 +279,7 @@
 - 📁 [OhMySMTP Templates](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
 - 📁 [Material Tailwind Kit React](https://www.creative-tim.com/product/material-tailwind-kit-react) - Free Tailwind CSS and React UI kit.
 - 📁 [Material Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react) - Free Tailwind CSS and React admin template.
+- 📁 [Free Tailwind CSS Templates](https://elegantgoodies.gumroad.com/l/tailwind-bundle) - 5 free well-ceded and elegant styled Tailwind CSS Templates
 
 ## Starters & Themes
 
