@@ -117,7 +117,7 @@
 - 🧬 [Alpha](https://github.com/bradlc/tailwindcss-alpha) - Adds alpha color variants.
 - 🧬 [Localized](https://github.com/hdodov/tailwindcss-localized) - Adds variants based on the HTML `lang` attribute, to use utilities only with certain languages.
 - 🧬 [Important](https://github.com/chasegiunta/tailwindcss-important) - Adds an `important` variant.
-- 🧬 [Padded Radius](https://github.com/locksten/tailwindcss-padded-radius) - Adds variants for matching nested border radii.
+- 🧬 [Padded Radius](https://github.com/locksten/tailwindcss-padded-radius) - Adds variants for matching nested border radius.
 - 🧬 [Fluid](https://github.com/soberwp/tailwindcss-fl) - Generates `fl:` variants.
 - 🧬 [Marker](https://github.com/RadishIO/tailwindcss-marker) - Provides utilities for styling lists and `<summary>` markers.
 - 🧬 [Pseudo selectors](https://github.com/Microwawe/tailwindcss-pseudo-selectors) - Adds variants for the pseudo-classes and pseudo-elements that Tailwind CSS doesn't have by default.
