@@ -283,6 +283,7 @@
 - 📁 [OhMySMTP Templates](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
 - 📁 [Material Tailwind Kit React](https://www.creative-tim.com/product/material-tailwind-kit-react) - Free Tailwind CSS and React UI kit.
 - 📁 [Material Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react) - Free Tailwind CSS and React admin template.
+- 📁 [Admin One Vue 3](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
 
 ## Starters & Themes
 
