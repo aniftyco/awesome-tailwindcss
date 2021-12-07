@@ -206,6 +206,7 @@
 - 💼 [ng-tailwindcss](https://github.com/tehpsalmist/ng-tailwindcss) - CLI tool for integrating Tailwind CSS into Angular-CLI projects.
 - 💼 [vue-cli-plugin-tailwind](https://github.com/forsartis/vue-cli-plugin-tailwind) - Vue CLI plugin that adds Tailwind CSS to a project.
 - 💼 [Tailwind CSS Figma Kit](https://github.com/ecklf/tailwindcss-figma-kit) - Figma Kit for Tailwind CSS.
+- 💼 [Tailwind CSS Figma UI Design Kit](https://flowbite.com/figma/) - Figma UI Design Kit for Tailwind CSS.
 - 💼 [Tailwind CSS Figma Plugin](https://github.com/ecklf/tailwindcss-figma-plugin) - Figma plugin that integrates Tailwind CSS.
 - 💼 [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) - Tailwind CSS module for NuxtJS with PurgeCSS and modern CSS (preset env 1).
 - 💼 [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) - Tailwind CSS integration for Preact.
@@ -229,6 +230,7 @@
 - 🌍 [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - Tailwind CSS class names in one single file.
 - 🌍 [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS class names, variants and directives cheat sheet.
 - 🌍 [Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - Tailwind CSS class names in a searchable page.
+- 🌍 [Tailwind Cheat Sheet](https://flowbite.com/tools/tailwind-cheat-sheet/) - Tailwind CSS utility class names in a searchable interface.
 
 ## UI Libraries, Components & Templates
 
