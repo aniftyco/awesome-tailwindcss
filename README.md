@@ -273,6 +273,7 @@
 - 🧩 [Material Tailwind](https://material-tailwind.com/) - Easy to use components library for Tailwind CSS and Material Design.
 - 🧩 [Layouts for Tailwind](https://layoutsfortailwind.lalokalabs.dev/) - Layouts and UI Patterns for Tailwind CSS.
 - 🧩 [HyperUI](https://hyperui.dev/) - Open source marketing and ecommerce Tailwind CSS components.
+- 🧩 [Myna UI](https://mynaui.com/) - Open source UI Components and Marketing Elements made with Tailwind CSS.
 - 📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 - 📁 [Red Pixel Themes](https://redpixelthemes.com/) - Paid, developer-friendly templates made with Tailwind CSS.
 - 📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
