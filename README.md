@@ -224,6 +224,7 @@
 - 💼 [Gust](https://www.getgust.com) - Drag and drop page builder for WordPress.
 - 💼 [clb](https://github.com/crswll/clb) - clb (class list builder) is a utility function that builds a class list based on a [Stitches](https://stitches.dev/) like API.
 - 💼🌍 [Inspect Flow](https://inspectflow.io) - The complete developer tool for Tailwind CSS.
+- 💼 [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) - Using Tailwind CSS in WeChat Miniprogram.
 - 🔧 [re-tailwind](https://github.com/phthhieu/re-tailwind) - ReasonML utility that generates Tailwind classes.
 - 🔧 [Protoship Codegen](https://protoship.io) - Code generator that creates Tailwind CSS based HTML & CSS from Sketch designs.
 - 🔧 [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Plugin scaffolder for Tailwind CSS.
