@@ -60,6 +60,7 @@
 - [Shades for Code](https://github.com/bourhaouta/vscode-tailwindshades) - Color palette generator extension for Visual Studio Code.
 - [IntelliSense for Neovim](https://github.com/iamcco/coc-tailwindcss) - IntelliSense extension for Neovim.
 - [Tailwind CSS Explorer for Code](https://marketplace.visualstudio.com/items?itemName=PeterMekhaeil.vscode-tailwindcss-explorer) - Explore the classes available in your project's Tailwind CSS setup.
+- [Tailwind CSS Highlight](https://marketplace.visualstudio.com/items?itemName=ellreka.tailwindcss-highlight) - Highlight utilities extension for Visual Studio Code.
 
 ## Plugins
 
