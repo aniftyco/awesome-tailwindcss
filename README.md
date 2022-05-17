@@ -254,7 +254,7 @@
 - 📚 [tails-ui](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
 - 📚 [tails](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
 - 📚 [Svelte Headless UI](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of Headless UI.
-- 📚 [Headless UI Float](https://headlessui-float.vercel.app) - Easy use Headless UI with Floating UI to position floating elements.
+- 📚 [Headless UI Float](https://headlessui-float.vercel.app) - Floating UI integration for Headless UI.
 - 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
 - 🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 - 🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
