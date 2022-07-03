@@ -423,3 +423,10 @@
   <br />
   <sub>Contributions welcome! Read the <a href=".github/CONTRIBUTING.md">contribution guidelines</a> first.</sub>
 </p>
+
+## Project Stats
+
+
+## Recent activity [![Time period](https://images.repography.com/27068107/theetherGit/awesome-tailwindcss/recent-activity/46f7edf41e47dd57be652637e1581a29_badge.svg)](https://github.com/aniftyco/awesome-tailwindcss)
+[![Timeline graph](https://images.repography.com/27068107/theetherGit/awesome-tailwindcss/recent-activity/46f7edf41e47dd57be652637e1581a29_timeline.svg)](https://github.com/theetherGit/awesome-tailwindcss/commits)
+[![Top contributors](https://images.repography.com/27068107/theetherGit/awesome-tailwindcss/recent-activity/46f7edf41e47dd57be652637e1581a29_users.svg)](https://github.com/theetherGit/awesome-tailwindcss/graphs/contributors)
