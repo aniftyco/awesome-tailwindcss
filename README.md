@@ -231,7 +231,7 @@
 - 💼🌍 [Inspect Flow](https://inspectflow.io) - The complete developer tool for Tailwind CSS.
 - 💼 [twined-components](https://github.com/lowfront/twined-components) - Extended component of a styled-components that prioritizes class names for use in Tailwind CSS.
 - 💼 [Tails Devtools](https://github.com/vechai/tails-devtools) - All-in-one browser extension for Tailwind CSS.
-- 💼 [Impulse.dev](https://impulse.dev) – UI editor for Tailwind and React that edits your code.
+- 💼 [Impulse.dev](https://impulse.dev) – UI editor for Tailwind CSS and React that edits your code.
 - 🔧 [re-tailwind](https://github.com/phthhieu/re-tailwind) - ReasonML utility that generates Tailwind classes.
 - 🔧 [Protoship Codegen](https://protoship.io) - Code generator that creates Tailwind CSS based HTML & CSS from Sketch designs.
 - 🔧 [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Plugin scaffolder for Tailwind CSS.
