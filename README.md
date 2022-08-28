@@ -253,7 +253,6 @@
 - 📚 [Vechai UI](https://www.vechaiui.com/) - High-quality accessible React components with the built-in dark mode using Tailwind CSS.
 - 📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Open-source component library built with Tailwind CSS.
 - 📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
-- 📚 [Float UI](floatui.com) - Beautiful and responsive UI components with Tailwind even with pure CSS, support both directions LTR and RTL.
 - 📚 [tails-ui](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
 - 📚 [tails](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
 - 📚 [Svelte Headless UI](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of Headless UI.
@@ -305,6 +304,7 @@
 - 📁 [Material Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react) - Free Tailwind CSS and React admin template.
 - 📁 [Admin One Vue 3](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
 - 📁 [Cruip](https://cruip.com/) - Beautifully designed HTML, React, and Vue.js templates.
+- 🧩 [Float UI](https://floatui.com) - UI components with Tailwind even with pure CSS, support both directions LTR and RTL.
 
 ## Starters & Themes
 
