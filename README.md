@@ -417,6 +417,7 @@
 - 🎥 [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)
 - 🎥 [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
 - 🎥 [Rebuilding Meetup](https://youtu.be/ULe6yKJrFuI)
+- 🎓 [A curated list of Tailwind Online Courses](https://skillcombo.com/topic/tailwind/)
 
 <p align="center">
   <br />
