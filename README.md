@@ -304,7 +304,7 @@
 - 📁 [Material Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react) - Free Tailwind CSS and React admin template.
 - 📁 [Admin One Vue 3](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
 - 📁 [Cruip](https://cruip.com/) - Beautifully designed HTML, React, and Vue.js templates.
-- 🧩 [Float UI](https://floatui.com) - UI components with Tailwind even with pure CSS, support both directions LTR and RTL.
+- 🧩 [Float UI](https://floatui.com) - UI components with Tailwind CSS even with pure CSS, with LTR and RTL support.
 
 ## Starters & Themes
 
