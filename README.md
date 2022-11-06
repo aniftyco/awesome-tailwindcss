@@ -312,6 +312,7 @@
 
 **Legend**: 💼 Package · 📟 Command line tool/generator · 🚀 Cloneable
 
+- 📟💼 [Laravel AdminTW](https://laraveladmintw.com/) - A Laravel Tailwind CSS admin theme built in the TALL stack.
 - 📟 [Create React App with PurgeCSS](https://github.com/DemianD/create-react-app-tailwindcss) - CRA script that adds Tailwind CSS and PurgeCSS.
 - 📟 [Laravel Preset](https://github.com/use-preset/laravel-tailwindcss) - Adds Tailwind CSS to the Laravel framework.
 - 📟💼 [Laravel Front-end Preset](https://github.com/laravel-frontend-presets/tailwindcss) - Front-end preset using Tailwind CSS for Laravel.
