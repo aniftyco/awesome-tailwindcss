@@ -236,6 +236,7 @@
 - 💼 [Tails Devtools](https://github.com/vechai/tails-devtools) - All-in-one browser extension for Tailwind CSS.
 - 💼 [Impulse.dev](https://impulse.dev) – UI editor for Tailwind CSS and React that edits your code.
 - 💼🌍 [Supertweak](https://supertweak.dev) - Visual devtools for Tailwind CSS.
+- 💼 [vivid.lol](https://vivid.lol) - In-browser editor for Tailwind that allows you to preview and apply Tailwind classes to source code
 - 🔧 [re-tailwind](https://github.com/phthhieu/re-tailwind) - ReasonML utility that generates Tailwind classes.
 - 🔧 [Protoship Codegen](https://protoship.io) - Code generator that creates Tailwind CSS based HTML & CSS from Sketch designs.
 - 🔧 [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Plugin scaffolder for Tailwind CSS.
