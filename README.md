@@ -245,6 +245,8 @@
 - 🌍 [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS class names, variants and directives cheat sheet.
 - 🌍 [Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - Tailwind CSS class names in a searchable page.
 - 🌍 [Tailwind Cheat Sheet](https://flowbite.com/tools/tailwind-cheat-sheet/) - Tailwind CSS utility class names in a searchable interface.
+- 💼 [Tailiscope.Nvim](https://github.com/danielvolchek/tailiscope.nvim) - Tailwind CSS cheat sheet integrated in Neovim.
+
 
 ## UI Libraries, Components & Templates
 
