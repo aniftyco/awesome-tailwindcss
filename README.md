@@ -124,7 +124,7 @@
 - 🧩 [CSS Variables](https://github.com/omarkhatibco/tailwind-css-variables) - Exports configuration to CSS Custom Properties.
 - 🧩 [CSS Variables](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables (Dark Mode supported).
 - 🧩 [Perspective](https://github.com/Kamona-WD/tailwindcss-perspective) - Adds `perspective` utilities.
-- 🎨 [Tailwind Shades For Custom Colors](https://github.com/LorenzoBloedow/tailwind-shades-for-custom-colors) - Generates shades for your custom colors, like `bg-avocado-400`.
+- 💼 [Tailwind Shades For Custom Colors](https://github.com/LorenzoBloedow/tailwind-shades-for-custom-colors) - Generates shades for your custom colors, like `bg-avocado-400`.
 
 > 🛑 - _The plugins below offer functionalities that are now fully or partially implemented in Tailwind CSS._
 
