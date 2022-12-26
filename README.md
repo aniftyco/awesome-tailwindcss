@@ -76,6 +76,7 @@
 - 🎨🧬 [Theme Swapper](https://github.com/crswll/tailwindcss-theme-swapper) - Theming using CSS variables, with media queries support.
 - 🎨🧬 [Themeable](https://github.com/upupming/tailwindcss-themeable) - Adds multiple themes support for Tailwind CSS.
 - 🎨🧬 [Themer](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
+- 🎨💼 [Accent](https://github.com/enjidev/tailwindcss-accent) - Adds `accent` colors for more dynamic and flexible color utilization.
 - 💼🧬 [Radix](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
 - 💼 [Custom Native](https://github.com/SirNavith/tailwindcss-custom-native) - Leverages Tailwind CSS's configuration to allow the creation of utilities.
 - 💼 [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) - Adds `image-rendering` utilities.
