@@ -267,6 +267,7 @@
 - 📚 [Xtend UI](https://xtendui.com/) - Tailwind CSS components with advanced interactions and animations.
 - 📚 [Headless UI Float](https://headlessui-float.vercel.app) - Floating UI integration for Headless UI.
 - 📚 [Vanilla Components](https://vanilla-components.com) - Set of fully customizable Vue components.
+- 📚 [Sailboat UI](https://sailboatui.com/) - Modern UI framework for Tailwind CSS.
 - 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
 - 🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 - 🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
