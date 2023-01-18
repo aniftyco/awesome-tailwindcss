@@ -315,6 +315,7 @@
 - 📁 [Admin One Vue 3](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
 - 📁 [Cruip](https://cruip.com/) - Beautifully designed HTML, React, and Vue.js templates.
 - 📁 [Admin One React](https://github.com/justboil/admin-one-react-tailwind) - Free React.js Tailwind CSS admin template with Next.js & TypeScript.
+- 📁 [Flowbite Admin Dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
 
 ## Starters & Themes
 
