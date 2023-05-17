@@ -379,6 +379,7 @@
 - 🚀 [AstroWind](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
 - 🚀 [Angular-Tailwind](https://github.com/luciano-work/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
 - 🚀 [Vue-Resume](https://github.com/luciano-work/vue-resume) - Developer resume template with Tailwind CSS and Vue.
+- 🚀 [Next.js Enterprise](https://github.com/Blazity/next-enterprise) - Enterprise-grade Next.js starter built with Tailwind CSS and Radix UI
 
 ## Open-Source Projects
 
