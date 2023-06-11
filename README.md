@@ -293,6 +293,7 @@
 - 🧩 [Windstrap](https://windstrap.netlify.app) - Tailwind CSS with Bootstrap JS.
 - 🧩 [WickedBlocks](https://blocks.wickedtemplates.com/) - Collection of more than 120 layout blocks and components built with Tailwind CSS.
 - 🧩 [Daisy UI](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
+- 🧩 [Windstatic](https://windstatic.com/) - A set of 181 elements & layouts made with Tailwind CSS and Alpine.js
 - 🧩 [Kometa UI Kit](https://kitwind.io/products/kometa/components) - Free multi-purpose UI kit, built with Tailwind CSS.
 - 🧩 [Mamba UI](https://mambaui.com) - Free Tailwind CSS components, sections and templates.
 - 🧩 [Litepie Date picker](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
@@ -309,6 +310,10 @@
 - 🧩 [NativeWind](https://www.nativewind.dev) - NativeWind uses Tailwind CSS as scripting language to create a universal style system for React Native.
 - 📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 - 📁 [Red Pixel Themes](https://redpixelthemes.com/) - Paid, developer-friendly templates made with Tailwind CSS.
+ 📁 [Lexington Themes](https://lexingtonthemes.com/) - Premium themes and UI Kits. For designers, developers, businesses, and personal use — Beautifully crafted with Astro.js, and Tailwind CSS — Simple & easy to customize.
+- 📁 [Swissfolio](https://swissfolio.vercel.app/) - A stunning open source template made with Astro & Tailwind CSS for your next portfolio
+- 📁 [AstroSaaS](https://astrosaas.vercel.app/) - A stunning open source template made with Astro & Tailwind CSS for your next SAAS
+- 📁 [Quick Store](https://quickstorre.vercel.app/) - An open source template made with Astro & Tailwind CSS for your next Online tore
 - 📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
 - 📁 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard template.
 - 📁 [Tailwind Admin](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
