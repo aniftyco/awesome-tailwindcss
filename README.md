@@ -217,6 +217,7 @@
 - 💼 [Gatsby Plugin](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) - Tailwind CSS integration for Gatsby.
 - 💼 [Gridsome Plugin](https://github.com/brandonpittman/gridsome-plugin-tailwindcss) - Tailwind CSS integration for Gridsome.
 - 💼 [Alfred Workflow](https://github.com/clnt/alfred-tailwindcss-docs) - Fast Tailwind CSS documentation search application.
+- 💼 [Raycast Extension](https://www.raycast.com/vimtor/tailwindcss) - Search classes, documentation and colors in raycast
 - 💼 [ng-tailwindcss](https://github.com/tehpsalmist/ng-tailwindcss) - CLI tool for integrating Tailwind CSS into Angular-CLI projects.
 - 💼 [vue-cli-plugin-tailwind](https://github.com/forsartis/vue-cli-plugin-tailwind) - Vue CLI plugin that adds Tailwind CSS to a project.
 - 💼 [Tailwind CSS Figma Kit](https://github.com/ecklf/tailwindcss-figma-kit) - Figma Kit for Tailwind CSS.
