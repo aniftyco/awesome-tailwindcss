@@ -62,6 +62,7 @@
 - [Tailwind CSS Explorer for Code](https://marketplace.visualstudio.com/items?itemName=PeterMekhaeil.vscode-tailwindcss-explorer) - Explore the classes available in your project's Tailwind CSS setup.
 - [Tailwind CSS Highlight](https://marketplace.visualstudio.com/items?itemName=ellreka.tailwindcss-highlight) - Highlight utilities extension for Visual Studio Code.
 - [CSS to TailwindCSS converter for Code](https://github.com/Jackardios/vscode-css-to-tailwindcss) - CSS to Tailwind CSS converter extension for Visual Studio Code.
+- [Convert CSS to Tailwindcss](https://github.com/hunghg255/css-to-tailwindcss-extension) - Convert CSS to Tailwindcss
 
 ## Plugins
 
