@@ -213,7 +213,6 @@
 - 🔼 [Tailwind Shift](https://github.com/awssat/tailwind-shift) - Upgrade tool for upgrading from Tailwind CSS v0.7 to v1.0.
 - 🔼 [RustyWind](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 - 🔼 [Windy](https://usewindy.com) - Browser extension to convert HTML elements to Tailwind CSS.
-- 🔼 [DivMagic](https://divmagic.com) - Copy any web element and style as Tailwind CSS component
 - 🅰 [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - React Native typing system.
 - 🅰 [typed-tailwind](https://github.com/dvkndn/typed-tailwind) - TypeScript typings for Tailwind CSS.
 - 💼 [Gatsby Plugin](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) - Tailwind CSS integration for Gatsby.
@@ -248,6 +247,7 @@
 - 💼🌍 [Supertweak](https://supertweak.dev) - Visual devtools for Tailwind CSS.
 - 💼 [Tailscan](https://tailscan.com) - Ultimate devtools for Tailwind CSS v3 with ability to inspect and convert CSS to Tailwind CSS classes.
 - 💼 [Raycast Extension](https://www.raycast.com/vimtor/tailwindcss) - Search classes, documentation and colors in Raycast Launcher.
+- 💼 [DivMagic](https://divmagic.com) - Copy any web element and style as Tailwind CSS component.
 - 🔧 [re-tailwind](https://github.com/phthhieu/re-tailwind) - ReasonML utility that generates Tailwind classes.
 - 🔧 [Protoship Codegen](https://protoship.io) - Code generator that creates Tailwind CSS based HTML & CSS from Sketch designs.
 - 🔧 [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Plugin scaffolder for Tailwind CSS.
