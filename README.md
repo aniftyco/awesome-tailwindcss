@@ -444,6 +444,7 @@
 - 🎥 [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)
 - 🎥 [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
 - 🎥 [Rebuilding Meetup](https://youtu.be/ULe6yKJrFuI)
+- [tailwind cheat sheet](https://dev.to/irishgeoff11/tailwind-cheatsheet-2d45)
 
 <p align="center">
   <br />
