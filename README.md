@@ -381,6 +381,7 @@
 - 🚀 [AstroWind](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
 - 🚀 [Angular-Tailwind](https://github.com/luciano-work/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
 - 🚀 [Vue-Resume](https://github.com/luciano-work/vue-resume) - Developer resume template with Tailwind CSS and Vue.
+- 🚀 [Tailwind sites](https://tailwindsites.com) - Free Tailwind CSS site templates for your next project
 
 ## Open-Source Projects
 
