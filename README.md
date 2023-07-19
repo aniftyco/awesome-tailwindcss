@@ -203,7 +203,6 @@
 - 🌍 [Typography Playground](https://tailwind-typography-playground.vercel.app/) - Tool for trying different Google Fonts combinations with the Tailwind CSS Typography Plugin.
 - 🌍💙 [Play](https://play.tailwindcss.com/) - Advanced online playground for Tailwind CSS.
 - 🌍 [Updrafts.app](https://updrafts.app/) - Advanced online no-code drag and drop editor for Tailwind CSS.
-- 🌍 [tailwind.run](https://tailwind.run) - Tailwind CSS fiddle with built-time features (online).
 - 🌍 [Flowrift](https://flowrift.com) - Beautifully designed Tailwind CSS UI blocks.
 - 🔼🌍🔧 [Tailwindhelper](https://www.tailwindhelper.com/) - Visualize Tailwind CSS classes and unit converter.
 - 🔼🌍 [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind classes' prefixer tool.
@@ -301,23 +300,24 @@
 - 🧩 [Litepie Date picker](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
 - 🧩 [Tailwind Datepicker](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
 - 🧩 [Tailwind Typeahead](https://github.com/basarozcan/vue-tailwindcss-typeahead) - Typeahead/Autocomplete component built with Vue.js and Tailwind CSS.
-- 🧩 [Material Tailwind](https://material-tailwind.com/) - Easy to use components library for Tailwind CSS and Material Design.
-- 🧩 [Layouts for Tailwind](https://layoutsfortailwind.lalokalabs.dev/) - Layouts and UI Patterns for Tailwind CSS.
-- 🧩 [HyperUI](https://hyperui.dev/) - Open source marketing and ecommerce Tailwind CSS components.
-- 🧩 [Snippets](https://snippets.alexandru.so/) - Open source collection of animation snippets made for Tailwind CSS.
-- 🧩 [Fancy Tailwind](https://fancytailwind.com/) - Large collection of Tailwind CSS UI components (700+).
-- 🧩 [Myna UI](https://mynaui.com/) - Open source UI Components and Marketing Elements made with Tailwind CSS.
+- 🧩 [Material Tailwind](https://material-tailwind.com) - Easy to use components library for Tailwind CSS and Material Design.
+- 🧩 [Layouts for Tailwind](https://layoutsfortailwind.lalokalabs.dev) - Layouts and UI Patterns for Tailwind CSS.
+- 🧩 [HyperUI](https://hyperui.dev) - Open source marketing and ecommerce Tailwind CSS components.
+- 🧩 [Snippets](https://snippets.alexandru.so) - Open source collection of animation snippets made for Tailwind CSS.
+- 🧩 [Fancy Tailwind](https://fancytailwind.com) - Large collection of Tailwind CSS UI components (700+).
+- 🧩 [Myna UI](https://mynaui.com) - Open source UI Components and Marketing Elements made with Tailwind CSS.
 - 🧩 [Sira UI](https://sira.riccox.com) - Customizable and accessible design system which provides TailwindCSS component class name library to build modern UI.
-- 🧩 [RippleUI](https://www.ripple-ui.com/) - Clean, modern and beautiful Tailwind CSS components.
+- 🧩 [RippleUI](https://www.ripple-ui.com) - Clean, modern and beautiful Tailwind CSS components.
+- 🧩 [Wind UI](https://wind-ui.com) - Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app.
+- 🧩 [Pines UI](https://devdojo.com/pines) - Alpine and Tailwind CSS UI library.
 - 🧩 [NativeWind](https://www.nativewind.dev) - NativeWind uses Tailwind CSS as scripting language to create a universal style system for React Native.
 - 📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 - 📁 [Red Pixel Themes](https://redpixelthemes.com/) - Paid, developer-friendly templates made with Tailwind CSS.
 - 📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
 - 📁 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard template.
 - 📁 [Tailwind Admin](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
-- 📁 [Landing Gradients](https://landing-gradients.netlify.app/) - Landing page template using gradients (1.7+).
+- 📁 [Landing Gradients](https://landing-gradients.netlify.app) - Landing page template using gradients (1.7+).
 - 📁 [Resume](https://github.com/mohusman360/mohusman360.github.io) - Simple resume with Tailwind CSS.
-- 📁 [Resume](https://github.com/Thomashighbaugh/resume) - A stylized resume template built with Tailwind CSS, featuring a nifty hero-pattern background and custom font.
 - 📁 [Simple Light](https://github.com/cruip/tailwind-landing-page-template) - Free landing page template built with React & Tailwind CSS.
 - 📁 [V-Dashboard](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
 - 📁 [Petra](https://github.com/Smuice-com/Free-Nuxtjs-Tailwindcss-landing-page-template) - Free landing page template built with Nuxt.js & Tailwind CSS.
@@ -381,11 +381,11 @@
 - 🚀 [AstroWind](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
 - 🚀 [Angular-Tailwind](https://github.com/luciano-work/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
 - 🚀 [Vue-Resume](https://github.com/luciano-work/vue-resume) - Developer resume template with Tailwind CSS and Vue.
+- 🚀 [Tailwind sites](https://tailwindsites.com) - Free Tailwind CSS site templates for your next project.
 
 ## Open-Source Projects
 
 - [Goodwork](https://github.com/iluminar/goodwork) - Project Management & Collaboration tool.
-- [Statusfy](https://github.com/bazzite/statusfy) - Status page system using Tailwind CSS.
 - [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs) - To-do list application using Tailwind CSS.
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) - Statistics website for League of Legends players.
 - [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) - E-commerce storefront using Svelte & Tailwind CSS.
