@@ -26,12 +26,13 @@
 
 ## Contents
 
+- [Contents](#contents)
 - [Useful Links](#useful-links)
 - [IDE Extensions](#ide-extensions)
 - [Plugins](#plugins)
 - [Tools](#tools)
-- [UI Libraries, Components & Templates](#ui-libraries-components--templates)
-- [Starters & Themes](#starters--themes)
+- [UI Libraries, Components \& Templates](#ui-libraries-components--templates)
+- [Starters \& Themes](#starters--themes)
 - [Open-Source Projects](#open-source-projects)
 - [Learning](#learning)
 
@@ -288,6 +289,7 @@
 - 🧩📁 [Treact](https://treact.owaiskhan.me) - React UI templates and components built using Tailwind CSS.
 - 🧩📁 [Jakarta LTE](https://github.com/zeroblack-c/jakarta-lte) - Admin template using Tailwind CSS.
 - 🧩📁 [themes.dev](https://www.themes.dev/) - Handcrafted, free and premium Tailwind CSS themes and components.
+- 🧩📁 [Float UI](https://floatui.com/) -UI components for React and Vue (soon) with Tailwind, every example support both directions LTR and RTL.
 - 🧩 [Kutty](https://kutty.netlify.app) - Accessible and reusable components that are commonly used in web applications.
 - 🧩 [Sail UI](https://sailui.github.io/) - Collection of basic UI components built on Tailwind CSS.
 - 🧩 [jQuery Toggler](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - Switches using jQuery and Tailwind CSS.
