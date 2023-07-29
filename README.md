@@ -311,6 +311,7 @@
 - 🧩 [Wind UI](https://wind-ui.com) - Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app.
 - 🧩 [Pines UI](https://devdojo.com/pines) - Alpine and Tailwind CSS UI library.
 - 🧩 [NativeWind](https://www.nativewind.dev) - NativeWind uses Tailwind CSS as scripting language to create a universal style system for React Native.
+- 🧩 [Windstatic](https://windstatic.com) - Set of 161 elements & layouts made with Tailwind CSS and Alpine.js.
 - 📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 - 📁 [Red Pixel Themes](https://redpixelthemes.com/) - Paid, developer-friendly templates made with Tailwind CSS.
 - 📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
