@@ -131,10 +131,11 @@
 - 🧩 [Perspective](https://github.com/Kamona-WD/tailwindcss-perspective) - Adds `perspective` utilities.
 
 
+
 <details>
   
   <summary>🛑  *The plugins below offer functionalities that are now fully or partially implemented in Tailwind CSS.*</summary>
-  
+
 - 🛑💼 [benface's gradients](https://github.com/benface/tailwindcss-gradients) - Adds gradient utilities.
 - 🛑💼 [lorisleiva's gradients](https://github.com/lorisleiva/tailwindcss-plugins/tree/master/gradients) - Adds background gradient utilities.
 - 🛑💼 [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden) - Adds screen reader utilities.
