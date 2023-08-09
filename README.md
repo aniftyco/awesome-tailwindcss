@@ -1,18 +1,18 @@
 <!--lint disable awesome-heading awesome-github double-link no-dead-urls-->
 
 <p align="center">
-  <br />
+  <br>
   <img width="100" src="./assets/logo.svg" alt="Tailwind CSS logo">
-  <br />
-  <br />
+  <br>
+  <br>
 </p>
 
 <h2 align="center">Awesome Tailwind CSS</h2>
 
 <p align="center">
   <a href="https://tailwindcss.com">Tailwind CSS</a> is a utility-first CSS framework for rapidly building custom user interfaces.
-  <br />
-  <br />
+  <br>
+  <br>
   <a href="https://github.com/sindresorhus/awesome">
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome badge">
   </a>
@@ -20,8 +20,8 @@
   <a href="https://github.com/sindresorhus/awesome-lint">
     <img src="https://github.com/aniftyco/awesome-tailwindcss/workflows/Lint/badge.svg" alt="Lint status badge">
   </a>
-  <br />
-  <br />
+  <br>
+  <br>
 </p>
 
 ## Contents
@@ -46,7 +46,6 @@
 - 💙 [Headless UI](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
 - 💙 [Heroicons](https://heroicons.com/) - Beautiful, hand-crafted SVG icons.
 - 💙 [Play](https://play.tailwindcss.com/) - Advanced online playground for Tailwind CSS.
-- 💙 [Just-in-time](https://github.com/tailwindlabs/tailwindcss-jit) - Just-in-time compiler for Tailwind CSS.
 - [Tailwind Weekly](https://tailwindweekly.com/) - Weekly newsletter about all things Tailwind CSS.
 - [Built With Tailwind](https://builtwithtailwind.com/) - Community-driven collection of awesome websites built with Tailwind CSS.
 
@@ -130,7 +129,11 @@
 - 🧩 [CSS Variables](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables (Dark Mode supported).
 - 🧩 [Perspective](https://github.com/Kamona-WD/tailwindcss-perspective) - Adds `perspective` utilities.
 
-> 🛑 - _The plugins below offer functionalities that are now fully or partially implemented in Tailwind CSS._
+
+
+<details>
+  
+  <summary>🛑  *The plugins below offer functionalities that are now fully or partially implemented in Tailwind CSS.*</summary>
 
 - 🛑💼 [benface's gradients](https://github.com/benface/tailwindcss-gradients) - Adds gradient utilities.
 - 🛑💼 [lorisleiva's gradients](https://github.com/lorisleiva/tailwindcss-plugins/tree/master/gradients) - Adds background gradient utilities.
@@ -171,6 +174,7 @@
 - 🛑🧩 [Spinner](https://github.com/aniftyco/tailwindcss-spinner) - Adds a spinner component.
 - 🛑🧩 [Spaced Items](https://github.com/n1kk/tailwindcss-spaced-items) - Adds `spaced` components that add fixed margins to all container items.
 - 🛑🧩💙 [Custom Forms](https://github.com/tailwindlabs/tailwindcss-custom-forms) - Adds better default styles to form elements.
+</details>
 
 ## Tools
 
@@ -411,7 +415,6 @@
 - 🔧 [Tailwind CSS with GatsbyJS](https://dev.to/jakedohm_34/using-tailwind-with-gatsby-js-10fj) - How to use Tailwind CSS with Gatsby.
 - 🔧 [Tailwind CSS with Phoenix 1.4](https://equimper.com/blog/how-to-setup-tailwindcss-in-phoenix-1.4) - How to setup Tailwind CSS in Phoenix 1.4.
 - 🔧 [Extend Tailwind CSS](https://web-crunch.com/how-to-extend-tailwind-css) - How to Extend Tailwind CSS.
-- 🔧 [Web2Tailwind](https://web2tailwind.com) - How to build web components with Tailwind CSS with AlpineJS.
 - 🎬 [Rebuilding Laravel.io](https://www.youtube.com/watch?v=ZrRRMBaz5Z0) - Rebuilding Laravel.io with Tailwind CSS.
 - 🎬 [Rebuilding Coinbase](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - Rebuilding Coinbase with Tailwind CSS [see the [Codepen](https://codepen.io/adamwathan/pen/RxWrZr)].
 - 🎬 [Rebuilding Twitter](https://www.youtube.com/watch?v=Pg_5Ni1_bg4) - Rebuilding Twitter with Tailwind CSS [see the [CodePen](https://codepen.io/drehimself/full/vpeVMx)].
