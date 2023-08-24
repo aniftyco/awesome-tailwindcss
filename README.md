@@ -47,8 +47,7 @@
 - 💙 [Heroicons](https://heroicons.com/) - Beautiful, hand-crafted SVG icons.
 - 💙 [Play](https://play.tailwindcss.com/) - Advanced online playground for Tailwind CSS.
 - [Tailwind Weekly](https://tailwindweekly.com/) - Weekly newsletter about all things Tailwind CSS.
-- [Built With Tailwind](https://builtwithtailwind.com/) - Community-driven collection of awesome websites built with Tailwind CSS.
-
+  
 ## IDE Extensions
 
 **Legend**: 💙 Official resource
