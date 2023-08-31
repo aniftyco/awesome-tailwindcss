@@ -331,6 +331,9 @@
 - 📁 [Flowbite Admin Dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
 - 📁 [Astro Template Resume](https://github.com/fortezhuo/fortezhuo.my.id) - Eye-catching resume template built with Astro, Tailwind CSS.
 - 📁 [Astro Template Cactus](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
+- 📁 [Horizon UI Tailwind](https://github.com/horizon-ui/horizon-tailwind-react) - The trendiest & innovative open-source Admin Dashboard Template for Tailwind CSS & React.
+
+
 
 ## Starters & Themes
 
@@ -383,6 +386,7 @@
 - 🚀 [Angular-Tailwind](https://github.com/luciano-work/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
 - 🚀 [Vue-Resume](https://github.com/luciano-work/vue-resume) - Developer resume template with Tailwind CSS and Vue.
 - 🚀 [Tailwind sites](https://tailwindsites.com) - Free Tailwind CSS site templates for your next project.
+- 🚀 [Horizon UI Tailwind](https://github.com/horizon-ui/horizon-tailwind-react) - The trendiest & innovative open-source Admin Dashboard Template for Tailwind CSS & React.
 
 ## Open-Source Projects
 
