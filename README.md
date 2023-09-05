@@ -344,6 +344,7 @@
 - 📟 [Create React App with TypeScript](https://github.com/dance2die/cra-template-tailwindcss-typescript) - CRA template with support for Tailwind CSS and TypeScript.
 - 📟 [Next.js PWA](https://github.com/msaaddev/create-next-pwa) – CLI that generate boilerplate code of Next.js PWA along with Tailwind CSS integration.
 - 📟 [new-tailwind-app](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
+- 📟 [create-t3-app](https://create.t3.gg) - Create a modular app using T3 Stack with Next.js, TypeScript, and Tailwind CSS.
 - 🚀 [Tailwind CSS Boilerplate](https://github.com/michelegera/create-tailwindcss-boilerplate) - Tailwind CSS boilerplate using Parcel.
 - 🚀 [Jekyll Starter](https://github.com/taylorbryant/tailwind-jekyll) - Jekyll starter using Tailwind CSS.
 - 🚀 [Jekyll Starter](https://github.com/mhanberg/jekyll-tailwind-starter) - Jekyll starter using Tailwind CSS.
