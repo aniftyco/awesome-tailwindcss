@@ -444,7 +444,7 @@
 - 🎥 [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)
 - 🎥 [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
 - 🎥 [Rebuilding Meetup](https://youtu.be/ULe6yKJrFuI)
-- 🎥 [Building CRM from scratch](https://www.youtube.com/watch?v=l4QjeBEkNLc)
+- 🎥 [Rebuilding Zoho CRM](https://www.youtube.com/watch?v=l4QjeBEkNLc)
 
 <p align="center">
   <br />
