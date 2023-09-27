@@ -312,6 +312,7 @@
 - 🧩 [Windstatic](https://windstatic.com) - Set of 161 elements & layouts made with Tailwind CSS and Alpine.js.
 - 🧩 [TailwindFlex](https://tailwindflex.com) - Free library of Tailwind CSS examples.
 - 🧩 [Shadcn UI](https://ui.shadcn.com) - Re-usable components built using Radix UI and Tailwind CSS.
+- 🧩 [Neobrutalism components](https://neobrutalism-components.vercel.app) - Collection of type-safe React components made with Tailwind CSS.
 - 📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 - 📁 [Red Pixel Themes](https://redpixelthemes.com/) - Paid, developer-friendly templates made with Tailwind CSS.
 - 📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
