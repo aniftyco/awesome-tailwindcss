@@ -448,10 +448,7 @@
 - 🎥 [Rebuilding Meetup](https://youtu.be/ULe6yKJrFuI)
 
 <p align="center">
-  <br />
-  <br />
-  ·
-  <br />
-  <br />
+  <br>
+  <br>
   <sub>Contributions welcome! Read the <a href=".github/CONTRIBUTING.md">contribution guidelines</a> first.</sub>
 </p>
