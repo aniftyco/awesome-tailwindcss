@@ -8,3 +8,4 @@ jobs:
         with:
           fetch-depth: 0
       - run: npx awesome-lint
+      - run: npx case-police "./README.md"
