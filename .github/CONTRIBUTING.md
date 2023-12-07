@@ -71,10 +71,6 @@ This category must contain UI libraries made for Tailwind CSS, as well as standa
 
 This category contains boilerplates projects, starters projects and tools made for using Tailwind CSS as well as tool themes made for Tailwind CSS.
 
-## Open-Source Projects
-
-Open-source projects that use Tailwind CSS can be featured in this category if you feel that it is awesome enough. Please don't add newly-created projects, and wait for them to get sort of popular before sending your pull request.
-
 ## Learning
 
 Anything that is a material that can be used to better understand Tailwind CSS can be added here. Awesome blog posts, code samples, tutorials on any platform are welcome.

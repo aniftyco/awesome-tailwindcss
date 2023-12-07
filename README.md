@@ -32,7 +32,6 @@
 - [Tools](#tools)
 - [UI Libraries, Components & Templates](#ui-libraries-components--templates)
 - [Starters & Themes](#starters--themes)
-- [Open-Source Projects](#open-source-projects)
 - [Learning](#learning)
 
 ## Useful Links
@@ -385,17 +384,6 @@
 - 🚀 [AstroWind](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
 - 🚀 [Angular-Tailwind](https://github.com/luciano-work/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
 - 🚀 [Vue-Resume](https://github.com/luciano-work/vue-resume) - Developer resume template with Tailwind CSS and Vue.
-
-## Open-Source Projects
-
-- [Goodwork](https://github.com/iluminar/goodwork) - Project Management & Collaboration tool.
-- [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs) - To-do list application using Tailwind CSS.
-- [LeagueStats](https://github.com/vkaelin/LeagueStats) - Statistics website for League of Legends players.
-- [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) - E-commerce storefront using Svelte & Tailwind CSS.
-- [Misiki Books](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
-- [Ubuntu 20.04](https://github.com/vivek9patel/vivek9patel.github.io) - An Ubuntu desktop using React.js + Tailwind CSS.
-- [Angular Spotify](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular, Nx Workspace and Tailwind CSS.
-- [GitProfile](https://github.com/arifszn/gitprofile) - Automatic portfolio builder based on GitHub profiles, built with React.js and Tailwind CSS.
 
 ## Learning
 
