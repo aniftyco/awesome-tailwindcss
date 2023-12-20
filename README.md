@@ -151,6 +151,7 @@
 - 🌍🔧 [Tailwind Grid Generator](https://www.tailwindgen.com/) - Drag and drop Tailwind CSS grid generator.
 - 🌍🔧 [Tailwind Box Shadows Generator](https://manuarora.in/boxshadows) - Box Shadows generator.
 - 💰🌍🔧 [Windframe](https://www.devwares.com/windframe/) - Tailwind CSS drag and drop builder to rapidly build and prototype websites.
+- 💰🌍🔧 [Uiwidgets](https://www.uiwidgets.store/) - Collection of Tailwind CSS Components with nextjs starter kit.
 
 ## UI Libraries, Components & Templates
 
