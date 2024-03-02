@@ -153,6 +153,7 @@
 - 🌍🔧 [Tailwind Box Shadows Generator](https://manuarora.in/boxshadows) - Box Shadows generator.
 - 💰🌍🔧 [Windframe](https://www.devwares.com/windframe/) - Tailwind CSS drag and drop builder to rapidly build and prototype websites.
 - 🌍 [Static Tailwind](https://statictailwind.com) - The most used Tailwind classes, precompiled, with no build step.
+- 🔼🌍🔧 [Fluid Type Scale](https://www.fluid-type-scale.com) - Generate fluid font size variables with CSS clamp.
 
 ## UI Libraries, Components & Templates
 
