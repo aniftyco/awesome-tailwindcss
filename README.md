@@ -153,6 +153,7 @@
 - 🌍🔧 [Tailwind Box Shadows Generator](https://manuarora.in/boxshadows) - Box Shadows generator.
 - 💰🌍🔧 [Windframe](https://www.devwares.com/windframe/) - Tailwind CSS drag and drop builder to rapidly build and prototype websites.
 - 🌍 [Static Tailwind](https://statictailwind.com) - The most used Tailwind classes, precompiled, with no build step.
+- 💼 [Snap by Rapidpages](https://www.rapidpages.com/snap) - Snap turns live website designs into HTML & Tailwind CSS instantly.
 
 ## UI Libraries, Components & Templates
 
