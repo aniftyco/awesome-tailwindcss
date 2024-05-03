@@ -120,6 +120,9 @@
 - 🎨🌍🔧 [Palettolithic](https://palettolithic.com) - Generates harmonius color palettes based on one color.
 - 🎨🌍🔧 [Tailwind Gradient Generator](https://tailwindcomponents.com/gradient-generator) - Create perfect Tailwind CSS gradients with zero lines of code.
 - 🎨🌍🔧 [Tints](https://www.tints.dev/) - Color palette penerator and API for Tailwind CSS.
+- 🎨🌍🔧 [Tailwind CSS Colors](http://tailwindcsscolors.com) - Cheat sheet for Tailwind Colors with easy copying in various formats.
+- 🎨🌍🔧 [Tailwind Gradients](http://tailwindgradients.com) - Collection of Tailwind gradients, easy to browse and one-click copy.
+- 🎨🌍🔧 [Fullwind CSS](https://fullwindcss.com/) - Additional shades for the Tailwind CSS Color palette.
 - 🌍🔧💼 [Twind](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
 - 🌍🔧 [tail-animista](https://tail-animista.vercel.app) - Configurable custom animation utilities generator for Tailwind CSS.
 - 🌍🔧 [brands-tail-color](https://brands-tail-color.vercel.app/) - Configuration generator using various brands' colors.
