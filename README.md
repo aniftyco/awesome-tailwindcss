@@ -159,6 +159,7 @@
 - 🌍🔧 [Tailwind Box Shadows Generator](https://manuarora.in/boxshadows) - Box Shadows generator.
 - 💰🌍🔧 [Windframe](https://www.devwares.com/windframe/) - Tailwind CSS drag and drop builder to rapidly build and prototype websites.
 - 🌍 [Static Tailwind](https://statictailwind.com) - The most used Tailwind classes, precompiled, with no build step.
+- 🎨🔧 [Design GUI](https://designgui.io) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
 
 ## UI Libraries, Components & Templates
 
