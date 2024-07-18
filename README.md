@@ -306,8 +306,8 @@
 - 🔧 [Tailwind CSS with Phoenix 1.4](https://equimper.com/blog/how-to-setup-tailwindcss-in-phoenix-1.4) - How to setup Tailwind CSS in Phoenix 1.4.
 - 🔧 [Extend Tailwind CSS](https://web-crunch.com/how-to-extend-tailwind-css) - How to Extend Tailwind CSS.
 - 🎬 [Rebuilding Laravel.io](https://www.youtube.com/watch?v=ZrRRMBaz5Z0) - Rebuilding Laravel.io with Tailwind CSS.
-- 🎬 [Rebuilding Coinbase](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - Rebuilding Coinbase with Tailwind CSS [see the [CodePen](https://codepen.io/adamwathan/pen/RxWrZr)].
-- 🎬 [Rebuilding Twitter](https://www.youtube.com/watch?v=Pg_5Ni1_bg4) - Rebuilding Twitter with Tailwind CSS [see the [CodePen](https://codepen.io/drehimself/full/vpeVMx)].
+- 🎬 [Rebuilding Coinbase](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - Rebuilding Coinbase with Tailwind CSS (see the [CodePen](https://codepen.io/adamwathan/pen/RxWrZr)).
+- 🎬 [Rebuilding Twitter](https://www.youtube.com/watch?v=Pg_5Ni1_bg4) - Rebuilding Twitter with Tailwind CSS (see the [CodePen](https://codepen.io/drehimself/full/vpeVMx)).
 - 🎬 [Rebuilding YouTube](https://www.youtube.com/watch?v=qxQKnqmNKv0) - Rebuilding YouTube with Tailwind CSS.
 - 🎬 [Rebuilding Netlify](https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s) - Rebuilding Netlify with Tailwind CSS.
 - 🎬 [Rebuilding Resolute](https://www.youtube.com/watch?v=banq3TfAPYk) - Rebuilding Resolute with Tailwind CSS.
