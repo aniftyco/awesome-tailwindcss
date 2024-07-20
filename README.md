@@ -70,6 +70,7 @@
 - 🎨🧩 [CSS Variables](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables.
 - 🎨💼 [Accent](https://github.com/enjidev/tailwindcss-accent) - Adds `accent` colors for more dynamic and flexible color utilization.
 - 💼🧬 [Radix](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
+- 💼 [Animations](https://github.com/jamiebuilds/tailwindcss-animate) - Adds `animate` utilities for creating animations.
 - 💼 [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) - Adds `image-rendering` utilities.
 - 💼 [Elevation](https://github.com/jonaskay/tailwindcss-elevation) - Adds [Material UI `elevation`](https://material.io/design/environment/elevation.html) utilities.
 - 💼 [RFS](https://github.com/aerni/tailwindcss-rfs) - Adds [`RFS`](https://github.com/twbs/rfs) utilities.
