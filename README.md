@@ -217,6 +217,7 @@
 - 🧩 [TailwindFlex](https://tailwindflex.com) - Free library of Tailwind CSS examples.
 - 🧩 [Shadcn UI](https://ui.shadcn.com) - Re-usable components built using Radix UI and Tailwind CSS.
 - 🧩 [Indie UI](https://ui.indie-starter.dev) - Rich styled UI components.
+- 🧩 [TailGrids](https://tailgrids.com/) - 600+ Tailwind CSS UI Components, Blocks, and Templates for HTML, React, and Vue.
 - 📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 - 📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
 - 📁 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard template.
