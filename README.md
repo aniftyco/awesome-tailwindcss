@@ -46,7 +46,7 @@
 - 💙 [Play](https://play.tailwindcss.com/) - Advanced online playground for Tailwind CSS.
 - 💙 [Discord](https://tailwindcss.com/discord) - Official Discord server to connect with other community members about Tailwind CSS.
 - [Tailwind Weekly](https://tailwindweekly.com/) - Weekly newsletter about all things Tailwind CSS.
-  
+
 ## IDE Extensions
 
 **Legend**: 💙 Official resource
@@ -55,6 +55,7 @@
 - [LSP support for Emacs](https://github.com/merrickluo/lsp-tailwindcss) - LSP support for Emacs.
 - [Tailwind CSS Highlight](https://marketplace.visualstudio.com/items?itemName=ellreka.tailwindcss-highlight) - Highlights utility classes in Visual Studio Code.
 - [CSS to TailwindCSS converter for Code](https://github.com/Jackardios/vscode-css-to-tailwindcss) - Converts CSS to Tailwind CSS in Visual Studio Code.
+- [Editor support for VS2022](https://github.com/theron-wang/VS2022-Editor-Support-for-Tailwind-CSS) - IntelliSense, linting, sorting, and more in Visual Studio 2022.
 
 ## Plugins
 
@@ -95,7 +96,7 @@
 
 
 <details>
-  
+
   <summary>🛑  *Below are official plugins which functionalities are either deprecated or (partially) implemented in core.*</summary>
 
 - 🛑💼💙 [Line Clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - Provides utilities for visually truncating text after a fixed number of lines.
@@ -184,7 +185,7 @@
 - 📚 [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind CSS.
 - 📚 [TWC](https://react-twc.vercel.app) - Lightweight library to create reusable React + Tailwind CSS components in one line.
 - 📚 [Tremor](https://tremor.so) - React library to build charts and dashboards with Tailwind CSS.
-- 📚 [Preline UI](https://preline.co) - Open-source Tailwind CSS components library for any needs. 
+- 📚 [Preline UI](https://preline.co) - Open-source Tailwind CSS components library for any needs.
 - 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
 - 🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 - 🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
