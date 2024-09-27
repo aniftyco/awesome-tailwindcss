@@ -92,6 +92,7 @@
 - 🧬 [Htmx](https://github.com/aniftyco/tailwind-htmx) - Adds variants for styling on [htmx](https://htmx.org/reference/#classes) events.
 - 🧩 [Debug screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Adds a component that shows the currently active screen (responsive breakpoint).
 - 💼 [Dot & Grid Backgrounds](https://github.com/TheNaubit/tailwind-dot-grid-backgrounds) - Adds `bg-grid` and `bg-dot` classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.
+- 🧬 [Quantity Queries](https://github.com/skttl/tailwindcss-quantity-queries) - Adds variants for using quantity queries.
 
 
 
