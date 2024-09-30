@@ -79,6 +79,7 @@
 - 💼 [Background Unsplash](https://github.com/shorwood/tailwindcss-unsplash) - Apply [unsplash.com](https://unsplash.com) images as background.
 - 💼 [Brand Colors](https://github.com/praveenjuge/tailwindcss-brand-colors) - Adds various brand colors for background, border and text.
 - 💼 [Bootstrap Grid](https://github.com/karolis-sh/tailwind-bootstrap-grid) - Generates Bootstrap's style flexbox grid system.
+- 💼 [Dot & Grid Backgrounds](https://github.com/TheNaubit/tailwind-dot-grid-backgrounds) - Adds `bg-grid` and `bg-dot` classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.
 - 💼 [Leading Trim](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize](https://github.com/seek-oss/capsize).
 - 💼 [Scrollbar Hide](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
 - 💼 [Fluid Type](https://github.com/davidhellmann/tailwindcss-fluid-type) - Adds fluid type (`font-size`) utilities.
@@ -90,9 +91,8 @@
 - 💼🧬🧩 [Fluid](https://github.com/barvian/fluid-tailwind) - Adds fluid `clamp()` versions of every built-in utility.
 - 🧬 [FormKit](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - Adds variants for input and form states for FormKit.
 - 🧬 [Htmx](https://github.com/aniftyco/tailwind-htmx) - Adds variants for styling on [htmx](https://htmx.org/reference/#classes) events.
-- 🧩 [Debug screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Adds a component that shows the currently active screen (responsive breakpoint).
-- 💼 [Dot & Grid Backgrounds](https://github.com/TheNaubit/tailwind-dot-grid-backgrounds) - Adds `bg-grid` and `bg-dot` classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.
 - 🧬 [Quantity Queries](https://github.com/skttl/tailwindcss-quantity-queries) - Adds variants for using quantity queries.
+- 🧩 [Debug screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Adds a component that shows the currently active screen (responsive breakpoint).
 
 
 
