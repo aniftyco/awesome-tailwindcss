@@ -11,4 +11,4 @@ _Resource description here_
 - [ ] My item's name and description respects the conventions of the list
 - [ ] My item is awesome
 - [ ] My item is in line with the [Tailwind brand usage guidelines](https://tailwindcss.com/brand#usage)
-- [ ] I have read and followed the [contribution guidelines](https://github.com/aniftyco/awesome-tailwindcss/blob/master/.github/CONTRIBUTING.md)
+- [ ] I have read and followed the [contribution guidelines](https://github.com/aniftyco/awesome-tailwindcss/blob/master/CONTRIBUTING.md)
