@@ -262,6 +262,7 @@
 - 🚀 [Jekyll Starter](https://github.com/taylorbryant/tailwind-jekyll) - Jekyll starter using Tailwind CSS.
 - 🚀 [Jekyll Starter](https://github.com/mhanberg/jekyll-tailwind-starter) - Jekyll starter using Tailwind CSS.
 - 🚀 [Jekyll Starter](https://github.com/shenlu89/jekyll-tailwindcss-starter) - Jekyll starter using Tailwind CSS
+- 🚀 [JetShip Laravel Saas Boilerplate](https://demos.themeselection.com/jetship-laravel-boilerplate/) - Launch Your SaaS in Days with the Power of JetShip.
 - 🚀 [Gulp Starter](https://github.com/simonswiss/tailwind-starter) - Gulp starter using Tailwind CSS.
 - 🚀 [Gatsby Starter](https://github.com/taylorbryant/gatsby-starter-tailwind) - Gatsby starter using Tailwind CSS.
 - 🚀 [Gatsby Starter Simplicity](https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme) - Gatsby starter using Tailwind CSS.
