@@ -119,9 +119,9 @@
 - 🎨🌍🔧 [Gradient Designer](https://gradient-designer.csspost.com/) - Generate gradients for Tailwind 2.0+.
 - 🎨🌍🔧 [Grayscale Design](https://grayscale.design/) - A Luminance-based color palette generator.
 - 🎨🌍🔧 [Hypercolor](https://hypercolor.dev/) - Collection of pre-configured Tailwind CSS gradients with directional options.
-- 🎨🌍🔧 [Palettolithic](https://palettolithic.com) - Generates harmonius color palettes based on one color.
+- 🎨🌍🔧 [palettolithic](https://palettolithic.com) - Generates harmonious color palettes based on one color.
 - 🎨🌍🔧 [Tailwind Gradient Generator](https://tailwindcomponents.com/gradient-generator) - Create perfect Tailwind CSS gradients with zero lines of code.
-- 🎨🌍🔧 [Tints](https://www.tints.dev/) - Color palette penerator and API for Tailwind CSS.
+- 🎨🌍🔧 [Tints](https://www.tints.dev/) - Color palette generator and API for Tailwind CSS.
 - 🎨🌍🔧 [Tailwind CSS Colors](http://tailwindcsscolors.com) - Cheat sheet for Tailwind CSS colors.
 - 🎨🌍🔧 [Tailwind Gradients](http://tailwindgradients.com) - Collection of gradients using Tailwind CSS classes.
 - 🎨🌍🔧 [Fullwind CSS](https://fullwindcss.com/) - Extend Tailwind CSS color palettes with additional shades.
@@ -290,7 +290,7 @@
 - 🚀 [Starter Dashboard Layout](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
 - 🚀 [Jekyll Landing Website Starter](https://github.com/abhinavs/cookie) - Production ready, SEO-friendly, performant landing website boilerplate using Jekyll and Tailwind CSS.
 - 🚀 [Next JS Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - Boilerplate for Next.js and Tailwind CSS.
-- 🚀 [Vitailse](https://github.com/zynth17/vitailse) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
+- 🚀 [Vitaise](https://github.com/zynth17/Vitaise) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
 - 🚀 [Vite-Boot](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
 - 🚀 [AstroWind](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
 - 🚀 [Angular-Tailwind](https://github.com/lannodev/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
