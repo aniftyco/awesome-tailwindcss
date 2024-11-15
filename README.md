@@ -290,7 +290,7 @@
 - 🚀 [Starter Dashboard Layout](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
 - 🚀 [Jekyll Landing Website Starter](https://github.com/abhinavs/cookie) - Production ready, SEO-friendly, performant landing website boilerplate using Jekyll and Tailwind CSS.
 - 🚀 [Next JS Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - Boilerplate for Next.js and Tailwind CSS.
-- 🚀 [Vitaise](https://github.com/zynth17/Vitaise) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
+- 🚀 [Vitailse](https://github.com/zynth17/vitailse) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
 - 🚀 [Vite-Boot](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
 - 🚀 [AstroWind](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
 - 🚀 [Angular-Tailwind](https://github.com/lannodev/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
