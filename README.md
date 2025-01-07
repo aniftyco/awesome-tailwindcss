@@ -171,6 +171,7 @@
 - 💙🧩 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
 - 💙📚 [Headless UI](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
 - 💙📁 [Catalyst](https://tailwindui.com/templates/catalyst) - Beautiful, accessible application UI kit for React.
+- 📚 [21st.dev](https://21st.dev/) - Open-source Shadcn/UI Tailwind CSS components library.
 - 📚 [VueTailwind](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS.
 - 📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Open-source component library built with Tailwind CSS.
 - 📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
