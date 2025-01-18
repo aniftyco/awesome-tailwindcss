@@ -94,8 +94,6 @@
 - 🧬 [Quantity Queries](https://github.com/skttl/tailwindcss-quantity-queries) - Adds variants for using quantity queries.
 - 🧩 [Debug screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Adds a component that shows the currently active screen (responsive breakpoint).
 
-
-
 <details>
 
   <summary>🛑  *Below are official plugins which functionalities are either deprecated or (partially) implemented in core.*</summary>
@@ -225,6 +223,7 @@
 - 🧩 [Penguin UI](https://www.penguinui.com) - Plug-n-play UI component library for Tailwind CSS & Alpine JS.
 - 🧩 [Motion Primitives](https://motion-primitives.com) - React motion components built with Tailwind CSS and Framer Motion.
 - 🧩 [Kokonut UI](https://kokonutui.com/) - Collection of modern, interactive customizable UI components.
+- 🧩 [Bun UI](https://www.uibun.dev/bunui) - Beautiful UI components built using tailwindcss.
 - 📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 - 📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
 - 📁 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard template.
