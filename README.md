@@ -157,6 +157,7 @@
 - 💼 [Raycast Extension](https://www.raycast.com/vimtor/tailwindcss) - Search classes, documentation and colors in Raycast Launcher.
 - 💼 [DivMagic](https://divmagic.com) - Copy any web element and style as Tailwind CSS component.
 - 💼 [Gimli Tailwind](https://chromewebstore.google.com/detail/gimli-tailwind/fojckembkmaoehhmkiomebhkcengcljl) - Smart tools for Tailwind CSS as a browser extension.
+- 💼 [Screen Size Overlay](https://github.com/iwebexpert/screen-size-overlay) - Displays a real-time screen size overlay using Tailwind CSS breakpoints in React/Next.js, highlighting screen dimensions and nearest breakpoints for easier debugging.
 - 🌍 [Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - Tailwind CSS class names in a searchable page.
 - 🌍🔧 [Tailwind Grid Generator](https://www.tailwindgen.com/) - Drag and drop Tailwind CSS grid generator.
 - 🌍🔧 [Tailwind Box Shadows Generator](https://manuarora.in/boxshadows) - Box Shadows generator.
