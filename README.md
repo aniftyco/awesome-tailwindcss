@@ -89,6 +89,7 @@
 - 💼 [Tailwind CSS 3D](https://github.com/sambauers/tailwindcss-3d) - Adds 3D `transform` utilities and animations.
 - 💼 [Claymorphism](https://github.com/dulltackle/tailwindcss-claymorphism) - Adds `clay` utilities for creating claymorphism style.
 - 💼🧬🧩 [Fluid](https://github.com/barvian/fluid-tailwind) - Adds fluid `clamp()` versions of every built-in utility.
+- 💼 [tailwindcss-px-to-viewport](https://github.com/the-lemonboy/tailwindcss-px-to-viewport) - Adds utilities to automatically convert px to vw / vh.
 - 🧬 [FormKit](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - Adds variants for input and form states for FormKit.
 - 🧬 [Htmx](https://github.com/aniftyco/tailwind-htmx) - Adds variants for styling on [htmx](https://htmx.org/reference/#classes) events.
 - 🧬 [Quantity Queries](https://github.com/skttl/tailwindcss-quantity-queries) - Adds variants for using quantity queries.
