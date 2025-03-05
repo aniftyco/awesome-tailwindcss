@@ -95,8 +95,6 @@
 - 🧬 [Quantity Queries](https://github.com/skttl/tailwindcss-quantity-queries) - Adds variants for using quantity queries.
 - 🧩 [Debug screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Adds a component that shows the currently active screen (responsive breakpoint).
 
-
-
 <details>
 
   <summary>🛑  *Below are official plugins which functionalities are either deprecated or (partially) implemented in core.*</summary>
@@ -247,6 +245,7 @@
 - 📁 [Astro Template Cactus](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 - 📁 [Astro Template Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 - 📁 [Astro Template Dante](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
+- 📁 [Datta Able Free Tailwind Admin Template](https://github.com/codedthemes/datta-able-free-tailwind-admin-template) - Datta Able, a sleek, modern Tailwind CSS template built to speed up development process.
 
 ## Starters & Themes
 
