@@ -95,6 +95,8 @@
 - 🧬 [Quantity Queries](https://github.com/skttl/tailwindcss-quantity-queries) - Adds variants for using quantity queries.
 - 🧩 [Debug screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Adds a component that shows the currently active screen (responsive breakpoint).
 
+
+
 <details>
 
   <summary>🛑  *Below are official plugins which functionalities are either deprecated or (partially) implemented in core.*</summary>
