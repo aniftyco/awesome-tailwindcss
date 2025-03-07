@@ -245,7 +245,7 @@
 - 📁 [Astro Template Cactus](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 - 📁 [Astro Template Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 - 📁 [Astro Template Dante](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
-- 📁 [Datta Able Free Tailwind Admin Template](https://github.com/codedthemes/datta-able-free-tailwind-admin-template) - Datta Able, a sleek, modern Tailwind CSS template built to speed up development process.
+- 📁 [Datta Able Admin](https://github.com/codedthemes/datta-able-free-tailwind-admin-template) - Datta Able, a sleek, modern and free Tailwind CSS template built to speed up development process.
 
 ## Starters & Themes
 
