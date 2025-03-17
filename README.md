@@ -164,6 +164,7 @@
 - 💰🌍🔧 [Windframe](https://www.devwares.com/windframe/) - Tailwind CSS drag and drop builder to rapidly build and prototype websites.
 - 🌍 [Static Tailwind](https://statictailwind.com) - The most used Tailwind classes, precompiled, with no build step.
 - 🎨🔧 [CSS Variables Editor](https://www.cssvariables.com) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
+- 🌍 [Tailwind CSS Cheat Sheet(v4 and v3)](https://kombai.com/tailwind/cheat-sheet/) - A comprehensive Tailwind CSS cheat sheet to instantly find all utility classes and their CSS properties in one place.
 
 ## UI Libraries, Components & Templates
 
