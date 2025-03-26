@@ -343,6 +343,7 @@
 - 🎥 [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)
 - 🎥 [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
 - 🎥 [Rebuilding Meetup](https://youtu.be/ULe6yKJrFuI)
+- 🎥 [Tailwind Trainer](https://codepip.com/games/tailwind-trainer/) - Free game for practicing Tailwind CSS.
 
 <p align="center">
   <br />
