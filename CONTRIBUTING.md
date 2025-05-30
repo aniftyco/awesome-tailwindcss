@@ -1,19 +1,18 @@
-# Contributing Guide
+# Contributing guide
 
-Please be sure to follow the [Tailwind CSS Community Guidelines](https://github.com/tailwindcss/tailwindcss/blob/master/.github/CODE_OF_CONDUCT.md). After your pull request, this list must still be [Awesome](https://github.com/sindresorhus/awesome)-elligible.
+After your pull request, this list must still be [Awesome](https://github.com/sindresorhus/awesome)-elligible.
 
-## General Guidelines
+## General guidelines
 
 1. The formats and categories described below must be respected.
-2. The added item must be **awesome**. If you have doubts about its awesomess, it probably isn't... sorry.
+2. The added item must be **awesome**. It means, really good and useful. If you have doubts about its awesomess, it probably isn't... sorry.
    - > Only has awesome items. Awesome lists are curations of the best, not everything. _— [Awesome Guidelines](https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md#requirements-for-your-awesome-list)_
 3. Unless specified otherwise below, an item must be added to the bottom of its emoji group.
-4. [`awesome-lint`](https://github.com/sindresorhus/awesome-lint) must be used before creating a pull request.
-5. Your project must not violate the [Tailwind brand usage guidelines](https://tailwindcss.com/brand#usage).
+4. Your project must not violate the [Tailwind brand usage guidelines](https://tailwindcss.com/brand#usage).
 
-## Formats, Naming Conventions and Descriptions
+## Formats, naming conventions and descriptions
 
-- Every item must have the following format: `[Item Name](link) - Description.`.
+- Every item must have the following format: `[Item name](link) - Description.`.
 - If a category has an emoji that applies to a new item, it must be used.
 - Every name and description must be in English.
 - Every mention to Tailwind CSS must use the exact name `Tailwind CSS`, except for plugin/library/product names.
@@ -35,45 +34,32 @@ Please be sure to follow the [Tailwind CSS Community Guidelines](https://github.
   - ✔ Extends `object-position` utilities.
   - ✖ A plugin that adds variants for dark mode.
   - ✖ Additional variants for touch based media queries.
-- Descriptions must describe the resource, not be a slogan. This rule applies to every resource sub-category except [Demos, Samples & Tutorials](README.md/#demos-samples--tutorials).
+- Descriptions must describe the resource, not be a slogan.
   - ✔ Visual Studio Code IntelliSense extension for Tailwind CSS.
   - ✔ React UI library using Tailwind CSS.
   - ✖ Brings Tailwind CSS into React.
-- [Learning](README.md/#learning) resources' descriptions must be a short but explicit description of the content. It _should_ start with a verb or by "How to" when applicable.
-  - ✔ Rebuilding Acquia’s hosting dashboard with Vue.js and Tailwind CSS.
-  - ✖ Acquia’s hosting dashboard rebuilt with Vue.js and Tailwind CSS.
-  - ✔ How to setup Tailwind CSS in Phoenix 1.4.
-  - ✖ Setting up Tailwind CSS in Phoenix 1.4
 
 # Categories
 
-## Useful Links
+## Useful links
 
 This category contains resources that are official _or_ widely known and used in the Tailwind CSS community. If you find something that we forgot to add here, or if you built something a while ago that has become quite popular in the community, feel free to add it. Otherwise, it most likely belongs in the other categories.
 
-## IDE Extensions
+## IDE extensions
 
 If you made an extension that makes the usage of Tailwind CSS easier, make sure it is properly distributable before adding it to the list. Please use the format `[<extension type/functionality> for <IDE name>](link) - <Extension functionality> for <Full IDE name>` when applicable.
 
 ## Plugins
 
-This category must only contain Tailwind CSS plugins that use the [official plugin architecture](https://tailwindcss.com/docs/plugins/) to extend the framework. New plugins must be added to the bottom of the corresponding category, represented by emojis.
+This category must only contain Tailwind CSS plugins that use the [official plugin architecture](https://tailwindcss.com/docs/adding-custom-styles) to extend the framework. New plugins must be added to the bottom of the corresponding category, represented by emojis.
 
 ## Tools
 
 Tools can be anything that help with setting up or working with Tailwind CSS, or stuff that extend other services to bring Tailwind CSS in them.
 
-## UI Libraries, Components & Templates
+## UI libraries, components & templates
 
-This category must contain UI libraries made for Tailwind CSS, as well as standalone components that are optimized for distribution. Non-tool-agnostic templates should be added to the **Starters & Themes** category.
-
-## Starters & Themes
-
-This category contains boilerplates projects, starters projects and tools made for using Tailwind CSS as well as tool themes made for Tailwind CSS.
-
-## Learning
-
-Anything that is a material that can be used to better understand Tailwind CSS can be added here. Awesome blog posts, code samples, tutorials on any platform are welcome.
+This category must contain UI libraries made for Tailwind CSS, standalone components that are optimized for distribution, and full, standalone templates.
 
 # Pull request and commits
 
