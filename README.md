@@ -28,9 +28,9 @@
 
 - [Useful links](#useful-links)
 - [IDE extensions](#ide-extensions)
-- [Plugins](#plugins)
 - [Tools](#tools)
 - [UI libraries, components & templates](#ui-libraries-components--templates)
+- [Plugins](#plugins)
 
 ## Useful links
 
@@ -52,21 +52,6 @@
 - 💙 [Intellisense for Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Provides IntelliSense in Visual Studio Code.
 - [LSP support for Emacs](https://github.com/merrickluo/lsp-tailwindcss) - LSP support for Emacs.
 - [Editor support for VS2022](https://github.com/theron-wang/VS2022-Editor-Support-for-Tailwind-CSS) - IntelliSense, linting, sorting, and more in Visual Studio 2022.
-
-## Plugins
-
-**Legend**: 💙 Official plugin · 🎨 Theming · 💼 Utilities · 🧩 Components · 🛑 Deprecated
-
-- 💙🧩 [Typography](https://github.com/tailwindlabs/tailwindcss-typography) - Adds a `prose` class for beautiful typographic defaults.
-- 💙 [Forms](https://github.com/tailwindlabs/tailwindcss-forms) - Adds better default styles to form elements.
-- 🎨 [Themer](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
-- 💼 [Bootstrap grid](https://github.com/karolis-sh/tailwind-bootstrap-grid) - Generates Bootstrap's style flexbox grid system.
-- 💼 [Dot & grid backgrounds](https://github.com/TheNaubit/tailwind-dot-grid-backgrounds) - Adds `bg-grid` and `bg-dot` classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.
-- 💼 [Leading Trim](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize](https://github.com/seek-oss/capsize).
-- 💼 [Scrollbar Hide](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
-- 💼 [px to viewport](https://github.com/the-lemonboy/tailwindcss-px-to-viewport) - Adds utilities to automatically convert px to vw / vh.
-- 💼🧩 [Fluid](https://github.com/barvian/fluid-tailwind) - Adds fluid `clamp()` versions of every built-in utility.
-- 🧩 [Debug screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Adds a component that shows the currently active screen (responsive breakpoint).
 
 ## Tools
 
@@ -124,6 +109,21 @@
 - 📁 [Astro Template Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 - 📁 [Astro Template Dante](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
 - 📁 [Statichunt](https://statichunt.com/tailwind-templates) - Open source directory of hand-picked free and premium Tailwind templates & starters.
+
+## Plugins
+
+**Legend**: 💙 Official plugin · 🎨 Theming · 💼 Utilities · 🧩 Components · 🛑 Deprecated
+
+- 💙🧩 [Typography](https://github.com/tailwindlabs/tailwindcss-typography) - Adds a `prose` class for beautiful typographic defaults.
+- 💙 [Forms](https://github.com/tailwindlabs/tailwindcss-forms) - Adds better default styles to form elements.
+- 🎨 [Themer](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
+- 💼 [Bootstrap grid](https://github.com/karolis-sh/tailwind-bootstrap-grid) - Generates Bootstrap's style flexbox grid system.
+- 💼 [Dot & grid backgrounds](https://github.com/TheNaubit/tailwind-dot-grid-backgrounds) - Adds `bg-grid` and `bg-dot` classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.
+- 💼 [Leading Trim](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize](https://github.com/seek-oss/capsize).
+- 💼 [Scrollbar Hide](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
+- 💼 [px to viewport](https://github.com/the-lemonboy/tailwindcss-px-to-viewport) - Adds utilities to automatically convert px to vw / vh.
+- 💼🧩 [Fluid](https://github.com/barvian/fluid-tailwind) - Adds fluid `clamp()` versions of every built-in utility.
+- 🧩 [Debug screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Adds a component that shows the currently active screen (responsive breakpoint).
 
 <p align="center">
   <br />
