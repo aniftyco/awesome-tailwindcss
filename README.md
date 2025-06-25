@@ -109,6 +109,8 @@
 - 📁 [Astro Template Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 - 📁 [Astro Template Dante](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
 - 📁 [Statichunt](https://statichunt.com/tailwind-templates) - Open source directory of hand-picked free and premium Tailwind templates & starters.
+- 📁 [All UtilityCSS](https://allutilitycss.com) - Awesome directory of 100+ Tailwind templates, Blocks, Tools, Components and many more free and premium resources.
+
 
 ## Plugins
 
