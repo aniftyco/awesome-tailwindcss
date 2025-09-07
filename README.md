@@ -85,6 +85,7 @@
 - 💙📚 [Headless UI](https://headlessui.com/) - Completely unstyled, fully accessible UI components.
 - 💙📁 [Catalyst](https://tailwindcss.com/plus/ui-kit) - Beautiful, accessible application UI kit for React.
 - 🧩 [shadcn UI](https://ui.shadcn.com) - Re-usable components built using Radix UI and Tailwind CSS.
+- 🧩 [blocks.so](https://blocks.so) - Application blocks to copy and paste into your apps built for React.
 - 🧩 [Layouts for Tailwind](https://layoutsfortailwind.lalokalabs.dev) - Layouts and UI patterns for Tailwind CSS.
 - 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
 - 🧩 [Kometa UI Kit](https://kitwind.io/products/kometa/components) - Free multi-purpose UI kit, built with Tailwind CSS.
