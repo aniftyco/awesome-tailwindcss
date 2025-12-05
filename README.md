@@ -248,6 +248,7 @@
 - 📁 [Astro Template Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 - 📁 [Astro Template Dante](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
 - 📚🧩[Shadcn Studio](https://shadcnstudio.com/theme-editor) - Preview your theme changes across different components and layouts.
+- 📚[AllUtilityCSS](https://allutilitycss.com/) - Dive into the ultimate curated collection of TailwindCSS Templates, Components and Tools to fuel your next project.
 
 ## Starters & Themes
 
