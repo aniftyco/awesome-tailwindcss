@@ -117,6 +117,7 @@
 - 💙🧩 [Typography](https://github.com/tailwindlabs/tailwindcss-typography) - Adds a `prose` class for beautiful typographic defaults.
 - 💙 [Forms](https://github.com/tailwindlabs/tailwindcss-forms) - Adds better default styles to form elements.
 - 🎨 [Themer](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
+- 🎨 [Tailswatch](https://github.com/pegasusheavy/tailswatch) - Adds 43 ready-to-use themes for Tailwind CSS 4+, inspired by Bootswatch, Material Design, and programming languages.
 - 💼 [Bootstrap grid](https://github.com/karolis-sh/tailwind-bootstrap-grid) - Generates Bootstrap's style flexbox grid system.
 - 💼 [Dot & grid backgrounds](https://github.com/TheNaubit/tailwind-dot-grid-backgrounds) - Adds `bg-grid` and `bg-dot` classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.
 - 💼 [Leading Trim](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize](https://github.com/seek-oss/capsize).
