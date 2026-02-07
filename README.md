@@ -100,6 +100,7 @@
 - 📚 [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind CSS.
 - 📚 [Preline UI](https://preline.co) - Open-source Tailwind CSS components library for any needs.
 - 📚 [Date picker](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
+- 📚 [Frutjam](https://frutjam.com/) - Pure CSS, framework-agnostic Tailwind CSS library featuring lightweight, RTL-ready components, WCAG-compliant contrast, SEO-optimized markup, and customizable themes.
 - 📁 [Built at lightspeed](https://www.builtatlightspeed.com/) - Massive directory of 500+ Tailwind templates, starters and UI kits.
 - 📁 [Admin One Vue 3](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
 - 📁 [Admin One React](https://github.com/justboil/admin-one-react-tailwind) - Free React.js Tailwind CSS admin template with Next.js & TypeScript.
