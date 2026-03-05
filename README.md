@@ -76,7 +76,7 @@
 - 🌐 [Gimli Tailwind](https://chromewebstore.google.com/detail/gimli-tailwind/fojckembkmaoehhmkiomebhkcengcljl) - Smart tools for Tailwind CSS as a browser extension.
 - 🌐 [CSS Variables Editor](https://www.cssvariables.com) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
 - 🌐 [DivMagic](https://divmagic.com) - Copy any web element and style as Tailwind CSS component.
-
+- 🌍 [CiteMe](https://citeme.app) - AI-powered academic citation generator with 40+ styles, built with Tailwind CSS.
 ## UI libraries, components & templates
 
 **Legend**: 💙 Official resource · 📚 UI library · 🧩 Copy-pastable components · 📁 Full templates
