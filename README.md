@@ -108,6 +108,7 @@
 - 📁 [Astro Template Cactus](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 - 📁 [Astro Template Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 - 📁 [Astro Template Dante](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
+- 📁 [Kaiforge Lite](https://github.com/DevxiaLabs/kaiforge-lite) - Free Next.js admin dashboard template with dark mode and multiple color themes.
 
 ## Plugins
 
