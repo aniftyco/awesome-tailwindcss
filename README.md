@@ -109,6 +109,7 @@
 - 📁 [Astro Template Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 - 📁 [Astro Template Dante](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
 
+- ?? [DiggaByte Labs](https://diggabyte.com) - Production-ready SaaS boilerplate marketplace with Next.js 14, Stripe, PostgreSQL, and Tailwind CSS. Includes auth, payments, admin dashboard, API keys, 2FA, and rate limiting.
 ## Plugins
 
 **Legend**: 💙 Official plugin · 🎨 Theming · 💼 Utilities · 🧩 Components · 🛑 Deprecated
