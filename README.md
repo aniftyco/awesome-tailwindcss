@@ -103,11 +103,11 @@
 - 📁 [Built at lightspeed](https://www.builtatlightspeed.com/) - Massive directory of 500+ Tailwind templates, starters and UI kits.
 - 📁 [Admin One Vue 3](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
 - 📁 [Admin One React](https://github.com/justboil/admin-one-react-tailwind) - Free React.js Tailwind CSS admin template with Next.js & TypeScript.
+- 📁 [A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code) - Free, production-ready accessible starter kit with Next.js, Tailwind CSS 4, and shadcn/ui, featuring focus management, ARIA support, and WCAG 2.1 AA compliance.
 - 📁 [Flowbite Admin Dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
 - 📁 [Astro Template Resume](https://github.com/fortezhuo/fortezhuo.my.id) - Eye-catching resume template built with Astro, Tailwind CSS.
 - 📁 [Astro Template Cactus](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 - 📁 [Astro Template Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
-- 📁 [A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code) - Free, production-ready accessible starter kit with Next.js, Tailwind CSS 4, and shadcn/ui, featuring focus management, ARIA support, and WCAG 2.1 AA compliance.
 - 📁 [Astro Template Dante](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
 
 ## Plugins
