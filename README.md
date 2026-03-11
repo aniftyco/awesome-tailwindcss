@@ -95,6 +95,7 @@
 - 🧩 [8bitcn UI](https://8bitcn.com) - Re-usable retro components built using Shadcn UI and Tailwind CSS.
 - 🧩 [Xtend UI](https://github.com/xtendui/xtendui) - Tailwind CSS components with advanced interactions and animations.
 - 🧩 [Tremor](https://tremor.so) - React library to build charts and dashboards with Tailwind CSS.
+- 🧩 [Shadcn Space](https://shadcnspace.com/) - Craft modern UIs faster with our extraordinarily designed Shadcn UI components, blocks & templates.
 - 📚 [Daisy UI](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
 - 📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Component library built with Tailwind CSS.
 - 📚 [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind CSS.
@@ -108,6 +109,7 @@
 - 📁 [Astro Template Cactus](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 - 📁 [Astro Template Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 - 📁 [Astro Template Dante](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
+- 📁 [Tailwindadmin](https://tailwind-admin.com/) - Open-source admin dashboard template built with Tailwind CSS and React.
 
 ## Plugins
 
