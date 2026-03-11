@@ -107,6 +107,7 @@
 - 📁 [Astro Template Resume](https://github.com/fortezhuo/fortezhuo.my.id) - Eye-catching resume template built with Astro, Tailwind CSS.
 - 📁 [Astro Template Cactus](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 - 📁 [Astro Template Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
+- 📁 [A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code) - Free, production-ready accessible starter kit with Next.js, Tailwind CSS 4, and shadcn/ui, featuring focus management, ARIA support, and WCAG 2.1 AA compliance.
 - 📁 [Astro Template Dante](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
 
 ## Plugins
