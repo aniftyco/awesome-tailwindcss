@@ -67,6 +67,7 @@
 - 🎨🌍🔧 [Inclusive colors](https://www.inclusivecolors.com/) - Create fine-tuned WCAG accessible Tailwind CSS color palettes.
 - 🔼🌍 [Prefixer](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind classes' prefixer tool.
 - 🔼 [RustyWind](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
+- 🔼 [Tailwind to Inline styles converter](https://github.com/vardan-arm/tailwind-to-inline) - Converts Tailwind CSS classes to inline styles in email templates.
 - 🚀 [Maizzle](https://maizzle.com/) - Framework for rapid email prototyping with Tailwind CSS.
 - 💼 [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) - Tailwind CSS module for NuxtJS with PurgeCSS and modern CSS (preset env 1).
 - 💼 [tailwindcss-rails](https://github.com/rails/tailwindcss-rails) - Gem for using Tailwind CSS with Rails' asset pipeline.
