@@ -109,6 +109,7 @@
 - 📁 [Astro Template Cactus](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 - 📁 [Astro Template Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 - 📁 [Astro Template Dante](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
+- 📁 [LaunchKit](https://github.com/huangyongshan46-a11y/launchkit-saas) - AI-native SaaS starter kit with Next.js 16, Auth.js v5, Stripe, OpenAI, Prisma, and Tailwind CSS v4.
 
 ## Plugins
 
