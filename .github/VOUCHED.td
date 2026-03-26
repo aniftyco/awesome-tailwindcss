@@ -10,3 +10,4 @@
 innocenzi
 joshmanders
 -madhatter5501 enshittification with AI (https://github.com/aniftyco/awesome-tailwindcss/pull/617)
+-thegdsks
