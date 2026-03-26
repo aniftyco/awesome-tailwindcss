@@ -20,7 +20,7 @@ jobs:
        contains(github.event.comment.body, '/recheck'))
     steps:
       # Step 1: Auto-close denounced users
-      - uses: mitchellh/vouch/action/check-pr@main
+      - uses: mitchellh/vouch/action/check-pr@0933dfd284080cb4b76c05a1887c2104f5876fda # main
         id: denounced
         with:
           pr-number: ${{ github.event.pull_request.number || github.event.issue.number }}
@@ -30,7 +30,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # Step 2: Comment on non-vouched users (but don't close)
-      - uses: mitchellh/vouch/action/check-pr@main
+      - uses: mitchellh/vouch/action/check-pr@0933dfd284080cb4b76c05a1887c2104f5876fda # main
         if: steps.denounced.outputs.status != 'closed'
         with:
           pr-number: ${{ github.event.pull_request.number || github.event.issue.number }}
