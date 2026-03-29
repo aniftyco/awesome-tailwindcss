@@ -65,6 +65,7 @@
 - 🎨🌍🔧 [Tints](https://www.tints.dev/) - Color palette generator and API for Tailwind CSS.
 - 🎨🌍🔧 [Fullwind CSS](https://fullwindcss.com/) - Extend Tailwind CSS color palettes with additional shades.
 - 🎨🌍🔧 [Inclusive colors](https://www.inclusivecolors.com/) - Create fine-tuned WCAG accessible Tailwind CSS color palettes.
+- 🎨🌍 [DevTools Tailwind Colors](https://devtools.davrapps.dev/en/tailwind-colors) - Full Tailwind CSS color palette with live component previews, one-click copy, and search. 100% client-side.
 - 🔼🌍 [Prefixer](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind classes' prefixer tool.
 - 🔼 [RustyWind](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 - 🔼 [Tailwind to Inline styles converter](https://github.com/vardan-arm/tailwind-to-inline) - Converts Tailwind CSS classes to inline styles in email templates.
