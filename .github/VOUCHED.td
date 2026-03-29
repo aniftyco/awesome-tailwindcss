@@ -11,3 +11,4 @@ innocenzi
 joshmanders
 -madhatter5501 enshittification with AI (https://github.com/aniftyco/awesome-tailwindcss/pull/617)
 -thegdsks
+-Dave93 PR spam (https://github.com/aniftyco/awesome-tailwindcss/pull/636, https://github.com/aniftyco/awesome-tailwindcss/pull/635)
