@@ -109,6 +109,7 @@
 - 📁 [Astro Template Cactus](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 - 📁 [Astro Template Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 - 📁 [Astro Template Dante](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
+- 📁 [TemplateClaw](https://github.com/jeromwolf/templateclaw) - 32 Tailwind CSS templates as Claude Code skills — landing pages, dashboards, and UI components with glassmorphism, gradient animations, and dark mode. CDN-based, no build step.
 
 ## Plugins
 
