@@ -78,6 +78,7 @@
 - 🌐 [CSS Variables Editor](https://www.cssvariables.com) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
 - 🌐 [DivMagic](https://divmagic.com) - Copy any web element and style as Tailwind CSS component.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Tailwind CSS development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 ## UI libraries, components & templates
 
 **Legend**: 💙 Official resource · 📚 UI library · 🧩 Copy-pastable components · 📁 Full templates
