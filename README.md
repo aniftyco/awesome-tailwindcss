@@ -77,6 +77,7 @@
 - 🌐 [Gimli Tailwind](https://chromewebstore.google.com/detail/gimli-tailwind/fojckembkmaoehhmkiomebhkcengcljl) - Smart tools for Tailwind CSS as a browser extension.
 - 🌐 [CSS Variables Editor](https://www.cssvariables.com) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
 - 🌐 [DivMagic](https://divmagic.com) - Copy any web element and style as Tailwind CSS component.
+- 🅰 [Deslint](https://github.com/jaydrao215/deslint) - Enforces design-system discipline in Tailwind CSS by flagging arbitrary colors, spacing, typography, and z-index values across React, Vue, Svelte, Angular, and plain HTML — with auto-fix and a WCAG 2.2 accessibility rule set.
 
 ## UI libraries, components & templates
 
