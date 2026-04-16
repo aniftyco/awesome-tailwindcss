@@ -77,6 +77,7 @@
 - 🌐 [Gimli Tailwind](https://chromewebstore.google.com/detail/gimli-tailwind/fojckembkmaoehhmkiomebhkcengcljl) - Smart tools for Tailwind CSS as a browser extension.
 - 🌐 [CSS Variables Editor](https://www.cssvariables.com) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
 - 🌐 [DivMagic](https://divmagic.com) - Copy any web element and style as Tailwind CSS component.
+- 🌍 [Base-2 Rounding](https://objectivelyround.dev) - Spacing and sizing value picker for Tailwind CSS v4’s bracketless arbitrary values.
 
 ## UI libraries, components & templates
 
