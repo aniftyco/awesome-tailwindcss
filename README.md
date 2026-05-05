@@ -110,6 +110,7 @@
 - 📁 [Astro Template Cactus](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 - 📁 [Astro Template Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 - 📁 [Astro Template Dante](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
+- 📁 [Shipkit](https://shipkit.io) - Full-stack Next.js 15 SaaS boilerplate with Tailwind CSS, 100+ shadcn/ui components, auth, payments, and CMS. [Free OSS tier](https://github.com/shipkit-io/bones).
 
 ## Plugins
 
