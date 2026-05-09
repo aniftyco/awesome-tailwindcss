@@ -110,6 +110,7 @@
 - 📁 [Astro Template Cactus](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 - 📁 [Astro Template Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 - 📁 [Astro Template Dante](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
+- 📁 [Next.js Portfolio Template](https://github.com/isaacnewton123/portfolio-template-1) - Modern, responsive personal portfolio built with Next.js 16 and Tailwind CSS v4.
 
 ## Plugins
 
