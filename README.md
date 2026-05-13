@@ -97,7 +97,7 @@
 - 🧩 [8bitcn UI](https://8bitcn.com) - Re-usable retro components built using Shadcn UI and Tailwind CSS.
 - 🧩 [Xtend UI](https://github.com/xtendui/xtendui) - Tailwind CSS components with advanced interactions and animations.
 - 🧩 [Tremor](https://tremor.so) - React library to build charts and dashboards with Tailwind CSS.
-- 🧩 [OTF UI](https://otf-kit.dev/components) - Cross-platform shadcn-CLI-compatible components for Next.js (Tailwind CSS v4 + Radix) and Expo (Tamagui) from one parity API.
+- 📚 [OTF UI](https://otf-kit.dev/components) - Cross-platform component library for Next.js (Tailwind CSS v4 + Radix) and Expo (Tamagui) from one parity API.
 - 📚 [Daisy UI](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
 - 📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Component library built with Tailwind CSS.
 - 📚 [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind CSS.
