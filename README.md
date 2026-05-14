@@ -116,6 +116,7 @@
 **Legend**: 💙 Official plugin · 🎨 Theming · 💼 Utilities · 🧩 Components · 🛑 Deprecated
 
 - 💙🧩 [Typography](https://github.com/tailwindlabs/tailwindcss-typography) - Adds a `prose` class for beautiful typographic defaults.
+- [@tailwindcss/typography](https://tailwindcss.com/docs/typography-plugin) - Beautiful typographic defaults for prose content.
 - 💙 [Forms](https://github.com/tailwindlabs/tailwindcss-forms) - Adds better default styles to form elements.
 - 🎨 [Themer](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
 - 💼 [Bootstrap grid](https://github.com/karolis-sh/tailwind-bootstrap-grid) - Generates Bootstrap's style flexbox grid system.
