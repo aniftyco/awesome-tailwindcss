@@ -10,7 +10,7 @@
 <h2 align="center">Awesome Tailwind CSS</h2>
 
 <p align="center">
-  <a href="https://tailwindcss.com">Tailwind CSS</a> is a utility-first CSS framework for rapidly building custom user interfaces.
+  <a href="https://tailwindcss.com">Tailwind CSS</a> A powerful, utility-first CSS framework engineered for the rapid development of bespoke, high-performance user interfaces.
   <br>
   <br>
   <a href="https://github.com/sindresorhus/awesome">
