@@ -62,6 +62,7 @@
 - 🎨🌍🔧 [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades) - Color shades generator for Tailwind CSS.
 - 🎨🌍🔧 [TailwindInk](https://tailwind.ink/) - AI palette generator, trained with the Tailwind CSS palette.
 - 🎨🌍🔧 [Hypercolor](https://hypercolor.dev/) - Collection of Tailwind CSS gradients with directional options.
+- 🎨🌍🔧 [TailMotion](https://tyr1105.github.io/tailmotion/) - 150+ production-ready CSS animations with Tailwind classes.
 - 🎨🌍🔧 [Tints](https://www.tints.dev/) - Color palette generator and API for Tailwind CSS.
 - 🎨🌍🔧 [Fullwind CSS](https://fullwindcss.com/) - Extend Tailwind CSS color palettes with additional shades.
 - 🎨🌍🔧 [Inclusive colors](https://www.inclusivecolors.com/) - Create fine-tuned WCAG accessible Tailwind CSS color palettes.
