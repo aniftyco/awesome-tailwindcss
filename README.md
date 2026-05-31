@@ -93,6 +93,7 @@
 - 🧩 [HyperUI](https://hyperui.dev) - Open source marketing and ecommerce Tailwind CSS components.
 - 🧩 [Ripple UI](https://www.ripple-ui.com) - Clean, modern and beautiful Tailwind CSS components.
 - 🧩 [Pines UI](https://devdojo.com/pines) - Alpine and Tailwind CSS UI library.
+- 🧩 [TailSections](https://tyr1105.github.io/tailsections/) - 40+ beautifully crafted, copy-paste ready landing page sections with dark mode support.
 - 🧩 [Kokonut UI](https://kokonutui.com/) - Collection of modern, interactive customizable UI components.
 - 🧩 [8bitcn UI](https://8bitcn.com) - Re-usable retro components built using Shadcn UI and Tailwind CSS.
 - 🧩 [Xtend UI](https://github.com/xtendui/xtendui) - Tailwind CSS components with advanced interactions and animations.
