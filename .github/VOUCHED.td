@@ -13,3 +13,4 @@ joshmanders
 -thegdsks
 -Dave93 PR spam (https://github.com/aniftyco/awesome-tailwindcss/pull/636, https://github.com/aniftyco/awesome-tailwindcss/pull/635)
 -prasannamestha Rewrote entire README to sneak in previously rejected product (https://github.com/aniftyco/awesome-tailwindcss/pull/649, https://github.com/aniftyco/awesome-tailwindcss/pull/585)
+-tyr1105 PR spam with AI, ignores guidelines (https://github.com/aniftyco/awesome-tailwindcss/pull/667, https://github.com/aniftyco/awesome-tailwindcss/pull/668)
