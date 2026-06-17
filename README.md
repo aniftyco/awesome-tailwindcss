@@ -79,6 +79,7 @@
 - 🌐 [Gimli Tailwind](https://chromewebstore.google.com/detail/gimli-tailwind/fojckembkmaoehhmkiomebhkcengcljl) - Smart tools for Tailwind CSS as a browser extension.
 - 🌐 [CSS Variables Editor](https://www.cssvariables.com) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
 - 🌐 [DivMagic](https://divmagic.com) - Copy any web element and style as Tailwind CSS component.
+- 🌐🔼 [MimicKit](https://chromewebstore.google.com/detail/css-inspector-color-picker-mimickit/kldhcddihbomflemcbheohobekdjhlmn) - Chrome extension that converts any element's CSS to Tailwind utility classes, with state variants and arbitrary values, plus a Tailwind config generator from any URL.
 
 ## UI libraries, components & templates
 
