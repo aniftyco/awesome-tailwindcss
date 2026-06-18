@@ -120,6 +120,7 @@
 - 💙 [Forms](https://github.com/tailwindlabs/tailwindcss-forms) - Adds better default styles to form elements.
 - 🎨 [Themer](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
 - 💼 [Bootstrap grid](https://github.com/karolis-sh/tailwind-bootstrap-grid) - Generates Bootstrap's style flexbox grid system.
+- 💼 [bleedblend](https://github.com/CVERInc/bleedblend) - Tailwind CSS plugin and utility classes for Safari chrome and overscroll tinting across iPhone, iPad, and Mac.
 - 💼 [Dot & grid backgrounds](https://github.com/TheNaubit/tailwind-dot-grid-backgrounds) - Adds `bg-grid` and `bg-dot` classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.
 - 💼 [Leading Trim](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize](https://github.com/seek-oss/capsize).
 - 💼 [Scrollbar Hide](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
