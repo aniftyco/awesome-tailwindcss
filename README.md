@@ -111,6 +111,7 @@
 - 📁 [Astro Template Cactus](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 - 📁 [Astro Template Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 - 📁 [Astro Template Dante](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
+- 📚 [AdaptTable](https://orwa-mahmoud.github.io/adapttable/) - Headless React data table with an unstyled Tailwind adapter and a shadcn preset - URL-synced state, filters, virtualization.
 
 ## Plugins
 
