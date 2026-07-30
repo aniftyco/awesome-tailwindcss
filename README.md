@@ -87,6 +87,7 @@
 - 💙🧩 [Tailwind UI](https://tailwindcss.com/plus/ui-blocks/marketing) - Component library made with Tailwind CSS.
 - 💙📚 [Headless UI](https://headlessui.com/) - Completely unstyled, fully accessible UI components.
 - 💙📁 [Catalyst](https://tailwindcss.com/plus/ui-kit) - Beautiful, accessible application UI kit for React.
+- 📁 [Pixel & Oak Templates](https://pixelandoak.com/#templates) - Six free MIT-licensed Next.js 15 templates built with Tailwind v4 — blog, SaaS landing, restaurant, photography portfolio, startup, and admin dashboard. Static export, real dark mode, and zero image dependencies.
 - 🧩 [shadcn UI](https://ui.shadcn.com) - Re-usable components built using Radix UI and Tailwind CSS.
 - 🧩 [Layouts for Tailwind](https://layoutsfortailwind.lalokalabs.dev) - Layouts and UI patterns for Tailwind CSS.
 - 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
