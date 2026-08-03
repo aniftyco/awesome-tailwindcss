@@ -87,6 +87,7 @@
 - 💙🧩 [Tailwind UI](https://tailwindcss.com/plus/ui-blocks/marketing) - Component library made with Tailwind CSS.
 - 💙📚 [Headless UI](https://headlessui.com/) - Completely unstyled, fully accessible UI components.
 - 💙📁 [Catalyst](https://tailwindcss.com/plus/ui-kit) - Beautiful, accessible application UI kit for React.
+- 📁📚 [Aura UI](https://www.aura-ui.com) - Blade component library for Laravel 12/13 and Livewire, 64 MIT-licensed components including date picker, file upload, autocomplete, charts and a rich text editor
 - 🧩 [shadcn UI](https://ui.shadcn.com) - Re-usable components built using Radix UI and Tailwind CSS.
 - 🧩 [Layouts for Tailwind](https://layoutsfortailwind.lalokalabs.dev) - Layouts and UI patterns for Tailwind CSS.
 - 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
