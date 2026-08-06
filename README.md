@@ -109,6 +109,7 @@
 - 📁 [Astro Template Cactus](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 - 📁 [Astro Template Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) - Tailwind CSS & Astro blog template.
 - 📁 [Astro Template Dante](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
+- 📁 [SCALA Sites](https://github.com/Alessandro114/scala-sites) - Open source vertical website templates for 6 industries (restaurant, real estate, salon, gym, hotel, studio) with CSS variable theming. Next.js 14 + TypeScript.
 
 ## Plugins
 
