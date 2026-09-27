@@ -88,6 +88,7 @@
 - 💙📚 [Headless UI](https://headlessui.com/) - Completely unstyled, fully accessible UI components.
 - 💙📁 [Catalyst](https://tailwindcss.com/plus/ui-kit) - Beautiful, accessible application UI kit for React.
 - 🧩 [shadcn UI](https://ui.shadcn.com) - Re-usable components built using Radix UI and Tailwind CSS.
+- 🧩 [Ply UI](https://ply-ui.com) - Copy-in Angular + Tailwind CSS components (`npx ply-ui-cli add`). Same distribution idea as shadcn/ui, for Angular.
 - 🧩 [Layouts for Tailwind](https://layoutsfortailwind.lalokalabs.dev) - Layouts and UI patterns for Tailwind CSS.
 - 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
 - 🧩 [HyperUI](https://hyperui.dev) - Open source marketing and ecommerce Tailwind CSS components.
