@@ -53,6 +53,7 @@
 - [LSP support for Emacs](https://github.com/merrickluo/lsp-tailwindcss) - Provides IntelliSense in Emacs.
 - [Editor support for VS2022](https://github.com/theron-wang/VS2022-Editor-Support-for-Tailwind-CSS) - IntelliSense, linting, sorting, and more in Visual Studio 2022.
 
+[Design Context — DESIGN.md & Tailwind v4 Extractor](https://chromewebstore.google.com/detail/jbbjcejgmbplhdpmjcoaipahlnfeigdl) - Extract instant DESIGN.md specs, Tailwind v4 @theme, and design tokens from any website for Cursor and Claude Code.
 ## Tools
 
 **Legend**: 🌍 Accessible online · 🌐 Browser extension · 🔼 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services · 🎨 Color-related · 🚀 Framework
