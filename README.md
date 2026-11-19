@@ -101,6 +101,7 @@
 - 🧩 [Xtend UI](https://github.com/xtendui/xtendui) - Tailwind CSS components with advanced interactions and animations.
 - 🧩 [Tremor](https://tremor.so) - React library to build charts and dashboards with Tailwind CSS.
 - 🧩 [Radian UI](https://radianui.com) - Accessible, customizable React components built with Tailwind CSS, with a CLI.
+- 🧩 [cloudcn](https://cloudcn.pages.dev) - Copy-paste React components with realistic 3D clouds, built with Tailwind CSS and installed with the shadcn CLI.
 - 📚 [Daisy UI](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
 - 📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Component library built with Tailwind CSS.
 - 📚 [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind CSS.
