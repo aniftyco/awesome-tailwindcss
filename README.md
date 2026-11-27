@@ -69,6 +69,7 @@
 - 🎨🌍🔧 [GradientDeck](https://gradientdeck.com) - Generators for Tailwind CSS gradients, palettes, shadows, glass effects, patterns & more.
 - 🌍🔧 [Base-2 Rounding](https://objectivelyround.dev) - Spacing and sizing value picker for Tailwind CSS v4's bracketless arbitrary values.
 - 🌍🔧 [tailwind-dictionary](https://github.com/prosazhin/tailwind-dictionary) - Tailwind CSS theme generator from design tokens.
+- 🌍🔧 [DevOmniTools](https://www.devomnitools.com) - Online developer suite featuring CSS flexbox playground, color shades, and utilities built with Tailwind CSS.
 - 🔼🌍 [Prefixer](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind classes' prefixer tool.
 - 🔼 [RustyWind](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 - 🔼 [Tailwind to Inline styles converter](https://github.com/vardan-arm/tailwind-to-inline) - Converts Tailwind CSS classes to inline styles in email templates.
